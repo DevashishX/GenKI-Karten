@@ -1,0 +1,120 @@
+#separator:tab
+#html:true
+#guid column:1
+#tags column:4
+A}]ET(;IWe	wahrend	while		
+MXDB-rT+7%	sodass	so that	DEVASHISH	
+Nn]G3Y}4ea	dennoch	nevertheless	DEVASHISH	
+w7j/t)b-,$	trotzdem	despite that	GAIKWAD	
+Et5Rcx.Vpi	sowohl...als auch	both...and&nbsp;	GAIKWAD	
+Hn.pmNrQXY	entweder..oder	either...or		
+snYF)/kHJW	weder...noch	neither..nor		
+r$q-;wgX7S	vorausgesetzt dass	provided that		
+Cx7DGJ6?Fk	nachdem	after		
+mg)8AT|vuG	Verantwortung	responsibilty		
+J7=-112w_d	verpflichtung	obligation		
+kKKJJ6$L0:	Zweifel	doubt		
+eBC.dlh&JQ	Entscheidung	decision		
+"c|m8X*WdL#"	Erfahrung	experience		
+G6E;{tj)}k	Entscheidung	decision		
+sMoEeho~AF	Herausforderung	challenge		
+M)>j>X,)UB	Einfluss	Influence		
+F/NewRA]ai	Bedeutung	meaning, significance		
+"ka}8p#R80I"	bekommen	recieve		
+j>^XIlf/fh	werden	become		
+"K23Pi:#,{A"	Verlieren	lose		
+bRVR8%)]5D	Errinern	remember		
+nx/jzQJ?6T	Bedeuten	mean		
+zem]hSn3OK	ins Auge fassen	consider		
+p51$e~<S=i	auf dem Laufenden sein	up to date		
+I^<=d-LaZD	etwas auf die leichte Schulter nehmen	to take something lightly		
+lz.-@+,fpA	die Daumen drucken	to keep one's fingers crossed		
+Bx9zX,E1RR	etwas in Kauf nehmen	to accept something		
+IC/_giUR^Y	kein Blatt vor den Mund nehmen	to speak one's mind		
+grina9EBKi	mit dem linken Fuss aufstehen	to get up on the wrong side of the bed		
+IM/WPbsQ<g	ausgezeichnet	excellent		
+QVX1fvg5<d	herausragend	outstanding		
+BYG;iY<zhK	anspruchsvoll	demanding		
+"De^LrW17#g"	verlasslich	reliable		
+hv/UhmfE@Y	ehrgeizig	ambitious		
+x?K_<dzl4p	einfuhlsam	empathetic		
+tB988g5}N$	grundlich	thorough		
+wW2;z@k,Q4	nachhaltig	sustainable&nbsp;		
+"K_X_9#R-9S"	unverzichtbar	indispensable		
+DV)7<?Vz~Y	widerspruchlich	contradictory		
+us@?:lq8/Y	Klimanwandel	climate change		
+Mrgl_j)Uut	Umweltschutz	environmental protection		
+zIX4?ZO]JT	erneuerbare	renewable		
+J!Z-oHG$f4	Abfallentorgung	waste disposal		
+w_Hfo$1Jt!	Luftverschmutzung	air pollution		
+kfa-p1GNI]	nachhaltige Entwicklung	sustainable development		
+K$O*uBI58(	Treibhausgas	greenhouse gas		
+Cm1lMl=i_?	Okbilanz	ecological balance		
+xZsL,l_]j_	soziale Netzwerke	social networks		
+Nk0]Qruf]^	Datenschutz	data protection		
+eBv-aD`(y:	Cybermobbing	cyberbullying		
+g-|((WDMfw	kunstliche intelligenz	artificial intelligence		
+iOl1Xs;O<f	digitale Medien	digital media		
+AbA}iY4y7~	Online-Plattform	online platform		
+f~C]cLLpk$	Benutzerfreundlichkeit	user-friendliness		
+QHjGs4(Px^	Sicherheitslucke	security gap&nbsp;		
+P}P3XDvCYl	Datenverschlusselung	data encryption		
+DAC_;5^$ET	Passwortschutz	password protection		
+vJos]rj1M&	Berufsausbildung	vocational trianing		
+qc!dzCALd%	Schulleitung	school management		
+qUAqCUb<xD	Schulordnung	school rules		
+kw,[MBSruL	Hausaufgabenbetreuung	homework supervision		
+Hqv+=yKnA0	die Sehnsucht	longing, yearning		
+w3d[/O%7R[	die Verzweiflung	despair		
+J,K7v!G/7P	der Zwiespalt	inner conflict		
+lG4b0j[y!M	die Erkenntnis	realisation, insight		
+B*LV%w1l]4	die Entbehrung	deprivation		
+Gqkir9~(gH	die Zuneigung	affection		
+xYnntO=V~d	die Abneigung	aversion		
+Jbgc)c=B(=	die Gewissensbisse	pangs of conscience		
+I*>gX!-Z(*	die Reue	remorse		
+vB,W29X&8a	die Vergebung	forgiveness		
+r,B=Vmar[?	die Verlockung	temptation		
+HEkHC;RPrl	die Enttauschung	disappointment		
+y;ZRf@tLvs	die Verachtung	contempt		
+kgQOd<Ia`h	die Bewunderung&nbsp;	admiration		
+ze!ny:@nk7	die Gleichgultigkeit	indifference		
+l$tKiRz<h-	die Hingabe	devotion		
+b%+00G{7/[	die Verzweiflungstat	act of desperation		
+d|(ny<N99{	die Selbstaufopferung	self-sacrifice		
+nM_oXh-aHp	die Lebensluge	delusion, self-depecption		
+y-9euI0-S9	die Schicksalswende	twist of fate		
+G(B,z1lD*5	standig	constant		
+B_YhC/LcT?	angefangen	begun		
+"rUKJLg+#pY"	sass(B)	sat		
+eX@b}=&|jO	Ich weiss noch genau	i still know exactly...		
+Gv*u~s]H9C	darauf gewartet	waited for it		
+qJ>;^_-Vto	auBerdem	aside from that		
+kP)bBceYx.	irgendwie	somehow		
+sDY!+d^m;$	geahnt	suspected		
+E-_%<Y$o%&	Ergebnisse	Results		
+H1m/P*3Z--	anders	different		
+Eb$Ox5bOyO	abzulegen	to put down		
+"M#hd7&G?ij"	ausgezeichnete	excellent		
+e4/9^c&ZV6	abzulegen	to put down		
+gp|dJtx[++	sicher	secure		
+"J3joN#U0rq"	billiger	cheaper		
+B_2_e_eK3W	Fahigkeiten	skills		
+ewH(uk7Ba1	gesammelt	collected		
+oddG[H^[R8	am meisten	mostly		
+WVVHx)B5w	gefuhlt	felt		
+E0,ex2:GHB	derselben	the same		
+k.11[-jv>p	aufgepasst	watch out		
+L?wi/;d<g`	durfte	was allowed		
+eYVk/UVy>N	angefangen	begun		
+JQp;sXF7dR	ziehen	pull		
+P(n/zSeP=a	Volksmusik	Folk music		
+IhndxFcH{|	meinten	meant		
+"II{#c0ZLtX"	bezahlten	paid		
+iU>!=.@tis	ehemaligen	former		
+OiX+4SW-Eq	gerargert	annoyed		
+M(]dqkJA!t	beruhmte	famous		
+A=Zh(}LE:*	Erfolg	success		
+j8Bp(_dT}O	Gewohnheiten	habits		
+B54>9%=@]6	preiswerte	inexpensive&nbsp;		
+fnYawJLIUW	vorschlagen	suggest		
