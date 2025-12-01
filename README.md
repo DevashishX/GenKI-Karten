@@ -8,3 +8,5 @@ Erweitere deine Anki-Flashkarten mit KI-generierten Erklärungen
 4. localhost oder gehostete LLM
 5. LLM API+Prompts
 6. tests
+
+Entwicklung WIP
