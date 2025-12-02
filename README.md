@@ -9,4 +9,4 @@ Erweitere deine Anki-Flashkarten mit KI-generierten Erklärungen
 5. LLM API+Prompts
 6. tests
 
-Entwicklung WIP
+Entwicklung in Progress 
