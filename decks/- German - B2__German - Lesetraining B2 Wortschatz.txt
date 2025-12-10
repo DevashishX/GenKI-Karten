@@ -1,0 +1,1546 @@
+#separator:tab
+#html:true
+#guid column:1
+#tags column:6
+"u%#/(Av]#t"	geforderten	required		y	y	
+o&0P<(SpX)	jeweils	each		y	y	
+vxWZn;1n8O	jeweilig	respective; particular		y	y	
+h(ApwI/j_X	(auf etwas) absuchen	to search/scan (for something)		y	y	
+rANIT@F`q5	den Horizont absuchen	to search the horizon		y	y	
+r{h@q`M7mV	gefordert	required		y	y	
+obM5>-N2Ym	fordern (hat gefordert), verlangen (hat verlangt)	demand, require, ask (2 words)		y	y	
+g,70RhpH[;	anfordern	request; demand; requisition		y	y	
+lI3EXX|-ys	sich auf etwas beziehen	to refer/relate to something		y	y	
+o)xjr1$d3~	beziehen	to get; to buy; to move in(to)		y	y	
+h||uQul;uo	eintragen	register; record; enter (name to a list, etc)		y	y	
+k+e90mMk~C	entsprechenden	corresponding; relevant		y	y	
+rv0oLbNeHm	(einer Sache) entsprechen	to correspond (to a thing)	takes dative argument	y	y	
+d=eHL]i^.%	auslassen	to skip; to miss	acc. - Sie dürfen jedoch keine Frage auslassen = But you cannot skip a question	y	y	
+sG/TH>_67N	Gleichaltriger	same-aged; of the same age		y	y	
+jXXhrUbKU3	Sein und das Leben anderer Behinderter unterscheidet sich deutlich von dem Gleichaltriger ohne Handicap.	His life and the lives of other disabled people is completely different from the lives led by people of his age who are not disabled.		y	y	
+r`E<sA<<0r	Zwischenmenschliche	interpersonal; people-to-people; between people		y	y	
+"f|&u##X9*}"	zwischenmenschliche Beziehungen	interpersonal relationships		y	y	
+qfK!-sa0^C	Lupe	magnifier		y	y	
+g.LS~S7,>3	unter der Lupe	under scrutiny; scrutinized; in the spotlight		y	y	
+mc4B=q`F2/	unter die Lupe nehmen	examine carefully; scrutinize		y	y	
+u@A&$jEn?o	weder A noch B	neither A nor B		y	y	
+h6=V22p&se	Beide hätten weder den Mut noch die Kraft, die Probleme des Landes anzupacken.	Neither side had the courage or the strength to tackle the country's problems.		y	y	
+ps>,6M]}Jw	die Gesellschaft	the society; the company; the association		y	y	
+clnh0(!_@P	ungeschönt	unadorned; without euphamism; uncompromising; realistic; unembellished		y	y	
+K=X)6ULH3	das Schicksal	fate; destiny		y	y	
+mHPKKB8q1q	mit arger List	by arrant cunning	poetic translation	y	y	
+sND2/A,Mk{	zusammenbrechen	to collapse, to crash		y	y	
+cyqv?QnM@5	Der Zweck dieser Stress-Tests ist es, das System zusammenbrechen zu lassen.	The purpose of this stress test is to crash the system.		y	y	
+c,E%i6iF9^	merkwürdig	strange; odd		y	y	
+k+RKQU<n+I	sich einschalten	to intervene, to step in		y	y	
+m7aif`,M(6	einschalten	switch on; tune in		y	y	
+u?ET|:p%u.	der Rektor	the vice-chancellor	head of a university	y	y	
+"p#b1n^S_d^"	sich bemühen	to endeavour; to try		y	y	
+l8XlvKWBP-	die Aufklärung	the information; the enlightenment		y	y	
+l:uWCl?JWe	stößen auf	to encounter; to come across		y	y	
+3qp(ywh{Z	winken	to wave; to beckon		y	y	
+qux)ssJm!p	der Handlungsantrieb	the action-drive; the motivation		y	y	
+f|GCJE9!-4	nahezu	almost; nearly		y	y	
+"bem-l#n)xK"	der Menschenfresser	the man-eater; the cannibal		y	y	
+"muLGSN4#i~"	sich bedienen	to help oneself		y	y	
+oNP|.v4g{*	die Darstellungsform	the format; the form		y	y	
+dRUA|a&JR?	die Versagensangst	the fear of failure		y	y	
+"t#oG*kL6BM"	seelisch	mental; psychological; emotional		y	y	
+iH$z>Le~a2	das Gleichgewicht	balance; equilibrium; poise		y	y	
+o;j5ZHdt$R	seelisches Gleichgewicht	inner harmony; mental equilibrium		y	y	
+p`eTcal5<Q	(durch etwas oder Dativ/&quot;in&quot; Dativ) entstehen	arise/result (from something/in something)		y	y	
+cfwmS}}=xw	jubeln	to cheer; to celebrate		y	y	
+ktO3<Gt=3@	einst	once; at one time		y	y	
+nZqdu_(bF.	besessen	owned; obsessed	er hat besessen = he had owned; besessen von = obsessed with	y	y	
+iYr[0>SHX4	besitzen	to own		y	y	
+nGmy.a<&+)	bevorstehenden	impending		y	y	
+cC%q*PbG*>	bevorstehen	to be forthcoming; to be imminent; to lie ahead		y	y	
+sb&[d;S(QD	umkippen	to faint; to roll over; to fall over; to knock over (transitive)		y	y	
+fH41b)y,1!	die Probe	the test; the rehearsal		y	y	
+kAxrOoP:/(	sich herausstellen	to turn out; to transpire		y	y	
+o*;cK8!X0^	ausbrechen	to break out; to erupt; to escape		y	y	
+tRes/fXgVJ	heftig	intense; fierce; violent; vehement		y	y	
+fPT0zh$<d_	Spannung	tension; excitement; (elektrische) voltage 		y	y	
+p0`q+%Cua8	durchmachen	to go through; to undergo; to experience		y	y	
+l0%db_:JBa	untereinander	among themselves; among each other		y	y	
+vjAWz3-sSj	die Vorstellung	the idea; the presentation; the show		y	y	
+dX78i;A3:V	durcheinandergeraten	to get mixed up; got mixed up	die galaktische Geschichte ist ein bißchen durcheinandergeraten = the history of the Galaxy has got a little muddled (Hitchhiker's Guide to the Galaxy quote<br>)	y	y	
+"be#/nYE>L0"	(jemanden von/zu etwas) überzeugen	to convince (someone of something);&nbsp;&nbsp;to be convincing		y	y	
+"oF]vk!Y#nl"	der Laden	the shop; the store		y	y	
+kBq?xw|h<p	betreten	to enter; to access		y	y	
+t`*y%eh!6+	außergewöhnlich	exceptional; extraordinary; extremely		y	y	
+r;Eo{`Cky	der Sinn	sense; meaning; mind		y	y	
+vURioCoccG	schmerzhaft	painful		y	y	
+i8i!,kn7j^	enttäuschen	to disappoint; to be disappointing; to let down; to frustrate		y	y	
+f|%*jRGh:R	die Fresse	the face		y	y	
+ixJI$G~*|3	sich umbringen	to kill oneself; to commit suicide	bringen: er bringt; er brachte; er hat gebracht	y	y	
+l`aZ>*i}LQ	die Ermittlung	determination; investigation; establishment		y	y	
+g;|-6r`IKw	einsetzen	to apply; to employ; to insert		y	y	
+"drhKVJ#O~h"	fördern, werben für, vorantreiben	to promote; support; encourage (3 words)		y	y	
+t.~xTB]!z{	in Vergessenheit geraten	be forgotten		y	y	
+gRfSy(_sOP	die Lügen (plural)	lies		y	y	
+tH{h)[9<rC	lügen	to tell a lie		y	y	
+gs-b>5}U@q	die Erpressung	blackmail; extortion		y	y	
+"j}fOzR#pSg"	der Diebstahl	theft		y	y	
+b8JSZ^Rj@C	unerträglich	unbearable; intolerable		y	y	
+fBCb%.uvQL	das Mobbing	bullying		y	y	
+^Be7+vx9_	der Einkaufsbummel	the shopping spree		y	y	
+qJ$npy`8OI	die Verfolgungsjagd	the chase; the pursuit		y	y	
+bl88Nqtzw]	der Fundort	location; habitat		y	y	
+he7si@L-C2	die Tätigkeit	the activity; the job; the work		y	y	
+d96j57Gs.i	die Todesursache	the cause of death		y	y	
+mHH`&c3|(l	die Ausrüstung	equipment; gear		y	y	
+f:x>[snOm_	wie kommen Sie dazu?	how dare you?		y	y	
+gF(@z81;eR	wie kam es dazu?	how did it happen? how did it come about?		y	y	
+rXG}c:,fp`	einschließen	to enclose; to surround; to include		y	y	
+fa$^:qAaJ&	(ein)frieren (friert, fror, hat gefroren)	to freeze	es fror ein = it froze	y	y	
+c*clwZaO-d	untersuchen	to examine; to investigate		y	y	
+rb.nF+Hv*)	feststellen	to find; to discover		y	y	
+vA6APB*/<_	das Kupfer	copper		y	y	
+fImRL{Hr6J	der Hirt	the shepherd; the herder; herdsman		y	y	
+t=nU66Mi1O	vermuten, ahnen	to assume; to suspect (2 words)		y	y	
+j`qb;nyxb:	vermutlich	probable; likely; presumably		y	y	
+piG>&L]^fg	der Wetterumschwung	the sudden change in the weather		y	y	
+tbmVDD%a]u	erfroren	frozen (to death)	erfror = froze to death	y	y	
+u=skh-BgM)	Ich erinnere an den vergangenen Winter, in dem zahlreiche Menschen erfroren sind.	I remember last winter, when numerous people froze to death.		y	y	
+nv$$28[zkC	ausrüsten	to equip		y	y	
+k]<=N7Sc&]	tragen	to wear; to carry		y	y	
+e9_!qiA=d0	die Fellmütze	the fur hat		y	y	
+ca-)!X*iXj	das Tierfell	the animal skin; animal fur	die Tierfellen = animal skins	y	y	
+rm$?:X<o{^	der Gürtel	the belt	die Gürtel = belts	y	y	
+e!a`m45lLC	die Gürteltasche	belt bag; bum bag		y	y	
+vx6I{8_otH	das Feuerzeug	the lighter	Feuerzeuge = lighters	y	y	
+ggP]}wsH3}	der Dolch	the dagger	die Dolche = daggers	y	y	
+b[gT]O5/3_	der Proviant	the provision/provisions; supplies		y	y	
+"sVsdbLc8#5"	die Axt	the axe		y	y	
+fck@po}:fN	die Tätowierung	the tattoo		y	y	
+ok*U{o0=(s	tätowieren	to tattoo	er tätowiert; er tätowierte; er hat tätowiert	y	y	
+bOJ-V5gLJ7	herausfinden	to detect; to find; to figure out		y	y	
+bP~HDX6_6Z	knapp neben	not far from; nearby		y	y	
+"jD.ig[{#(."	annehmen	accept; take; assume	annehmen = vermuten	y	y	
+u/E>sV2MSo	der Nadelstich	the pinprick	die Nadelstiche = pinpricks	y	y	
+kT}${yQAEj	das Leiden	pain; sorrow; disease		y	y	
+bf1H4774uh	nachweisen	to prove; to establish		y	y	
+d-Y[^o&YLj	weisen	to point; to indicate	er weist; er wies; er hat gewiesen	y	y	
+dpw4:dQKU*	die Technik	the technology		y	y	
+pp[y%){3}$	die Heiltechnik	the healing technique	mainly for alternative medicine?	y	y	
+dNs:_VE?9u	die Folgen	the consequences; the effects; the episodes		y	y	
+"s#ebXvADo^"	die Äußerung	the statement; the expression; the utterance		y	y	
+j<[(56XPLl	das Handeln	the action		y	y	
+t>jp`G[>~	handeln	to act; to trade; to negotiate		y	y	
+eNUslblx37	Verantwortung übernehmen	to assume responsibility		y	y	
+qD0d+*L~^u	die Verantwortung	the responsibility		y	y	
+uAmL+Q4u0R	übernehmen	to take on, to assume, to undertake, to take over		y	y	
+m}gFx//sJI	verreisen	to go away; to go on a journey		y	y	
+qn.U6M,%;j	du kannst frei in den Tag hineinleben.		exact meaning unknown: immerse? live freely? live relaxed?	y		
+bvu.TiuZo*	entscheiden	to decide		y	y	
+iUWH4RC[a!	der Umstand	the circumstance	die Umstände	y	y	
+sR/APQB3dp	hervorragend	excellent; outstanding		y	y	
+h%?EVF|]Y!	bequem	comfortable; easy; convenient		y	y	
+r_!}_U|7N>	jugendlich	juvenile; teenaged		y	y	
+jG*{[Y8K]&	selbstständig	independent; self-employed		y	y	
+nAyJWuD}l|	unabhängig	independent; unattached; freelance		y	y	
+tMb0q|dY_;	Das ist meiner Meinung nach das Wichtigste für eine Person.	In my opinion this is the most important thing for a person.		y	y	
+ozVunQ2aoq	mit etwas umgehen	to handle something; to deal with something		y	y	
+cdNPx.Ki,Q	erhalten	to get; to obtain; to preserve		y	y	
+lQFjr{oBc+	herumlaufen 	to run around		y	y	
+ftOpB$%mM7	irgendjemand	anyone; someone		y	y	
+"mnt0#xbG(%"	Ab einem gewissen Alter wird das eher belächelt, wenn man Leute in ihrer Kleidung nachahmt.	At a certain age, if a person immitates people in their clothes, it is likely to be ridiculed.		y	y	
+"sw#YHyv$B<"	eher	rather; sooner		y	y	
+q~Op6*&Ozp	belächeln	to smile at; to laugh at; to ridicule	Seems to signify something quaint at least, when it doesn't mean ridicule	y	y	
+fSggr{bR_d	nachahmen	to imitate; to emulate		y	y	
+q:gUvC)O7K	das Nachahmen	mimicry		y	y	
+gW~;=>MS]}	beurteilen	to assess; to judge; to evaluate		y	y	
+kTonzp|,75	beachten	to note, to observe, to consider		y	y	
+ouM_s9/dpu	das Forschungsgebiet	the field of research		y	y	
+vC`^pL=A[l	die Forschung, die Erforschung	research		y	y	
+bLKKTNOAw/	das Geschlecht	the gender		y	y	
+dxxLP*j0Ss	der Schwerpunkt	the focus, the centre of gravity		y	y	
+o)r,mV6a3~	geschlechtsspezifischen	gender-specific, gender-based		y	y	
+e(jWrrXEfn	des Öfteren	many times, many a time		y	y	
+fF.p{IuS4Q	erscheinen, auftreten, auftauchen	to appear, to emerge (3 words)		y	y	
+"nx#&;S:q$|"	sich ergeben	to result (in), arise, surrender	+ aus = to be the result of	y	y	
+i&x@=u:z>M	ebenfalls	also, as well, likewise, equally		y	y	
+ptg8e4<_rt	die Nebenwirkung	the side-effect, the adverse reaction, the secondary effect		y	y	
+cqND9ECTu_	verbinden	to combine, to connect, to contact		y	y	
+oy)/|qhN},	das Klo	the toilet		y	y	
+d0U9w]/gRc	das Mehl	flour		y	y	
+"r5e!Hyu#s1"	der Ärger	the trouble, anger		y	y	
+e/,Cfmx|yI	der Atem	breath		y	y	
+py~G5C|0g[	der Liegestuhl	deck chair		y	y	
+h729y(pC|P	die Träne/ Tränen	tear, tears		y	y	
+d~YCAe{3gD	das Fischstäbchen/ Fischstäbchen	fish finger/ fish fingers		y	y	
+kGS,I|hS=X	das Stäbchen/-	chopstick/s		y	y	
+s,XVGx87Jb	der Hirsch	deer, stag		y	y	
+b5LX_gWi>|	die Forelle	trout		y	y	
+j};Nq*v:tX	der Hase	rabbit		y	y	
+dhbJaDsFs=	das Reh/e	deer/s		y	y	
+bL9<scM?GT	der Zeh/e	toe/s		y	y	
+n@4p11lY4z	rau	rough, raw		y	y	
+dy0:7,:6}q	grob	coarse		y	y	
+c8O<%8`*S@	ungehobelt	crude		y	y	
+b^d]a)GJ9;	(un)eben	(un)even		y	y	
+t>i_Ud?VK8	die Bude/n	booth/es		y	y	
+ga;9j{hROQ	der Pfad/e	path/s		y	y	
+n3^w1Yo`%v	vornehm	elegant, refined, noble		y	y	
+"u)urd^#m+7"	die Behausung	dwelling		y	y	
+"sthGKpQ=#:"	der Vertrag	the contract	einen Vertrag eingehen = to enter into a contract	y	y	
+rz&Q=4:0R>	das Abkommen/-	agreement/s		y	y	
+kc{go[Ea-d	die Schneewehe/n	snow drift/s		y	y	
+ns0Ft&WQ<>	das Wohl und Wehe	the ups and downs	like the old-fashioned &quot;weal and woe&quot; in English	y	y	
+okQr=6K89C	Wehe dir!	A curse is on you!		y	y	
+u0C]3PCqP}	gescheit, klug, schlau	clever, smart		y	y	
+c@G(EGM(6i	der Lebensweg	the path in life, life span, life cycle	Mein Lebensweg war klar vorgezeichnet, und ich war glücklich mit meiner Situation = My path in life was clearly marked out for me, and I was happy with my situation	y	y	
+k!f<-SO,ZW	das Lotteriezettelchen	lottery ticket	das Zettelchen = the little note	y	y	
+hoP@X76@%x	das Los, das Schicksal	fate, destiny (2 words)		y	y	
+q2_&M.Lgf2	das Los	lot, destiny, ticket	&quot;los&quot; has lots of meanings	y	y	
+u+3.YM3R]S	die Möwe/n	gull/s, seagull/s	also Seemöwe	y	y	
+lJp[@<@WN2	die Manie	mania		y	y	
+lP3s+wIa:[	der Leib, der Körper	the body (2 words)	Leib is also belly or womb	y	y	
+ce3Vwl>a=c	öd	deserted, dreary		y	y	
+ge`.F&>tL(	der Bergrücken/	mountain ridge/s		y	y	
+ssnku<1,UG	der Grat/e	the ridge/s	can be mountain ridges, or other types	y	y	
+ixH;03=|]I	schmal	narrow, small, thin		y	y	
+rZQ*~P?jSH	besiedeln	to colonize, to populate		y	y	
+p%Afh)?z2^	dünnbesiedelte	sparsely populated, depopulated		y	y	
+nISD)VD=Rb	die Einöde, die Wüste	desert, wasteland		y	y	
+fsxX|LS8gt	das Mittel	the middle, the funds, medicine		y	y	
+c.+t%waCza	vorschreiben	to prescribe, to dictate, to stipulate		y	y	
+qveEC?mZE`	die Aussagen	statements, propositions		y	y	
+,U*y^=SuT	aussagen	to state, to say, to reveal, to testify	seperable prefix	y	y	
+nz-D69CQj]	ausreichen	to be sufficient	seperable prefix	y	y	
+u-&u>gJGx*	ausreichend	sufficient(ly)		y	y	
+kl&%0W5p>m	die Dosierungsanweisung	the dosage regimen, dosage instructions		y	y	
+d>U[*0;Fx3	beilegen	to attach, to enclose		y	y	
+ixsb+fVL~u	aufweisen	to show, to exhibit		y	y	
+c~T$;[xTx3	die Kinderlähmung	polio		y	y	
+"h#5uS@hDx8"	sodass	so that		y	y	
+m~??8VdZU`	nachdem	after	conj. kurz nachdem = shortly after	y	y	
+o`2H~aoV12	nähen	to sew	das Nähen = sewing	y	y	
+"j|N<#z8Z@]"	der Schneider	the tailor		y	y	
+jKm>P[Wjh}	aufmachen, zumachen	to open, to close		y	y	
+"d-DQ`#j7;U"	herstellen	to produce, to manufacture		y	y	
+h<MvH|K)PZ	zunehmen	to increase, to grow		y	y	
+dhx!nIP_D0	der Neffe/n	the nephew/s		y	y	
+bB)aq)g,&T	der Einstieg	the entry, the access		y	y	
+qULEz;&gdO	einsteigen	to get in, to board		y	y	
+u@SjH7,y|<	weiterhin	furthermore, further on, beyond, anymore		y	y	
+g6sqB_;agv	sorgen (für)	to provide (for)		y	y	
+n}rHNC>Z{G	der Anspruch/die Ansprüche	the claim, requirement, demand, aspiration		y	y	
+"f6n#)6[z}0"	beweglich	mobile, flexible, movable		y	y	
+ns[^)L7]pl	weich	soft(ly)		y	y	
+comm4|/vcH	das Präfix, die Vorsilbe	prefix (2 words)		y	y	
+coWJ]*C&,H	die Präposition/en	preposition/s		y	y	
+fiSh:*clw3	das Nomen/, das Substantiv/e, das Hauptwort/Hauptwörter	the noun (3 words)		y	y	
+r7ux|w>97b	besuchen	to visit, attend	Schule besuchen = to attend school	y	y	
+"fK4R-+i#0<"	absolvieren	to complete (successfully), to finish one's studies		y	y	
+lT`CI2jB{,	auslösen	to trigger, initiate, provoke		y	y	
+qnmj*e^53Q	das Auslösen	the release		y	y	
+kJBcj/e?wz	erstrebenswert	worthwhile, desirable		y	y	
+r1CY]exVGj	der Eingriff/e	the interference/s		y	y	
+"spn@L5C5#`"	medizinische Eingriffe	medical interventions		y	y	
+u0t<,K7mVP	die Meldung	the report, message, announcement		y	y	
+fAp&7<u5ME	die Zeitschrift 	the magazine, journal		y	y	
+ES{UaiK_m	reagieren	to react, respond, take action		y	y	
+c&iU=_-TIV	das Ansehen (von)	the image, the prestige, the reputation (of)		y	y	
+c,+1W,wJ-,	der Beruf/en, das Metier/s	the profession/s, job, occupation (2 words)		y	y	
+D?2TF^Y(y	entfliehen	to flee, escape		y	y	
++kGzl(P(k	die Abwechslung	the change, variety, alternation		y	y	
+b~%^b[k{y*	die Entspannung	relaxation, recreation		y	y	
+r/}9_EJKmA	die Erholung	recovery, rest, recreation, relaxation		y	y	
+nM%t}J9rTi	tanken	to refuel, fill up		y	y	
+hpUx4QGmbR	das Bedürfnis/se	need/s, requirement		y	y	
+"u)t4|N`#Fb"	das Ostern	Easter	zu/an Ostern = at Easter. Frohe/Fröhliche Ostern! = Happy Easter!	y	y	
+fRvfFRXBue	häufig	often, frequent, common(ly)	häufig gestellte Fragen = Frequently Asked Questions (FAQ)	y	y	
+p-~3JpoZTo	sich etwas gönnen	to indulge in something	Man muss sich auch mal was Gutes gönnen = A bit of what you fancy does you good	y	y	
+"n!J3zjI]#9"	die Verschnaufpause	the breather (rest)		y	y	
+dyB{{OqBo	verschnaufen	to have a breather, to catch one's breath	verschnauft, verschnaufte, hat verschnauft	y	y	
+deKoU]B^p1	locken	to attract, lure, tempt		y	y	
+soOQ1c0@oS	der Leckerbissen, die Köstlichkeit	delicacy, tidbit, treat (2 words)		y	y	
+k3.CO4yFNg	der Streifzug	foray, ramble (walk)		y	y	
+kwcdv/l1^a	das Kulturdenkmal/-mäler	cultural site/s, cultural monument	plural: die Kulturdenkmäler can translate as &quot;cultural heritage&quot;	y	y	
+h0pGCxs!bx	die Reederei	shipping company, shipping line		y	y	
+m3T3t(c?gn	fürstlich	princely, royal, lavish		y	y	
+"j-P#8n^wTv"	der Platz/Plätze	place/s		y	y	
+n^LQJDC-rG	erwachen	to awake, to spring up		y	y	
+k?^<})WIDY	das Frühlingserwachen	the spring awakening, start of spring		y	y	
+lZqTJ(WUq|	erschöpfen	to exhaust, to deplete		y	y	
+jO:NU0LQIm	erschöpft	exhausted, weary, jaded		y	y	
+s/A3U)ZD;j	verstecken	to hide, stash	versteckt, versteckte, hat versteckt	y	y	
+t>@)^+Sl:(	das Verstecken	encryption		y	y	
+h_^9JnME+e	die Krankheitsursache/n	cause/s of disease		y	y	
+n<zJTRP(i-	watscheln	to waddle		y	y	
+"j*0izP#GY:"	gründeln	to feed from the bottom		y	y	
+lO0cJ-h1.l	der Urwald	the jungle, primeval forest, virgin forest		y	y	
+j[AR<%mbd3	der Begriff/e	the term/s, concept, notion		y	y	
+^q^bn-3V[	der Urmensch/en	the prehistoric man/men, caveman		y	y	
+qC}5@uJ$xL	der Zusatz	the addition, additive, supplement, auxiliary, appendix		y	y	
+Fb)uga%/h	wursteln, wurschteln	to muddle along		y	y	
+m.x.JWul6|	der Wichser	wanker		y	y	
+e2TR3,+j@h	on demand (2 words)	auf Nachfrage, auf Anferderung		y	y	
+rw_@p5]p,t	so far	bisher		y	y	
+byKfR2:RKD	to enjoy	genießen, Spaß haben		y	y	
+g3m}=gHX]	plenty of time, lots of time	viel Zeit		y	y	
+kf3qv-l@~Z	Enjoy your meal!	Mahlzeit! Guten Appetit!		y	y	
+f1O,VVbJXp	on Monday	montags, am Montag		y	y	
+"d>y#H=@+Q6"	at the office	im Büro		y	y	
+l<=9e=9Z~g	therefore, so, thus	daher, also		y	y	
+uLu:UR&z7!	a little	etwas		y	y	
+k&1FzB8}d$	anyway	ohnehin, wie auch immer		y	y	
+t9Sn>Mi8r?	I'll come see you (informal/slang)	ich schaue bei dir vorbei (umgangssprache)		y	y	
+"cG{#?#GAQa"	die Umgangssprache	slang, colloquial language		y	y	
+eJRUXG51XO	slang, colloquial (adjective)	umgangssprachlich		y	y	
+sp]@V*95[}	sich wohlfühlen	to feel good, to be comfortable		y	y	
+e^qE9>X1T^	das Wohnzimmer	the living room		y	y	
+qsuBt[.=>R	der Kleiderbügel	coathanger		y	y	
+ouNb_3*QpN	bügeln	to iron		y	y	
+"p}K`qhcP#o"	das Treffen	meeting, gathering		y	y	
+rkx/6mi0T.	vermeiden	to avoid, evade		y	y	
+o8`{P9_,~K	die Schulnote	assessment mark, grade		y	y	
+i05kjH*`Wx	sich einer Sache bewusst werden	to become aware of something		y	y	
+sW|cg`dXus	jdm. etw. klar machen	to make something clear to someone		y	y	
+omliM{u3mb	sich klarmachen, begreifen, erkennen	to realise, recognise, understand (3 words)		y	y	
+o;L;wAv2<_	wann?	when?	wann is only used as a question word	y	y	
+lx?`~MN-])	wenn...	when...	wenn is used as a conjunction. &quot;als&quot; means the same.	y	y	
+f^A2@x0p*A	das Blatt/Blätter	the leaf/leaves		y	y	
+gwBJCg%(p;	beibehalten	to maintain, retain		y	y	
+k7t,ZzV}`L	künftig	in the future, henceforth, from now on		y	y	
+uX|}-*?9p3	die Dürre/n	drought/s, dryness		y	y	
+hXtsB6n;a0	entschädigen	to compensate, reimburse		y	y	
+kj$eeM1M%a	bevorzugen	to prefer		y	y	
+vilu}1F(!}	die Gelegenheit/en	the chance/s, opportunity		y	y	
+tl+oiWA_Z!	die Begegnung, das Treffen	the meeting, encounter (2 words)		y	y	
+sod{-gN200	sich (von jmdm./etw.) verabschieden	to say goodbye (to someone/something), to take one's leave (of someone), to bow out		y	y	
+vI+h1;Rq:$	verabschieden	to adopt, pass (a law/bill),&nbsp;&nbsp;dismiss, see off	also: to say goodbye (like sich verabschieden)	y	y	
+b)]QaE(Fdp	das Dutzend/-e	the dozen/s		y	y	
+bG`g+pRAS-	im Dutzend	by the dozen		y	y	
+j%{{kb;2JX	umschneiden, fällen	to chop down, to fell, to hew (2 words)		y	y	
+d4<zl,Fsx>	der Baumfäller/	the tree-cutter/s, lumberjack		y	y	
+"olvW`0._#+"	der Akku/s, die Batterie/n	battery/-ies		y	y	
+pH}>%&vQ1j	sich verlaufen, sich verirren	to get lost		y	y	
+u6Yh;%,]Bp	sich irren	to be mistaken		y	y	
+ibvQ}&SNi_	im Irrtum sein	to be in error, to be mistaken		y	y	
+u7cjj0h6ZH	sich (dat.) sicher sein	to be sure	ich bin mir sicher	y	y	
+"tFF8;:?AB#"	die Veranstaltung/en	the (organised) event/s	like marathon, rogaine, etc	y	y	
+"m)jjP#c!ym"	die Ereignis	the happening, (historical or accidental) event		y	y	
+s&pS2y{GV^	lazy	faul		y	y	
+i2?_{sJ0>q	am Kinderspielplatz	at the playground		y	y	
+m[-fl5FvMy	die Schaukel/n	the swing/s (the playground equipment)		y	y	
+cB!aJo[IXl	schaukeln	to swing, to rock back-and-forth		y	y	
+rHl.drb-2V	der Schaukelstuhl/stühle	the rocking-chair/s		y	y	
+"k#=mwQy>os"	jmdm. peinlich sein	to be embarassing for someone	es war ihm peinlich = it was embarassing for him	y	y	
+py8}^W{WwI	die Ausrede/n	the excuse/s		y	y	
+m$T=4e_~a1	freiwillig	optional, voluntary, not compulsory		y	y	
+hwp(vl$,/H	sich herumdrehen	to turn around		y	y	
+j`)O8r*b|>	das Mail/s	email		y	y	
+h)<[d[!e+k	der Brief/-e	the letter/s (written/typed)	nur handschriftlich	y	y	
+"tJPBG-B55#"	ich fahre nach Wien	I'm going to Vienna		y	y	
+rbmUnZOG;T	ich bin in Wien	I'm in Vienna		y	y	
+rEksHx.KW:	ich bin zu Hause	I'm at home		y	y	
+OjWA!!B.v	zu Hause sein	to be at home		y	y	
+t+f96HwN>1	ich fahre zu dir	I'm going to your place, I'm coming to you		y	y	
+d,Yp(ni]Ay	ich bin bei dir	I'm at your place		y	y	
+bJthkE$3}p	etw. verlassen	to leave (something)		y	y	
+"m#|.]XR@+Z"	sich auf jdn./etw. verlassen	to rely on someone/something		y	y	
+"bFf1#8JItg"	die Betrachtungsweise/n	the point/s of view, the approach		y	y	
+uvF0YzmIxg	betrachten	to view, consider, regard		y	y	
+tfzPLuw<G9	jdn. gut behandeln	to treat someone well		y	y	
+l{LOP2R+ot	jdn. bei etwas (dat.) anmelden	to register/enrol somebody at something	bei dem Rogaine anmelden = to register for the rogaine	y	y	
+b!r8F94<`b	die Schreibweise/n	the spelling/s, notation, writing style		y	y	
+laK[wMI+nh	die Aussprache/n	the pronunciation/s, discussion		y	y	
+e~w2:XAzQK	der Beistrich/e	comma/s		y	y	
+b47y7?SGOS	die Hilfe	the help		y	y	
+sL>6Sl,.:,	mit Hilfe von	with the help of		y	y	
+rDtn31%|vD	dank deiner Hilfe	thanks to your help		y	y	
+qm;YI(wy]r	Ihre Hilfe ist sehr willkommen	your help is greatly appreciated		y	y	
+unv/Y[L,2_	viel Geld	a lot of money		y	y	
+fo7YpgP:%7	die Strecke/n	the route/s, the course		y	y	
+sMdkj(TxY=	inmitten	amidst, in the middle, among		y	y	
+h{jmMc[2a%	die Neigung/en	the incline/s, slope, gradient		y	y	
+j$rE!*-Pto	neigen	to tilt, lean, incline, trend		y	y	
+q<8M@%=P/H	bergauf	uphill		y	y	
+fUlZfs1*p!	bergab	downhill		y	y	
+sb*:T|0Ymh	rechnen	to calculate, count, reckon		y	y	
+g.$FQZCSS?	das Rechnen	arithmetic, numeracy		y	y	
+l/,SGd:Az}	aufregen	to excite, upset, irritate		y	y	
+fN:y^_2BY]	der Drahtseilakt/e	the balancing act/s		y	y	
+"t}BVl?{#Xy"	das Tuch/Tücher	cloth/s, towel, sheet	towel is also Handtuch	y	y	
+boZD[XUl^E	inwieweit	to what extent, how far		y	y	
+jMP!Kjm`].	das Resultat/e	the result/s, outcome		y	y	
+d(A^eEw+7s	fettsüchtig	obese		y	y	
+d!h;ymu%:<	die Angststörung/en	the anxiety disorder/s		y	y	
+"s=3h)SOJ#B"	das Herzrasen	the tachycardia, racing heart		y	y	
+kA0}=S+8(]	die Leber/n	the liver/s		y	y	
+vx&B{[<iH-	die Sucht/Süchte	the addiction/s		y	y	
+"vJ1F#NbI]c"	das Umfeld/er	the environment/s, surroundings		y	y	
+fbSKY0=u~*	alle stehen ständig unter dem Druck	all are under constant pressure		y	y	
+eYg$vR}jQ.	je schneller desto besser	the faster the better	je X desto Y = the (more X) the (more Y)	y	y	
+r^z!2`DfSy	je X, umso Y	the (more X), the (more Y)	umso can come first - umso Y, je X = the (more X), the (more Y)	y	y	
+nBh,v-vGj.	inwiefern	to what extent, in what sense		y	y	
+mZEzWZv!Y&	die Verwandte/n	the relative/s, relation	see also Beziehung	y	y	
+s:>gn^~7,,	durchführen	to carry out, perform, accomplish		y	y	
+e=|Yaa~,3*	eventuell	possible, possibly, maybe, potential		y	y	
+f-)HdOfA;b	anfeuern	to cheer, to encourage, to spur on		y	y	
+cK73`/,s).	vorziehen	to prefer, choose, to bring/pull forward		y	y	
+k)2$S-3MGJ	die Umgebung	the environment, surroundings, vicinity		y	y	
+mTf%~4%2[f	die Ordnung/en	the order/s, system, orderliness		y	y	
+nnUndzUiEj	was... angeht	in terms of..., as for...	was mich angeht = as far as I'm concerned	y	y	
+d{uH2<`pYU	sich etwas vornehmen	to get to work on something, intend to do something		y	y	
+lmW?tNM<S]	sich zu viel vornehmen	to take on too much		y	y	
+hN7ckORm>e	das Honorar, das Gebühr, der Preis, der Beitrag, der Lohn	the fee (5 words)		y	y	
+"m9,]yif}l#"	das Honorar, die Bezahlung, die Einkommen, die Belohnung	the remuneration		y	y	
+cNFe;k[8jf	eintreffen, kommen, ankommen	to arrive, to reach (3 words)		y	y	
+tDmFQqLn<>	die Verspätung/en	the delay/s		y	y	
+j}SY*pr&^4	erledigen	to do, to deal with, to dispatch		y	y	
+q}I{m=<lXN	und zwar	namely		y	y	
+n}o61vOkRR	die Wiederaufnahme/n	the revival/s, resumption, reopening		y	y	
+hA-_G~LPy}	die Nahrungsaufnahme/n	the food intake/s, ingestion		y	y	
+pU,O~1?(y~	verweigern	to refuse, deny		y	y	
+gEM<`gI&tK	rasch, schnell	quick, rapid		y	y	
+pOnO(-_WgA	der Befürworter/, der Unterstützer/, der Anhänger/	supporter/s, proponent, advocate (3 words)		y	y	
+o<s-Ssa>y|	der Zweifel/, das Bedenken	the doubt/s, concern, reservation (2 words)		y	y	
+c=rp+u1GPm	auf Augenhöhe	at eye level, the same level, on equal terms	z.B.: eine Partnerschaft auf Augenhöhe = a partnership on equal terms	y	y	
+rf}>-vOHdo	gleichberechtigt, gleichwertig	equal (2 words)		y	y	
+qEX9~BGSQ~	die Gleichberechtigung/en, die Gleichheit/en, die Gleichstellung/en	equality (3 words)		y	y	
+tda+jNGj{L	ehemalig, früher, vormalig, vorherig, erstgenannt	former (5 words)		y	y	
+Q;[H_.t!x	absagen, abbrechen	to cancel, call off		y	y	
+bDU/bn8hj=	die Braut/Bräute	the bride/s		y	y	
+"mzyW#eex:="	der Bräutigam/me	the bridegroom/s		y	y	
+o2~=.tjnf2	der Regen	the rain		y	y	
+op[Z18js.2	die Regenzeit	the rains, the rainy season, the wet season		y	y	
+lU^Mr^nQMs	nass, feucht	wet, moist (2 words)		y	y	
+oTk;l!psD*	das Selbstbewusstsein	self-confidence, self-awareness		y	y	
+eGlcw.Q*ww	steil	steep, precipitous		y	y	
+c3jc2qy{b@	der Hügel/	the hill/s		y	y	
+tgLRU0EK&5	hügelig	hilly		y	y	
+"g#MIW.|Jkc"	umgekehrt	the other way round, vice versa, reverse		y	y	
+bj%|OAI+:?	selbstsicher	confident		y	y	
+clm]:g]n|P	der Kinderwagen/	the pram/s		y	y	
+tj>!t);mAC	der Kindersitz/e	the baby seat/s, the child seat, baby capsule		y	y	
+rlD;&GC0F;	etw. anhören	to listen to something		y	y	
+h)!)Q%&Kvo	die Ausgabe/n (eines Buches), die Auflage/n, die Edition	edition/s (of a book) (3 words)		y	y	
+fcY_lE^6/0	die Ausgabe/n, das Thema/-en	the issue/s, topic		y	y	
+l9I_9r|1r.	als ob, wie wenn	as if		y	y	
+p_G7s(1q`p	die Gesundheitsförderung/en	the health promotion/s		y	y	
+h{J!-/T/T8	gefallen, mögen, lieben, gern haben	to like, enjoy, please (4 words)	gefallen past part. is with haben	y	y	
+vMFS]wvB@*	die Silbe/n	the syllable/s		y	y	
+h!O,KmJOs8	zu Fuß	by foot		y	y	
+dhDhsB&ZM-	der Fuß/Füße	the foot/feet		y	y	
+eP0|k-.WvN	abnehmen	to lose weight, to slim		y	y	
+oHi}d@%/yu	das Abnehmen	dieting, losing weight		y	y	
+o:{fz|V*dz	der Schwager/	the brother/s-in-law		y	y	
+jLchtNK%ef	der Frühaufsteher/	the early riser/s		y	y	
+cL07{,0``^	aufstehen	to get up	stehen past part. is with sein -&gt;z.B. ich bin aufgestanden	y	y	
+"hY!P)##!4w"	wachen, aufwachen	to wake, to wake up		y	y	
+ga-L<-B7/@	während des Tages, tagsüber	during the day		y	y	
+rS%knn$s@>	in den achtzigern	in the 80s		y	y	
+mwrTkb!f,Y	der Gewinn/e	the profit/s		y	y	
+qehtx=Yy7R	der Ertrag/Erträge	the yield/s		y	y	
+"jltZ$(3#|9"	die Marke/n	the brand/s, trademark		y	y	
+f{*=8hL+RK	der Hubschrauber/	the helicopter/s		y	y	
+r[,@(jrQFz	die Kernaussage/n	the key message, core statement		y	y	
+"cCZ#u.A>qm"	der Priester/	the priest/s		y	y	
+o.SS/xvo5^	sogar wenn	even if		y	y	
+bf*4=!l)bK	die Kunde/n	the client/s		y	y	
+cj>A&y>BYp	der Konsument/en	the consumer/s		y	y	
+"gufqGGM|r#"	es hängt davon ab	it depends on		y	y	
+fR%PbA8Ak~	der Abgeordnete/n, der Vertreter/	the representative (2 words)	Abgeordnete = member of parliament	y	y	
+"hXLXB])EN#"	sich etw. leisten können	to be able to afford something		y	y	
+eMr1UM0yD;	der Sonnenbrand/-ände 	the sunburn/s		y	y	
+ls}i-Q/iR:	Fahrrad fahren (umg.)	to ride a bicycle (colloquial)		y	y	
+"#RUb3%wh["	einen Sonnenbrand haben	to have a sunburn, to be sunburnt		y	y	
+mn!yP]uC+2	das Muttermal/e	the birthmark/s, mole		y	y	
+tfs:f,:UO(	die Sommerprosse/n	the freckle/s		y	y	
+t6WAu|B{m<	die Erste, Zweite, u.s.w.	year 1, year 2, etc in school		y	y	
+o]l`_iFY5Y	die Schulstufe/n	the school year/s, grade		y	y	
+"qMxWM#Eezb"	nach Australien fliegen	to fly to Australia		y	y	
+^>b3sOx[6	die Erwartung/en	the expectation/s		y	y	
+pNi]q3OS7X	der Brauch/Bräuche	the tradition/s, custom, habit		y	y	
+"e%h#JKHst?"	der Homosexuelle/n	the homosexual/s		y	y	
+e;lmcU@)0N	sich trennen	to break up, to split		y	y	
+lADwzTWI(m	der Lärm/e, das Geräusch/e	the noise/s (2 words)		y	y	
+oV2P7JxzLh	lärmen	to be noisy		y	y	
+uF8[Lbo=l]	das Spielzeug/	the toy/s		y	y	
+g$Ke?3^OYl	die Schwägerin/-nen	the sister/s-in-law		y	y	
+bNx[e(Q}C)	die Schwiegermutter/-mütter	the mother/s-in-law		y	y	
+9s~{Up-L2	der Schwiegervater/-väter	the father/s-in-law		y	y	
+q)@O!,QJBH	der Inder/	the Indian/s (from India)		y	y	
+"r)JW0#JDV}"	der Indianer/	the native american/s, south-american indian		y	y	
+pEOOP6-&P^	das Tal/Täler	the valley/s		y	y	
+tAVyg}-R}0	der Muskelkater	aching muscles	singular has plural meaning in english	y	y	
+j{{r3{dJo3	der Kater/	male cat/s, tomcat, hangover!		y	y	
+muRC3i`IoB	die Katze/n	the (female) cat/s		y	y	
+f}-g0l=$X=	veröffentlichen	to publish, to release		y	y	
+qPDt<a1vSk	verägert sein	to be irritated, to be angry		y	y	
+bO0*>}<.+E	verägern	to annoy		y	y	
+c,C9`;E(6Y	es hat mich geärgert	it annoyed me		y	y	
+ro:SFEexo}	die Kampfkunste/-künste	the martial art/s		y	y	
+b3r9u?X$n>	die Strafe/n, die Bestrafung/en	the punishment/s (2 words)		y	y	
+q&n8J6CmaK	der Film/e	the movie/s, film		y	y	
+g`INrP_?dS	der Knöchel/	the ankle/s (bone), the knuckle		y	y	
+k6~OY+.Gl,	das Fußgelenk	the ankle joint		y	y	
+rj>9b/C+]w	ich lasse euch jetzt in Ruhe	I'll leave you in peace now, I'll leave you to it		y	y	
+r^[pew!uy:	das Koffein	the caffeine		y	y	
+o=?/9TnBq(	schottisch	scottish		y	y	
+g0g2k2ka!L	die Zeile/n	the line/s	Zeichen je Zeile = characters per line	y	y	
+p+Wd^VzUn)	spüren, fühlen, empfinden	to feel, to sense, to experience (3 words)		y	y	
+md6L9E?;4-	die Gerechtigkeit	justice, fairness, equity		y	y	
+i@XJc4|h{S	danach	afterwards, subsequently, according to that		y	y	
+ekU6wDJuna	die ausgleichende Gerechtigkeit	the poetic justice, compensatory justice		y	y	
+"faB#SsW^2:"	ausgleichen	to balance, to compensate, to offset		y	y	
+oZ`99Cx*+m	der Schluss/Schlüsse 	the conclusion/s, end		y	y	
+uR+I7Xm0hk	strahlen	to radiate, to beam	strahlend = beaming	y	y	
+qyBxho3j)m	zulassen	to allow, permit		y	y	
+b5O/HS>h:`	wesentlich	essential(ly), substantial		y	y	
+nm5~GmtwD_	dagegen	in contrast, whereas, against it		y	y	
+mD4P3pwsn&	die Falte/n	the wrinkle/s, fold, pleat		y	y	
+d~kV2sUE3p	falten	to fold, pleat, wrinkle		y	y	
+o@h]UECP]%	es graust jdm. vor etw. / jem. graust sich vor etw.	someone was terrified of something (2 phrases)	inf. = grausen. Impersonal construction without sich, or direct version with sich	y	y	
+g^K.(!BnfK	abwegig	absurd, erroneous		y	y	
+hg~.=&EXO}	die Gleichsetzung von etw. und etw.	the equating/equation of something and something		y	y	
+e/E]J~9Kh_	das Gefecht/-en, der Kampf/Kämpfe	the fight/s, battle		y	y	
+"hu#/*o;L)_"	glimpflich davonkommen, mit einem blauen Auge davonkommen	to get off/escape lightly, to get off cheaply	z.B.: die diesmal relativ glimpflich davonkamen = which were quite moderate this time	y	y	
+h@)Xn6&r9<	davonkommen	to get away, to escape, to come off	lots of expressions - z.B.: ich bin gerade noch davongekommen = I escaped by the skin of my teeth<br>	y	y	
+cu.BsWb&Q&	glimpflich, leicht, mild, nachsichtig	light, mild, lenient (4 words)	lenient = bes. nachsichtig	y	y	
+3)xX|tTVz	die Fügung/-en	coincidence, stroke of fate, act of providence 	göttliche Fügung = divine providence. eine glückliche Fügung = a stroke of good fortune	y	y	
+dKb>CwqW^H	harren, erwarten, warten	to await (3 words)		y	y	
+hT1kax2Abp	Überlegungen anstellen	to make observations, to reflect		y	y	
+b($$B62{4_	einen Beitrag leisten	to make a contribution		y	y	
+k6GR0WQdE<	tiefgreifend, profund, abgrundtief	profound (3 words)	abgrundtief also = abysmal	y	y	
+u]P?ZC9ei4	(sich) bilden, (sich) formen, eingehen	to form	sich = transitive	y	y	
+gn+9k10[((	retten	to rescue, to save		y	y	
+qQA6%GAU+S	sich revanchieren	to return a favour		y	y	
+fv}wvVL]r%	jemand ist gefahren wie der Teufel (umg.)	jemand ist sehr schnell gefahren (als umg.)		y	y	
+cJ5<iY~QHh	etwas klappt	etwas funktioniert gut		y	y	
+h{v`*|P/-6	der Rücksitz/e	der hintere Sitz in einem Auto		y	y	
+kv^f[SK`l`	(jdn.) anrempeln	to jostle someone, to stumble, &quot;gegen jdn stoßen, an dem man vorbeiläuft&quot;		y	y	
+g&|=<wL_Ym	jdn. stoßen	to push, to bump (someone), to pound		y	y	
+hR!qz!E!8V	das Stoßen/	the pounding/s, thrusting	Das Stoßen und Drängen der Menschen kann zu Beginn einschüchternd sein = The hustle and bustle of the people can be intimidating at first	y	y	
+g-M1D%2vU0	namens	mit dem Namen, in/by the name of, named, called		y	y	
+m~:/=0`M@j	auf gar keinen Fall	ganz bestimmt nicht; niemals, egal was passiert		y	y	
+"nw<oPyDV#+"	jdn/etwas aus etwas ausschließen	dafür sorgen, dass jemand irgendwo nicht mehr <br>reinkommen oder nicht mehr mitmachen kann; to exclude someone/something from something		y	y	
+uMRTQ[eWre	etwas auf sich nehmen	etwas Anstrengendes oder Schwieriges machen; to accept/take on/shoulder something 		y	y	
+lJ5-i*CKO:	sich auf etwas verlassen	darauf vertrauen, dass etwas funktioniert		y	y	
+l:P6av;wIr	jdm etwas vorspielen	to feign/pretend to be sth to sb, sich anderen gegenüber anders verhalten, als man wirklich ist; to play sth (z.B., a video) to sb<br />		y	y	
+d{K7}s=Ni[	etwas kaum erwarten können	sich sehr auf etwas freuen		y	y	
+khn3`o)Dd;	indes	however, while, whereas (conj), meanwhile (adv) (1 word)		y	y	
+vi;@j$>NQ)	es steht noch in den Sternen	it's anyone's guess	Die Zukunft steht bekanntlich in den Sternen = They say the future is written in the stars	y	y	
+js~{(tq]+j	immerhin (adv.)	after all, at least, nevertheless, anyway	seems like a good filler word!	y	y	
+iXc{bI_2u@	der Fachmann/Fachleute	the expert/s, specialist, professional		y	y	
+eF`OrCUrzb	der Anrainerstaat/en	the riparian state/s, neighbouring country		y	y	
+iA<>cGzbt]	erzeugen	to create, generate, produce		y	y	
+lJ!}WBOl{+	die Voraussetzung/en	the prerequisite/s, condition, requirement		y	y	
+oM1u^ZWH:R	bestehen aus	to be comprised of		y	y	
+@4Js[5UaB	bestehen	to be, to consist, to exist		y	y	
+"n#=+wd~.ux"	das Bestehen/, der Bestand, das Desein, die Existenz	the existence, the life (4 words)		y	y	
+f*+E6/=CGK	vereinfacht gesagt	put simply		y	y	
+h1:s~Ll56/	der (Wasser)kessel/	the kettle/s, the boiler		y	y	
+oC+fl5iYK2	heuchlerisch	hypocritical, insincere		y	y	
+n~HudVFEN/	heucheln	to feign, simulate, to be hypocritical		y	y	
+tP,bukD(S4	wirken	to work, act, seem, appear		y	y	
+]Y`3b0SY6	aufrichtig	sincere, frank, honest, candid		y	y	
+6;?o:Ppx`	wachsam	vigilant, alert, wakeful		y	y	
+dj72,u*E^4	(etw) verbergen	to hide (something), conceal, bury, burrow		y	y	
+fZ%X|994&W	stets	always, constantly, all the time		y	y	
+lRk`,UU_mp	der Verbraucher/	the consumer/s		y	y	
+h>4>ef5MSA	die Eigenart	the characteristic, peculiarity		y	y	
+qQ(j4r9*Zi	vor Ort	locally, on the ground, in situ		y	y	
+"d#An&KDtXS"	sich zusammentun	to join forces, to group together		y	y	
+eXN-66l]rR	damit	so, so that, thereby, with it, in order that	Weg damit! = Get rid of it!	y	y	
+cwtp.xXS7U	Kommst du damit klar?	Can you manage it okay?		y	y	
+peY`>RrAMX	zusammenfassen	to summarize		y	y	
+jJsP,r8m+d	Es holt sich.	It gets.			y	
+t^uYwqfy]9	holen	to get, fetch, take		y	y	
+umCi24NmLR	zerstreuen	to disperse, dissipate, dispel, resolve	"<h3>🔸 Examples</h3><h3>
+<ol>
+<li>
+<div><strong>„Die Demonstration wurde gewaltsam zerstreut.“</strong><br>
+→ <em>“The protest was violently dispersed.”</em></div>
+</li>
+<li>
+<div><strong>„Ihre Worte zerstreuten meine Ängste.“</strong><br>
+→ <em>“Her words dispelled my fears.”</em></div>
+</li>
+<li>
+<div><strong>„Er zerstreute sich mit Fernsehen.“</strong><br>
+→ <em>“He distracted himself with television.”</em></div>
+</li>
+<li>
+<div><strong>„Der Wind zerstreute die Blätter im Garten.“</strong><br>
+→ <em>“The wind scattered the leaves in the garden.”</em></div></li></ol></h3>"	y	y	
+vof]:J*p/c	die Sache/n	the thing/s, item, matter, cause		y	y	
+rC~O9v-ZV[	der Schub/Schübe	the thrust, shear, push, impetus, boost		y	y	
+e}5x(@^uZv	der Machterhalt	the retention of power		y	y	
+nSI1&_Mb]d	die Vernunft	(the) reason, rationality, sanity		y	y	
+uzYh@;t5ig	vernünftig	reasonable, sensible, rational		y	y	
+pWKV.&)lW=	die Lebensbedingung/en	the living condition/s		y	y	
+sD&3D/=Lc]	die Bedingung/en	the condition(s), requirement, prerequisite		y	y	
+i1+PyTY9tF	die Grundlage/n	the basis/bases, foundation, groundwork		y	y	
+"nu*#%aIv}:"	der Fleiß	the dilligence, industriousness, studiousness		y	y	
+dw<pGm18sX	fleißig	diligent, busy, hard-working		y	y	
+p$,O3WCFc%	Grenzen setzen	to set limits to		y	y	
+o}W[=s9L<&	keine Grenze gesetzt sein	to be unlimited, to have no limit		y	y	
+hips7+3gDd	regeln	to rule, regulate		y	y	
+b{%!Aw(UzN	der Karfreitag	Good Friday		y	y	
+oRYkgz6|6T	pflegen	to maintain, to take care of, to cultivate		y	y	
+t<.?xg%S7A	das Kichern/	the giggle/s		y	y	
+uIrn<HeQ$A	kichern	to giggle, snicker		y	y	
+otSLK~n=bp	das Gekicher	giggling, snickering		y	y	
+uS2{f[>dX`	anfügen	to add, attach, append		y	y	
+j~X|?q48a+	das Fach/Fächer	the subject/s, field, compartment		y	y	
+"o#F;{K/X8Y"	sich zurechtfinden	to find one's way, to orientate oneself, to come to grips with		y	y	
+"q-I#zP<M2V"	das Vorurteil/en	the prejudice/s, preconception, bias		y	y	
+tL`z/s<>43	auf etwas (akk.) hinweisen	to hint at sth., to point sth. out		y	y	
+vDf%0c@/T@	jdn auf etw hinweisen	to make sb. aware of sth.		y	y	
+tk4x3`}l9K	mangeln	to lack, be lacking		y	y	
+r3ul&fe:oh	der Mangel/Mängel	the shortage/s, the lack, the defect/s		y	y	
+e1kun^fA%l	das Bemühen/, die Bemühung/en, die Anstrengung/en, die Bestrebung/en	the endeavour/s, effort (4 words)		y	y	
+t}bRo;I16	fehlen -&gt; jdm. fehlt etw.	to be missing, to be absent -&gt; someone is missing something		y	y	
+nbWIQZ$0[E	übrig - wie viel ist übrig?	remaining, left, leftover - how much is left?		y	y	
+o8w$jsA3ge	jdn. als etw. bezeichnen	to refer to sb. as sth., to consider as, to label as	"<h3>🔸 Examples</h3>
+<ol>
+<li>
+<div><strong>„Sie bezeichnete ihn als Genie.“</strong><br>
+→ <em>“She referred to him as a genius.”</em></div>
+</li>
+<li>
+<div><strong>„Man kann das nicht als Erfolg bezeichnen.“</strong><br>
+→ <em>“You can't call that a success.”</em></div>
+</li>
+<li>
+<div><strong>„Er wird oft als Außenseiter bezeichnet.“</strong><br>
+→ <em>“He is often labeled as an outsider.”</em></div>
+</li>
+<li>
+<div><strong>„Die Presse bezeichnete den Vorfall als Skandal.“</strong><br>
+→ <em>“The press described the incident as a scandal.”</em></div></li></ol>"	y	y	
+u{4K7U*mT5	sowohl X als auch Y	both X and Y		y	y	
+fUn!!!W-)R	das stimmt zwar, aber...	that may be true, but...		y	y	
+dM}zW`Yrg5	nicht nur ... sondern auch 	not only ... but also		y	y	
+d-SHDa[5;h	entweder... oder	either... or		y	y	
+"sN0#-fy2>k"	weder... noch	neither... nor		y	y	
+f`lj?o)/1D	mit jdm/etw kämpfen	to fight against sb/sth, to struggle, to campaign		y	y	
+qJ1$!kS]Z`	an jdm/etw liegen	to be due to sth, to be accounted for by, to be down to		y	y	
+jvwZz_:l.a	An mir soll's nicht liegen!	I won't stand in the way!		y	y	
+fPoIe?`F28	eignen, gehören, betreffen	to belong to, to appertain to, to relate to (3 words)		y	y	
+dNn7w?Kppe	sich eignen (für)	to suit, to be suitable/suited for		y	y	
+h9z3(EYZ3V	geeignet (zu), tauglich	suitable (for), appropriate, fitting		y	y	
+o~,]eZb/[R	die Anzeige/n	the advertisement/s		y	y	
+"ba+]s?#wwf"	anzeigen	to display, show, notify		y	y	
+jw8h(FCfFx	weiterkommen	to progress, advance, get ahead		y	y	
+q!_yAJjD*=	berufstätig	employed, working		y	y	
+nc$>qwthWj	unterbringen	to accomodate, place, host		y	y	
+p|j75JnjmR	jdn beschäftigen	to employ sb, to occupy sb		y	y	
+ni,6cPEu;,	ausgerichtet	aligned, oriented, targeted		y	y	
+"XXn#k4Dwu"	praxisnah, praktisch	practical (2 words)		y	y	
+-m[p1-J5~	das Gymnasium/Gymnasien, die Realschule/n	the high school/s, secondary school		y	y	
+"cGN#/?/*A1"	die Volkschule/n, die Grundschule/n	the elementary school/s (2 words)		y	y	
+jUO%YF`Hic	die Umschulung	the retraining		y	y	
+cS[/4Ce/yd	die Röhre	the tube, conduit, duct, TV (slang)		y	y	
+fG>4.O]S>}	in die Röhre schauen/gucken	to watch the idiot-box, to be left out in the cold		y	y	
+t+thQz5cY1	die Aufmerksamkeit/en	the attention, interest, attentiveness		y	y	
+oN?vmgix`u	die Flimmerkiste	the telly, the boob tube	Plural unknown but probably -n	y	y	
+k/-*AWR,<p	der Bezug/Bezüge, die Beziehung/en	the relation/s, the relationship, the reference (2 words)		y	y	
+p(]FK?gFS*	das Pech	bad luck, pitch		y	y	
+s(:++<wmf=	gefährdet	endangered, threatened		y	y	
+lCP$NU,j+H	der Zusammenhang/-hänge	the connection/s, the context, the correlation		y	y	
+u?.umcwQB$	zudem, darüber hinaus	furthermore, moreover, besides		y	y	
+vwGgQ_+iXA	der Schlafmangel/mängel	the lack/s of sleep		y	y	
+&4h*ltB&A	betreffen	to concern, to affect, to relate		y	y	
+r/2&_h)4K%	der Altersgenosse/n	the contemporary/-ies, person of the same age		y	y	
+q=s4L~g|Q:	das Hirn/e, das Gehirn/e, das Köpfchen/	the brain/s		y	y	
+qMO}lwovy+	fur etwas plädieren	to plead for something		y	y	
+"m)>K#F22O{"	nämlich	namely, viz., that is to say		y	y	
+riiMz2fcqr	durchaus	quite, absolutely		y	y	
+j],fIog4j;	zusätzlich, hinzu, daneben	additional, in addition, further, besides		y	y	
+r,t2.A{tKv	pädagogisch	pedagogical, educational		y	y	
+nvpVlk7EON	die Verfügung/en	the order, disposal		y	y	
+mbd[03[%~<	die Betreuung/en, die Unterstützung/en, die Förderung/en	the support/s (3 words)		y	y	
+qOTkeZTn|T	verabreden	to arrange, to appoint, to agree on		y	y	
+ukzgG!^A><	sich mit jdm verabreden	to arrange to meet sb		y	y	
+do]5VKR]+T	der Abiturient/en	the high-school graduate/s		y	y	
+gUAcmhyarn	es fällt mir ein	it occurs to me (imp. exp.)		y	y	
+emgil$qSBs	es gefällt dem Mann	the man likes it		y	y	
+tge;G.AOG*	es geht der Frau gut	the woman feels well		y	y	
+pr9iCRS/.v	es gelingt mir	I succeed, I manage (imp. Exp.)		y	y	
+"lkr@c#cjKH"	es genügt dem Studenten	the student is satisfied (imp. exp.)		y	y	
+jN0A`LVHO%	es kommt mir vor, es scheint mir	it appears to me (imp. exp.), it seems to me (2 phrases)		y	y	
+vI!qh)StBU	es passt ihr gut	it fits her well (imp. exp.)		y	y	
+o9<hdiT~(U	es schmeckt mir gut	it tastes good to me (imp. exp.)		y	y	
+nF^Q_]3mcE	es steht ihr gut	she looks good in it (imp. exp.)		y	y	
+c5$R6fnBK!	aufpassen auf jdn/etw, achten auf jdn/etw	to pay attention to something		y	y	
+f3z13<I=r%	über jdn/etw sich beklagen	to complain about someone/something		y	y	
+lqW?e/.0{W	an jdn/etw denken	to think about someone/something		y	y	
+i5@aP$WCBT	sich an jdn/etw errinern	to remember sb/sth, to remind of sb/sth		y	y	
+"/#<V^nG2N"	an irgendeiner Sache erkennen	to recognise by something		y	y	
+"gzLL#HzF1g"	sich auf etw (akk) freuen	to look forward to something		y	y	
+g@W47Cj:K?	an jdn/etw glauben	to believe in sb/sth		y	y	
+bn]*$gaR%S	auf jdn/etw hoffen	to put faith in sb/sth, to hope for		y	y	
+"gXwnd#_]AV"	sich in jdn/etw irren	to be wrong about sb/sth		y	y	
+dC3bUIaHzn	an einer Sache leiden, eine Sache erleiden	to suffer from a thing (disease, etc), to suffer a thing (loss, etc)		y	y	
+dbxz52Z@;|	über jdn/etw reden	to talk about sb/sth		y	y	
+e3B}cUx/cJ	an jdn schreiben	to write to someone	accusative!	y	y	
+q,Uk>XI|?)	über jdn/etw schreiben	to write about sb/sth		y	y	
+lbIDGulB5j	jdm/etw vor einer Sache schützen, behüten	to protect sb/sth from a thing		y	y	
+j~oTge>9tb	über jdn/etw sprechen	to speak about sb/sth		y	y	
+rQlkVzjut@	an einer Sache sterben	to die from a thing		y	y	
+iyw5DP%rv?	an einer Veranstaltung teilnehmen, bei/in ... mitmachen, sich an ... beteiligen	to take part in an event, to participate (3 words)		y	y	
+kM4c5(BI*r	sich in jdn verlieben	to fall in love with sb		y	y	
+sKlr0T@B$(	vor einer Sache warnen	to warn against a thing		y	y	
+kYTkv`N|K$	auf jdn/etw warten	to wait for sb/sth		y	y	
+ma&jrw.VO	auf jdn/etw verzichten	to do without sb/sth, to forswear, to abstain from		y	y	
+j$9^{Z36/,	es fällt mir schwer(, ohne dich zu leben)	it's hard for me/I find it hard/difficult (to live without you)		y	y	
+jV~3EgszrC	beträchtlich	considerable, substantial		y	y	
++LsbjFN%j	die Investition/en	the investment/s		y	y	
+mc`GWjU;oW	die Anschubfinanzierung	the start-up funding		y	y	
+bT0L$O+V97	heikel	delicate, tricky, sensitive		y	y	
+u,?6z)aDOn	die Aufteilung/en	the division/s, the distribution, the partition		y	y	
+sTX+TWIV_~	die Hürde/n	the hurdle/s, the obstacle		y	y	
+mPy75fQmz~	die Pilotanlage/n	the pilot plant/s		y	y	
+s35-cR(Fc}	der Krümel/	the crumb/s		y	y	
+gT`J+6jk3+	halt (adv)	just, simply		y	y	
+"herD9XY#*]"	etw wegschmeißen	to ditch sth, to sling away		y	y	
+i<9Q{bP$$<	wütend	angry, furious		y	y	
+sFyB9/iFx7	aussuchen	to choose, to pick out, to cull		y	y	
+r+X46dy&o1	der Vorgang	the process, the procedure, the event		y	y	
+bYf|&xb&fe	mittelbar/unmittelbar	indirect/direct		y	y	
+lM!8`2(+yr	der Zuschuss/Zuschüsse	the grant/s, subsidy, allowance		y	y	
+"uPOo`1j(0#"	die Unterkunft, die Unterbringung	the accomodation (2 words)		y	y	
+"dDsF-#8Ywm"	die Verpflegung	catering		y	y	
+"j)sHt?HS#f"	die Einrichtung/en	the facility/-ies, the furnishing, the equipment, the establishment		y	y	
+l[@_gBh{=)	der Abbruch, die Zerstörung	the demolition (2 words)		y	y	
+d0$TdOLz/C	ableisten	to fulfil, to complete/serve/do (an apprenticeship, military service, etc)		y	y	
+vGBV=yz~SK	vorzeitig	premature, early		y	y	
+dsH^H[GE,T	anrechnen	to credit, to charge, to take into account		y	y	
+pxDY}3>6il	der Einsatz/Einsätze	the use/s, application, service, deployment (military)		y	y	
+gHvN8js:E6	die Verlängerung/en	the extension/s, prolongation		y	y	
+b|5G3C!n}U	erfolgen	to occur, to be made, to take place		y	y	
+klj:mO_eW^	Wir drücken euch die Daumen	We'll keep our fingers crossed for you		y	y	
+l-uaseg1ib	fristgerecht	on the due date, on time, within the prescribed period		y	y	
+mVWkvJbbtT	der Daumen/	the thumb/s		y	y	
+vN@JPI-8NT	verteilen auf/über	to distribute among, to spread out		y	y	
+vyD&-MgWXv	vermitteln	to convey, to give, to impart		y	y	
+f{0HEeW(GV	knüpfen	to tie, to make		y	y	
+G+kIF]GlX	sich an etwas (akk) knüpfen	to be tied up with something		y	y	
+f56r{+D5^t	die Begleitung/en	the accompaniment/s, the companionship, the escort		y	y	
+"i:UO#lQvLy"	etw (akk) vorsehen	to allow for sth, to arrange for sth, to envisage sth		y	y	
+vQ`7n-6&|t	insbesondere	particularly, in particular, especially		y	y	
+sciDgKB%N}	die Einführung/en	the implementation/s, the introduction, the launch (of a new product)		y	y	
+cX(Wv)5u1s	der Abschluss/Abschlüsse	the completion, the ending, the conclusion		y	y	
+j`+:W9}9=U	die Leit	the leading, guiding, routing		y	y	
+r$058]A~rk	abrunden	to round off		y	y	
+rWg`n9<b%L	der Betrieb/e	the operation/s, the company		y	y	
+fd0K?,b_HA	betreiben (betreibt, betrieb, habe betrieben)	to operate, to practice, to run		y	y	
+"q06Lf#;,CW"	einbinden	to integrate, to contain		y	y	
+pc*;]tS>R;	das Einbinden/	the binding/s		y	y	
+m[a~q4O!M}	etw ausschreiben	to put something out to tender, to write out		y	y	
+bsa&O<Td*R	der Vortrag/Vorträge	the lecture/s, talk, recital		y	y	
+mO-PF%m0zt	die Leistung/en	the service/s, performance		y	y	
+c_.U&|nI0S	die Erziehung	the education, the upbringing		y	y	
+bt>+2|YNyw	die Umwelt	the environment		y	y	
+f{Q09P|va6	sinnvoll	useful, sensible		y	y	
+oxb&}{a-Ps	das Gewicht/e	the weight/s		y	y	
+"d2Q4]#j~IZ"	das Gewichtheben	weightlifting		y	y	
+g=+heF8cO;	erzielen, erreichen, verwirklichen	to achieve, to realise (3 words)		y	y	
+muHcw=H$<|	der Wirkungsgrad/e, die Effizienz, die Leistungsfähigkeit/en	the efficiency/-ies (3 words)		y	y	
+ggp>C6|>{$	hierzulande	in this country, over here		y	y	
+"tV#7M|,-*{"	anders (als)	unlike, other than		y	y	
+ndhN&!{~W2	dutzendfach	dozens of, in dozens of ways, dozens of times		y	y	
+i<ojqR/d~~	die Veredelung/en, die Verfeinerung/en, 	the refinement/s		y	y	
+"p2uj|#9UuR"	der nachwachsende Rohstoff/e	the renewable resource/s		y	y	
+tyeTbD0CWX	nachwachsen	to grow again, to regrow		y	y	
+]%|0D!/mv	ausgesprochen	pronounced, marked(ly), exceptionally		y	y	
+n<,F9&frUN	gering, niedrig, nieder	low (3 words)		y	y	
+"rI#C*foIWB"	anspruchsvoll	demanding, challenging		y	y	
+~$xb%g0uS	der Forstwirt/e	the lumberjack/s, the forester, the forest operator		y	y	
+o+AiCU9kl/	zögern	to hesitate		y	y	
+jo~)XIkw2,	der Ast/Äste	the branch/es, bough, limb		y	y	
+m3$oZo+nOO	die Rubrik/en, die Kategorie/n	the category/-ies (2 words)		y	y	
+h0}Z+d-%cZ	anbieten	to offer, provide		y	y	
+lVI:/<a.Oo	der Enkel/, das Kindeskind/er	the grandchild/-ren (2 words)		y	y	
+lOt&tiUy$`	die Verlobten	the betrothed, the engaged couple		y	y	
+o4E{VQ4}.f	ausführlich	in detail, detailed, extensive		y	y	
+g?bS.MDA$K	die Ernährung	the nutrition, the diet, the food		y	y	
+h{hunc!YI[	gängig	common, current, established	"<h3>🔸 Examples</h3>
+<ol>
+<li>
+<div>„Das ist in der Branche gängig.“<br>
+→ “That is common in the industry.”</div>
+</li>
+<li>
+<div>„Diese Redewendung ist heute nicht mehr gängig.“<br>
+→ “This expression is no longer in common use.”</div>
+</li>
+<li>
+<div>„Die gängigen Programme unterstützen dieses Format.“<br>
+→ “The usual/common programs support this format.”</div></li></ol>"	y	y	
+b|_8XLPi|>	erläutern	to explain, illustrate		y	y	
+o`+Hx4|WBx	vermeintlich	alleged, supposed, putative		y	y	
+jY9$x@7P{k	entführen	to kidnap, to carry off		y	y	
+"q7G#w)XDXv"	zerlumpt	ragged, tattered		y	y	
+cd*19<_2yN	unwirtlich	inhospitable		y	y	
+hKD@a|Dop`	etw wagen	to dare sth		y	y	
+n-+NO)1K7G	ganz unten stehen	to be at the (very) bottom		y	y	
+lAD4G}`86S	die Rache, die Vergeltung	the revenge, vengeance, retaliation		y	y	
+jlEp$%}d1*	die Dichtung/en	the gasket/s, the washer/s, the poetry, literature		y	y	
+c?Ew9AukQI	die Schonung/en, der Schutz	the protection/s		y	y	
+bJU>Zsd-uz	Staub saugen	to vacuum (clean)		y	y	
+e[&lhcr>6@	saugen	to suck (non-figurative!)		y	y	
+bsqGLbTFF$	fliesen	to tile		y	y	
+uuttSg[MP[	geistreich	witty, ingenious		y	y	
+d>]<eh18D&	erstaunlich	amazing, astonishing		y	y	
+g$U[E7i^[6	flüchten	to flee, escape		y	y	
+q=~r/IsLlQ	das Irrlicht/er	the will o' the wisp/s		y	y	
+r[,q9Ty!X9	die Berührung/en	the contact/s, the touch		y	y	
+oauuoQ;P8J	der Spuk	the spook, apparition		y	y	
+nb%}=|Fxnl	die Spur/en	the trace/s, the track		y	y	
+"vyBm0#&2a]"	Feinster Grusel!	What an absolute horror!		y	y	
+dVjfQsF|9{	inszenieren	to stage, produce		y	y	
+tzK6+Dg@~_	anwenden	to use, apply		y	y	
+gN<m+Hs0+;	ermuntern	to encourage		y	y	
+GFjoTWFmj	durchstarten	to overshoot, to go around (aeronautical)		y	y	
+"bx=!Cr#hWb"	beherrschen	to control, to be in control of, to have a command of		y	y	
+snvYk-nVF1	jdm etw (akk) vorwerfen (er wirft vor, er warf vor, er hat vorgeworfen)	to accuse someone of something		y	y	
+vRVbn*,9sp	der Liebeskummer	lovesickness		y	y	
+r?W]C|Ds8@	sich an jdn/etw wenden	to contact sb/sth, to turn to		y	y	
+u5o4fkcrbc	äußerst	extreme(ly), very		y	y	
+hhPCvS[8@6	äußern	to express		y	y	
+cf/0e~Y`[Y	der Nachwuchs	the offspring, the new blood, budding (adj. used before noun)		y	y	
+l5(m$<f^.^	störanfällig	susceptible, interference-prone		y	y	
+o%~zileU=4	angeben	to specify, to indicate, to state		y	y	
+"r?2c-d#|oL"	die Wut, der Zorn, der Ärger	the anger (3 words)		y	y	
+j@]U[+3]`k	der Annäherungsversuch/e	the overture/s, advance, approach (sexual)		y	y	
+"7q6[Tm#22"	der Kummer	the grief, the sorrow		y	y	
+k|>/mY8wX}	ausleben	to live out, to realize	"<li><div><strong>„Er kann seine Kreativität voll ausleben.“</strong><br>
+→ <em>“He can fully live out his creativity.”</em></div>
+</li>
+<li>
+<div><strong>„Sie lebte ihre Freiheit in vollen Zügen aus.“</strong><br>
+→ <em>“She lived out her freedom to the fullest.”</em></div>
+</li>
+<li>
+<div><strong>„In der Großstadt konnte er sich endlich ausleben.“</strong><br>
+→ <em>“In the big city, he was finally able to express himself.”</em></div></li>"	y	y	marked
+dpqz-}[>sD	sich ausleben	to live life to the full, to live it up		y	y	
+qQ)2^Sc-:}	an einer Sache hindern	to prevent a thing, to hinder, to impede		y	y	
+iM`,`BaH12	etw (akk) betragen (beträgt, betrug, betragen)	to account for sth, to amount to sth, to be (wrt. numbers)		y	y	
+m{ia&;J5BL	kleinreden	to trivialise, to play down		y	y	
+jilkZ.^i=Z	ansteigen, (sich) erhöhen, steigern, steigen	to rise, increase		y	y	
+n:t6J|}i}n	der Zins/en	the interest/ (financial)		y	y	
+rE,+*UAwOg	Zinsen bringen	to earn interest		y	y	
+nl~R-{a~)s	die Anleihe/n	the bond/s (financial)		y	y	
+gDDQoNkzWU	der Stimmungsumschwung	the change of mood		y	y	
+m*H^KhQaRI	sich (dat) etw (akk) von jdm leihen	to borrow sth from sb		y	y	
+Bd0jXI=pC	jdm etw (akk) leihen (er leiht, er lieh, er hat geliehen)	to lend sth to sb		y	y	
+f[>DWpikKi	decken, abdecken, bedecken	to cover (3 words)		y	y	
+"ebH.ldW#PV"	der Anleger/	the investor/s		y	y	
+o?xEE5wn/0	der Vorbehalt/e	the caveat/s, the proviso, reservation/condition		y	y	
+ng`~7}dPqD	angesichts	given, considering, in the face of		y	y	
+f*~t:}+@@D	die Haftung/-	the liability/-ies (financial)		y	y	
+bz|&T!WPlc	die Rendite	the return on equity, the rate of return, the yield		y	y	
+irtO*/oqQ_	die Platzierung (am Kapitalmarkt)	the placement (on the capital market) (financial)		y	y	
+vtVO@/2Bg9	misslungen	failed		y	y	
+cwwO}_L}x/	der Beleg/e	the evidence/, receipt/s, document/s		y	y	
+kMxlRY}!vp	an jdm vorübergehen	to pass sb, to walk/go past sb		y	y	
+d;tuEQ&a/_	an jdm spurlos vorübergehen	to leave sb untouched		y	y	
+hq&)HolEVS	jdm reinen Wein einschenken	to come clean with sb, to tell sb the truth		y	y	
+vzVkd}s2jZ	einschenken, gießen	to pour		y	y	
+jk++~D1,Z%	wirksam	effective(ly)		y	y	
+pDAdR(5Ed=	eindämmen (hat eingedämmt)	to contain, curb, stem		y	y	
+f1yGa-SB`.	dauerhaft	permanent(ly), durable, long-term		y	y	
+hi)OeW`%8c	die Hebelung	the leverage (financial)		y	y	
+rL3hk$LA!^	belasten	to burden, to charge, to strain		y	y	
+crLmHv690,	die Belastung/en	the load/s, the stress the burden		y	y	
+hP&lFhD$:I	die Rakete/n	the rocket/s, missile/s		y	y	
+mM6;7>j]+7	weiterbilden	to study further/more		y	y	
+h~CvL?JF%b	etw (akk) spenden	to donate sth		y	y	
+"cOw#g<r4z<"	um etw (akk) laufen	to walk around sth		y	y	
+k5DZn<6=|3	es gilt	it is valid, it is important		y	y	
+cq/JUIUlu5	gleichgültig	indifferent		y	y	
+dM_)[U?x^=	ausmachen	to constitute, to make up		y	y	
+bS(c&s2ryA	abwendbar	avoidable		y	y	
+"d@J?GK!!O#"	die Fittich/e	the wing/s		y	y	
+vbo!Ucn$Ci	jdn unter seine Fittische nehmen	to take sb under one's wings		y	y	
+"f#9&TM18k2"	das Hindernis/se	the obstacle/s, hindrance		y	y	
+l-%fBnh/*u	prügeln	to beat, to thrash		y	y	
+xeh)U(*4O	ergründen	to fathom		y	y	
+czy@DxN[{/	der Unterschlupf/Unterschlüpfen	the shelter/s, the hideout		y	y	
+h/WTF:yHC4	sich (als etw / etw) ausgeben	to masquerade (as), to call oneself sth		y	y	
+l@3[_3;Rz8	ausgeben, aufwenden	to spend, to output, to give out (2 words)		y	y	
+"l!Yf#D2?}k"	zurückschrecken	to shrink, to recoil, to cringe		y	y	
+kGFd4(YR!s	schräg, geneigt	inclined, at a slant (2 words)		y	y	
+lC8eN[sRLu	etw (akk) einrichten	to establish sth, to furnish, to make sth ready		y	y	
+dqg}:54<u+	putzen, säubern, saubermachen	to clean (3 words)		y	y	
+b$Rvs3[&o/	räumen	to clear, to vacate		y	y	
+dc36)AHy{J	etw (akk) aufräumen	to tidy sth		y	y	
+"u=#<@GlhOT"	losgehen	to start, to kick off		y	y	
+iVEJ6$PiH}	das Festland	the mainland		y	y	
+lHSp5)g+,1	auf dem Festland	onshore, on the mainland		y	y	
+q*H+0BFrtt	das Bundesgebiet/e	the federal territory/ies		y	y	
+ym`VfSTi:	die Schulbank/Schulbänke	the school desk/s		y	y	
+nKrQ.RW:$8	die Schulbank drücken	to attend school (colloquial expr)		y	y	
+s[G|Q{3u<(	der Segeltörn/s	the sailing trip/s, the cruise		y	y	
+qIY;]_,O{G	der Matrose/n, der Seemann/Seeleute, der Seefahrer/	the sailor/s, the seaman		y	y	
+nW,P4|.}8Q	geraten	advised, to turn out, to get into		y	y	
+lNUFw:%j``	zurückziehen	to withdraw, retreat, retract, pull back		y	y	
+u}kWcv!0Q	sich in sein Schneckenhaus zurückziehen	to retreat into one's shell		y	y	
+dA<N|ApZHV	die Kajüte/n, die Kabine/n	the cabin/s		y	y	
+k4hPz+U@_)	der Umgang	the handling, contact, dealings		y	y	
+lxT1~/`svq	die Entbehrung/en	the privation/s, deprivation, hardship		y	y	
+bh;/1$Cmet	es gestaltet sich (als) schwierig	it is difficult (imp.exp)		y	y	
+oj$!xk:GR(	mithalten	to keep up, to keep pace		y	y	
+c`c6JyWdm/	aus einer Sache stammen	to originate from a thing, to come from, to date back to		y	y	
+o%yC<Zm|s$	(sich) etw / an etw anpassen	to adapt sth / to sth, to adjust, to customize		y	y	
+seM8KTFHOC	fest	firm, tight, fixed		y	y	
+sZXv<B16>N	erachten	to consider, to deem		y	y	
+nL|`P$r},m	meines Erachtens, meiner Meinung nach, meiner Ansicht nach	in my opinion (3 phrases)		y	y	
+$tv&Cq<ji	auf der Hand liegen	to be obvious (fig.)		y	y	
+cy@lZjg`Uo	abbringen	to dissuade		y	y	
+qP(.Glp?&z	ohne Weiteres	readily, offhand, without further ado		y	y	
+tDtwZtUh_O	es geht um	it's a matter of, it concerns, it is about		y	y	
+c@)}>y~yY/	der Bildschirm/e	the screen/s, monitor		y	y	
+"nzVqb|vV#W"	grausam	cruel(ly), horrible, fell		y	y	
+phb8l^`ErT	begehen	to commit, to celebrate		y	y	
+tx>u|uVYro	abstoßen	to repel, to push off, to reject		y	y	
+c{DeH9[f+$	verwerflich	reprehensible, objectionable		y	y	
+kXXISlWTp3	tatenlos	inactive, idle		y	y	
+pZk5[/qSD$	zusehen	to watch, to look on		y	y	
+iSIDJK=xK0	auf jdn/etw zutreffen	to apply to sb/sth, to be true about sb/sth		y	y	
+e34b`IscR0	befindlich	situated		y	y	
+q=_!FpAV&/	der Gesichtsausdruck/-drücke, die Mimik	the facial expression/s		y	y	
+ivhTuP2Ale	ablesen	to read, to read out, to read off		y	y	
+q:QsN5i){$	daraufhin	thereupon, as a result		y	y	
+n67w|Wm7qp	jdm etw widmen	to dedicate sth to sb, to devote sth to sb, to pay (e.g., attention)		y	y	
+t(7=%).&m~	wahrnehmen	to perceive, to notice, to sense		y	y	
+o|W-w8YlJS	anschauen	to view, to watch		y	y	
+iujeL@HSIG	genauer	more precise(ly), more exact, particularly		y	y	
+b,9jV;^=`z	der Herrscher/, der Machthaber	the ruler/s (of a land, etc) (2 words)		y	y	
+jz1dWBWmY`	verstorben	deceased		y	y	
+Nv+uXgUH3	herausragen	to protrude, to stand out		y	y	
+"ne#1Wr$KF4"	der Ton/Töne, der Klang/Klänge	the sound/s, the tone		y	y	
+hrzf$gz[{<	das Groschenheft	the pulp magazine, pulp fiction		y	y	
+n@=!lp8$FX	sorgsam	careful(ly)		y	y	
+p(Q3&s&BDo	(sich) bewegen	to move		y	y	
+hs5=EH4jj6	der Aufschluss	the information/		y	y	
+nM{nc{l-AY	verführen, verleiten	to seduce, inveigle (2 words)		y	y	
+f&iJ?0:b6F	jdm schmeicheln	to flatter sb		y	y	
+iv)iW{)DTX	der Flakon, die Flasche/n	the bottle/s, the flask (2 words)		y	y	
+m-XcK>><Am	das Plakat/e, das Poster/	the poster/s, placard (2 words)		y	y	
+c2~A1kT^6F	würdigen, schätzen	to appreciate (2 words)		y	y	
+bv:B.P.;*	etw. verarbeiten	to process, to handle, to assimilate		y	y	
+l%<)n_y4B?	umfassen	to include, to cover, to comprise		y	y	
+cydY_6r7wJ	the hallway/s (3 words)	der Flur/e, die Diele, der Gang/Gänge		y	y	
+uNdl=~V8D&	einen Annäherungsversuch bei jdm machen	to make a pass at sb, try to get closer 		y	y	
+bUtA|BM3i$	der Vorwahlkampf/kämpfe	the (presidential) primary/-ies		y	y	
+cq&F4%)uN.	sich hervortun	to excel, to distinguish oneself		y	y	
+o0E+6K<j^w	die Unwissenheit, die Ignoranz, das Unkenntnis	ignorance, lack of knowledge, lack of awareness (3 words)		y	y	
+M`E9sX6hp	der Ruf/e	the call, the reputation		y	y	
+eVr>y,n1ej	vielmehr	rather, in fact, on the contrary		y	y	
+drzmZN_bh:	durch das Land tingeln	to tour the country, to go sightseeing		y	y	
+u>};n.?nPN	verzerren, deformieren	to distort, deform (2 words)		y	y	
+"b#ab4D<Oh6"	bodenlos, grundlos	bottomless, groundless		y	y	
+h3,iOZ]UW$	die Bodenlosigkeit	the abyssal, groundlessness, outrageousness		y	y	
+kbyn4*rWrk	allerhand	all kinds of, every kind of		y	y	
+mT>s?nXY(7	der Patzer/	the goof/s, the slip up/s		y	y	
+o*@Yf`RtC8	der Schnitzer/	the carver/s, the blunder, the howler		y	y	
+qh>^T7Bc64	stecken bleiben	to get stuck, to bog down		y	y	
+q;__za{{sd	auskommen	to get along, to manage, to get by		y	y	
+b(6s2A|lL=	stehenbleiben	to stop, to stay		y	y	
+"rM#>$Grz,`"	der Möchtegern/e	the wannabe/s, the would-be		y	y	
+Rk)iy3-3/	würdig	worthy, dignified, with dignity		y	y	
+tvE?3v{LRc	dabei	thereby, in the process, in doing so, at the same time, with it		y	y	
+mkbx])GqJ8	poltern	to rumble, clash, bluster		y	y	
+tNfa/Y3~eg	das Zeug/s	the stuff, the thing/s		y	y	
+e(ypEet*:4	erschaudern, schaudern	to shudder, shiver (2 words)		y	y	
+qBMs[Z@a6D	(ein Angebot / einen Vorschlag) unterbreiten	to submit (an offer / a proposal), to put forward		y	y	
+l_B4J/kGI1	der Sünder/	the sinner/s, the transgressor/s		y	y	
+p&$xR|t~vA	die Deutlichkeit, die Klarheit, die Übersichtlichkeit 	the clarity, the clearness (3 words)		y	y	
+sS!q_Wn)vu	in aller Deutlichkeit	very clear(ly), perfectly clear, in no uncertain terms		y	y	
+f>fH|*vi?X	entgeistert, verblüfft	aghast, dumbfounded, flabbergasted, (amazed) (2 words)		y	y	
+m.QTm]U4BA	verblüffen, erstaunen	to amaze, astound (2 words)		y	y	
+lzf!*1X{C^	der Stabschef/s	the chief/s of staff		y	y	
+"tr#@~zG441"	die Abhängigkeit/en	the dependency/-ies, dependence		y	y	
+qt7_TD1;(U	dennoch	nevertheless, however, yet		y	y	
+b`aBq=~?d&	bezüglich, hinsichtlich	with regard to, regarding, concerning, with respect to (2 words)		y	y	
+q|t0l><dRj	die Beikost	the complementary food/s, the supplementary diet		y	y	
+txdjuK1i3M	Brust schwimmen	to swim breaststroke		y	y	
+iZcbF[&Pa5	jdm hinterhergehen, jdm folgen, jdn verfolgen	to follow sb (3 words)		y	y	
+"q}#}ndMI?@"	der Funke/n	the spark/s		y	y	
+d;A>1bQezn	Funken sprühen	to spark, to emit sparks		y	y	
++iY>5%Y1+	fließen (fließt, floß, ist geflossen)	to flow		y	y	
+ug_+[p7H-~	der Schritt/e	the step/s, the crotch		y	y	
+dwpqc466hA	reizvoll, attraktiv	appealing, attractive (2 words)		y	y	
+"u268#TyVFU"	das Bein/e	the leg/s		y	y	
+mcV1*&4pyk	der Knochen/, das Bein/e	the bone/s		y	y	
+t|F-p`&jT7	die Schere/n	the shear/s, scissors		y	y	
+pie{J&}{U)	leuchten	to light, to glow		y	y	
+k:*ix(^?c|	die Zuversicht, das Vertrauen	confidence (2 words)		y	y	
+eeG*$ag3Ae	kochen	to cook, to boil		y	y	
+cE|wo5cega	die Lende/n	the loin/s, the sirloin, the haunch		y	y	
+mQF:z;EDc0	glatt, reibungslos	smooth(ly) (2 words)		y	y	
+iYutOE}UJt	etw verschwenden	to waste, to squander		y	y	
+p__AJ`aAqs	hässlich	ugly		y	y	
+oaJ1?Y+jCp	der Himmel/	the sky/-ies, heaven/s		y	y	
+p@7ol(&L].	bleierner Himmel	leaden sky		y	y	
+g.N|FPE-jw	bedeckter Himmel	overcast sky		y	y	
+qG0:;lc`X`	verschwinden (verschwindet, verschwand, hat verschwunden), entschwinden	to disappear, to vanish		y	y	
+hD8{)wDW1J	das Maß/e	the measure/s, the degree		y	y	
+"l_{#Pc;z:C"	überreichen, vorstellen, präsentieren	to present (3 words)		y	y	
+OkNI9tvZ}	Letzteres trifft es wohl am besten.	That (the latter) may be the most appropriate description.		y	y	
+"j9LR.k>O#y"	im Endeffekt, letztendlich	ultimately, at the end of the day, finally (2 words)		y	y	
+iRF|j3L!Ky	letzteres/ersteres	the latter/the former		y	y	
+u)=xS[*5E	Er ist bis über beide Ohren verliebt.	He's head over heels in love.		y	y	
+q`|TFRa|;^	over/under (adverbs), above/below (prepositions)	über/unter		y	y	
+u:Db>lm2a!	oben, oberhalb (+ gen.) / unten, unterhalb	above / below (adverbs)		y	y	
+c(~dI,@N(&	die Gasse/n	the lane/s, alley		y	y	
+jC1TNEzNe/	verpesten (umg.), verschmutzen	to contaminate, to pollute		y	y	
+e@e~s3Y0ja	abschaffen	to abolish, to eliminate		y	y	
+hJu{.iBqK2	das Abgas/e	the exhaust fume/s, the exhaust gas		y	y	
+tlEKTjE]nu	mehrgeschossig	multi-storey		y	y	
+"i!i#;kJv#d"	(sich) verfestigen	to solidify, to strengthen		y	y	
+qE=^kc>u/G	nachhaltig, zukunftsfähig, (umwelt)verträglich	"<span style="" font-style: normal; font-weight: normal;"">(environmentally)&nbsp;</span>sustainable (3 words)"		y	y	
+mPu<ZGorC	der zurückgelegte Weg/e	the road/s travelled, the progress that's been made, the distance covered		y	y	
+pSE2`J|6kz	sagenhaft	legendary, fabulous		y	y	
+bttjEq]*6y	voller, voll von	full of, rife with (2 words)		y	y	
+"uf4i(%#}D&"	die Nase voll von etw haben	to be fed up with sth., to have a gut full of sth		y	y	
+"b;zYi#WH(C"	unterwegs	on the way, on the road, en route		y	y	
+sZylE]vGDc	ich bin schon unterwegs!	I'm on my way!		y	y	
+kL`mt^CNT~	jdn heiraten, sich mit jdm. verheiraten 	to marry sb.		y	y	
+hM|rVBR+%E	die Richtung/en	the direction/s		y	y	
+uTK-<UjjFx	der Anwalt/wälte, der Rechstanwalt/wälte, der Jurist/en	lawyer, attorney (3 words)		y	y	
+j?n{BwDHA&	die Leiche/n, der Kadaver/, die Karkasse/n	the corpse/s, the dead body, the carcass (3 words)		y	y	
+qLJ9=6,QM.	hübsch, schön	pretty, nice (2 words)		y	y	
+tsH91kyu:w	verdammen	to condemn, to damn		y	y	
+h+qciJ.%lF	drinnen/draußen	inside/outside, indoors/outdoors		y	y	
+n|M]5b/^K/	irgendwelche	any		y	y	
+fcZyEo5?t{	soweit	insofar as, as far as		y	y	
+6_~5>Al*W	der Hals/Hälse, der Nacken	the neck/s, the throat (2 words)		y	y	
+gc50P&Pf{8	der Feind/e, der Gegner/	the enemy/-ies, foe (2 words)		y	y	
+cB*-bNXS+8	das Übel, das Böse	the evil		y	y	
+h{dOAfJ[g;	die Abscheu	disgust, abhorrence, abomination		y	y	
+kb8oRcii<6	abscheulich	abhorrent		y	y	
+bWk(]<@nTw	die Gestalt/en	the shape/s, gestalt, character		y	y	
+k:(.Bn`Z[x	das Scheusal/e	the beast/s, monster, fiend		y	y	
+m&ITt7X7Fw	berühmt	famous, famed, renowned		y	y	
+esJl.Oi@P1	finster	dark, sinister		y	y	
+s,ty:1chmR	die Selbstüberhebung/en	the conceit/s		y	y	
+nC`beB!ZKB	die Verachtung	contempt, disdain		y	y	
+rWxXJkx6U;	nachstehen	to be inferior		y	y	
+l(W!2s6TYx	nachstehend	below, hereinafter, hereafter		y	y	
+lVq`42*Keh	das Genie, die Genialität	the genius, ingenuity		y	y	
+r&:=T|[eH	einzig	only, sole, unique		y	y	
+k~0{`){r!_	der Ehrgeiz	the ambition		y	y	
+eW)f^2HdFi	ohne Ehrgeiz	unambitious		y	y	
+r_qSn4];>i	beschränken	to restrict, limit, confine		y	y	
+t@94/-<b2l	hinterlassen	to leave behind, bequeth		y	y	
+tF8NZ{Z,qZ	der Flüchtige/n, der Flüchtling/er	the fugitive/s, the evader/s		y	y	
+iCeiFAru]S	flüchtig	fugitive, volatile, fleeting		y	y	
+p%LQ7DLtR]	der Geruch/Gerüche, der Duft/Düfte	the odour/s, smell, scent		y	y	
+o;O71**3F]	vorwegnehmen, antizipieren, erwarten, voraussehen, vorausahnen	to anticipate (5 words)		y	y	
+qC|W|&Tno]	ansehen	to view, to watch, to look at		y	y	
+km}xmXMNKe	umgehen	to go around, to avoid, to circumvent, to evade		y	y	
+rQstM%w^q+	die Macke/n, der Fehler/, die Eigenart/en	the fault/s, the quirk (3 words)		y	y	
+gf|{ctsRmq	allzu	too (much), overly		y	y	
+"j!Eft#5Su4"	offenbaren	to reveal, to disclose		y	y	
+g+^c+5FDOx	offenbar, offensichtlich	obvious (2 words)		y	y	
+i.|jSEBZ3O	sich als etw entpuppen	to turn out to be sth, to emerge as sth		y	y	
+d),QO]P?LF	die Nörglerin	the one in a bad mood (negative way of talking about a woman)		y	y	
+k1gc@y2U++	die Gnade/n	the mercy/-ies, the divine grace/s		y	y	
+dI50+f<uIB	wildfremd / der wildfremder	totally unknown / the total stranger		y	y	
+iYH:4wk6t4	auf der Flucht vor einer Sache	on the run from something, seeking refuge from, fleeing		y	y	
+mF[9A<=:QU	die Hingabe	the devotion, the dedication, the commitment		y	y	
+sq:O|.IxZ7	innig	deep(ly), heartfelt, intimate		y	y	
+rkUAwCRBI2	innigst(e), am innigsten	most intimate		y	y	
+i^8~S5un4E	der Anteil/e	the share/s, proportion/s		y	y	
+n;0R[cRW[J	bis, bis zu	as far as, up to, until		y	y	
+baa7;||tZ^	zu seinem Entsetzen	to one's horror, one is appalled, one is dismayed		y	y	
+t7pd=_8DC9	auf etw (he)reinfallen	to be taken in by sth, to fall for sth		y	y	
+rKFzm@Wyo%	die Fassade/n	he facade/s		y	y	
+kY)a3m2zqu	jdn aufschrecken, erschrecken, Angst einjagen, jdn einen Schrecken einjagen	to scare sb, to frighten (4 words)		y	y	
+k~CD:J0(1U	der Opfer/	the victim/s, the sacrifice/s		y	y	
+i/Fm42wynP	einer Sache zum Opfer fallen	to fall victim to a thing		y	y	
+o_Nwu,8%t)	jdn einschüchtern, verschüchtern	to intimidate sb, to frighten sb		y	y	
+hfliV_9,cd	Es verdichten sich die Hinweise darauf	There is growing evidence, More hints are surfacing		y	y	
+nGZ*G.$u)Q	verdichten (verdichtet, verdichtete, hat verdichtet)	to condense, to compress		y	y	
+vW3[i7TvV]	jdm ein Fehler unterlaufen (unterläuft oder läuft unter, unterlief oder lief unter, ist unterlaufen oder untergelaufen)	an error slips in / creeps in (to someone's work)		y	y	
+vhr}IVD8*u	der Anschlag gilt jdm	The attack is aimed at sb		y	y	
+t~aa,@TYV~	der Kauz/Käuze	the codger, strange fellow		y	y	
+c}v[kw4m0*	in der Nähe von	in proximity to, near, near by		y	y	
+k38oj<6F!b	förmlich	formal(ly), literally, really		y	y	
+b$AtvK3TE;	an einer Sache festsaugen	to attach to a thing, to adhere		y	y	
+vj<iQd>bNg	die Bedrohung/en, die Drohung/en	the threat/s, the danger/s (2 words)		y	y	
+b~3^dE-_W?	die Auskunft/Auskünfte	the information, the disclosure		y	y	
+mPnwc~L+)o	das Vieraugengespräch/e	the private discussion/s		y	y	
+qE0O9$LNqD	die Aufhebung/en	the cancellation/s, suspension, repeal		y	y	
+bKmU)i~2@O	der Ausnahmezustand/stände, der Notstand/stände, die Notlage/n	the state/s of emergency, crisis (3 words)		y	y	
+GT_;Xu{N0	sich auf jdn auswirken	to affect sb, to bear on, to influence, to impinge (for negative impacts)		y	y	
+c9I:o{uSu7	der Empfänger/	the recipient/s		y	y	
+dFVUS%Tb]~	forschen	to research		y	y	
+cbG&hso(Cu	sich über jdn/etw Gedanken machen	to be worried about sb/sth, to wonder about, to give thought to		y	y	
+mBW?,_8w3$	der Typ/en	the type/s, the guy/s		y	y	
+bUEN)EFMLF	(sich) streiten (er streitet, er stritt, er hat gestritten)	to dispute, argue		y	y	
+qDkYmX5?K%	lautstark	loud, vociferous		y	y	
+hOj.;<u./F	(sich) zersetzen, zerfallen	to decompose, to disintegrate (2 words)		y	y	
+gM(-4V=SK-	der Nerv/en	the nerve/s		y	y	
+f^i2@d_~@y	auf jdn/etw stehen	to be into sb/sth, to fancy, to go for		y	y	
+"c#:!+.VvPm"	jdn belauern	to stalk sb, to watch sb		y	y	
+qV8.jPR2~U	jdn/etw umsorgen, sich um jdn/etw kümmern, sich um jdn/etw scheren (umg.)	to look after sb/sth, to care for (3 words)	"<h3>🔸 Examples</h3>
+<ol>
+<li>
+<div><strong>„Sie umsorgt ihre kranke Mutter liebevoll.“</strong><br>
+→ <em>“She lovingly takes care of her sick mother.”</em></div>
+</li>
+<li>
+<div><strong>„Das Kind wurde von den Großeltern rundum umsorgt.“</strong><br>
+→ <em>“The child was lovingly cared for by the grandparents.”</em></div>
+</li>
+<li>
+<div><strong>„Der Hund wurde vom Tierheim gut umsorgt.“</strong><br>
+→ <em>“The dog was well cared for by the animal shelter.”</em></div></li></ol>"	y	y	
+gS/?ny@lyy	sich aufgehoben fühlen	to feel looked after, to feel safe		y	y	
+fW%2X]KGoe	per Adresse, p.Adr.	care of, c/o (for addressing mail)		y	y	
+"hig#rd)+J0"	aufheben (er hebt auf, er hob auf, er hat aufgehoben)	to remove, to cancel, lift		y	y	
+tB-*{3uj{(	gut aufgehoben sein	to be in good hands		y	y	
+"n^=#%${Z|H"	&quot;aufgeschoben ist nicht aufgehoben&quot;	&quot;postponed is not abandoned&quot;		y	y	
+"o.^1K##Lp:"	kippen	to tilt, to topple		y	y	
+"c6gk*{#Hn4"	ins Abseits geraten	to be marginalised, to be side-lined		y	y	
+mnu}OZQSZU	abseits einer Sache	away from a thing, off a thing		y	y	
+uDf{-=F6W-	abseits der Piste	off-piste		y	y	
+s~-6+44A9b	das Abseits	the sidelines, the margins, offside (soccer)		y	y	
+i(|adYyp%p	der Lebensmut	the courage to face life		y	y	
+tDw/<O|e(A	auf etw zugreifen	to access sth, to take hold of sth		y	y	
+qf2YPaLf)l	etw ergattern (hat ergattert)	to get hold of sth, to snatch, to manage to grab		y	y	
+"k&$)fn#)1w"	trostlos, öde	bleak, desolate		y	y	
+uG_bxVaW2~	feingliedrig	slender, gracefully built		y	y	
+gKW37:UIr}	zart	tender, delicate		y	y	
+tn-|asL,R]	die Anmut, der Liebreiz	the grace, charm (2 words)		y	y	
+"l#Q3c%Lc5c"	jdm auffallen (er fällt auf, er fiel auf, er ist aufgefallen)	to strike sb (i.e., sb notices sth), to attract sb's attention, to be apparent		y	y	
+sg{qwOS8B5	der Vorwand/Vorwände	the pretext, the excuse, the pretence		y	y	
+hv|Kw3.~sl	sich herumtreiben	to prowl, to hang around		y	y	
+s~mNC3B}O/	schreiten	to stride, to step		y	y	
+sC<!`)O)nd	ausschreiten	to stride along, to step out		y	y	
+o[gv%Z1|kq	trippeln	to trip, to scurry		y	y	
+ql=4go8(xu	voranschreiten	to proceed, to forge ahead, to stride ahead		y	y	
+f>%Q37Xo+;	die Vollkommenheit, die Perfektion, die Vollendung	perfection (3 words)		y	y	
+j$wWjp6qu_	mit etw hantieren (hantierte, hat hantiert)	to handle sth, to be busy with sth, to fiddle with sth		y	y	
+qpkr;h^ubJ	die Einnahme/n	the revenue/s, the taking, the income		y	y	
+jCe/KuM7.S	kulant	accomodating, fair, obliging		y	y	
+q+cCh771:]	dicht	dense(ly), tight		y	y	
+k]EPWt2~}t	belaubt	leafy		y	y	
+g[C.Ld|Y<!	seinerzeit	at its time, at that time, in those days		y	y	
+sl/8Ip|K,f	ansonsten	otherwise		y	y	
+p)pC%3`BeU	etw fertigbringen (er bringt fertig, er brachte fertig, er hat fertiggebracht)	to accomplish sth, to achieve, to manage		y	y	
+m:Q>T@(}G+	jdn kommen lassen	to send for sb, to summon sb		y	y	
+j%{we4y]`+	sich (dat) etw zuschulden/zu Schulden kommen lassen	"to do sth wrong (expr. *""to let something come to faults"")"		y	y	
+k$ZQZeK]eo	der Anzug/Anzüge	the (men's) suit		y	y	
+tS.Uu%.KJr	abgeben	to make, to deliver, to hand over		y	y	
+dQo:tc,U<=	dezent, diskret, unaufdringlich	discreet, unobstrusive (3 words)		y	y	
+l:Qb;bD[Jm	(jdn in) etw verwickeln (ich verwickle, er verwicklet, er verwicklete, er hat verwickelt)	to involve (sb in) sth, to embroil sb in sth, to ensnarl		y	y	
+t7*hdfEJX3	von etw abkommen	to deviate from sth, to abandon sth		y	y	
+jD-r%h%5g^	auffahren (er fährt auf, er fuhr auf, er ist aufgefahren)	to drive up, to tailgate		y	y	
+kEC+AYp}u*	die Fahrbahn/en	the roadway/s, the road, the carriageway		y	y	
+q5$}C;N_K2	abbiegen, biegen, (sich) drehen	to turn (3 words)		y	y	
+r|nf>;~%oB	die Vorfahrtsverletzung/en	not giving way, breaching the right of way rule (traffic offence)		y	y	
+e!nS(ZO=W4	herumbasteln	to tinker		y	y	
+m1/EY4Hx`c	neugierig	curious(ly)		y	y	
+"l=kR#p$EmK"	die Steuer/n	the tax/es		y	y	
+b=dl562j+G	das Lenkrad/Lenkräder, das Steuer/	the steering wheel/s (2 words)		y	y	
+1}kUaej2@	allenfalls	if need be, at best, at most		y	y	
+s6^sB43a~e	die Zündkerze/n	the spark plug/s		y	y	
+d|*sHYDcMC	der Umlauf, der Kreislauf	the circulation (2 words)		y	y	
+p&<~R9NJ|O	tauschen, austauschen	to exchange, to swap		y	y	
+eQc=Sj@JL]	die Münze/n, das Geldstück	the coin/s (2 words)		y	y	
+p=YCGPCsNv	lagern, speichern	to store		y	y	
+fnX3c]RpMy	der Schein/e	the ticket/s, the bill/s		y	y	
+kl1[`qdU._	prägen	to shape, to characterise, to mint		y	y	
+fssy)}x[Sh	das Wappen/	the emblem/s, the crest, the coat of arms		y	y	
+moekq>S{vB	verzieren, dekorieren, schmücken	to decorate (3 words)		y	y	
+"x#vLJ_M;i"	der Spruch	the saying, the slogan		y	y	
+jTs_>]l*a2	an etw verlieren	to lose something		y	y	
+"bs#dO=<ht("	fangen	to catch, to capture		y	y	
+b*NjrV]uXB	die Walzerklänge/n	the sound/s of Walzes, waltz strain/s		y	y	
+s>6uBF8??U	heuer	this year (Southern/Austrian German)		y	y	
+pF?h(v{VEd	loslegen	to get going, to get cracking		y	y	
+vu:aOGR`$[	etw bereithalten	to have sth ready, to have sth available		y	y	
+tOq3s}dTyj	erstmalig	for the first time, first		y	y	
+"k#_7@pmjmz"	der Kronleuchter/	the chandelier/s		y	y	
+d?Cg31bcu7	die Spitzenklasse/n	the top class/es		y	y	
+"qlb5hn#lL7"	darbieten	to present, to perform		y	y	
+p+&@JmmO8h	die Kittelschürze/n	the apron/s, the overalls		y	y	
+j-2%7EGd1~	die Ladentheke	the shop counter		y	y	
+eW4f[Wl5B$	wickeln	to wrap		y	y	
+h)+zj|>SC]	sich abzeichnen	to stand out		y	y	
+qU.4!ZCP:{	absehbar	foreseeable		y	y	
+cwlaC-8wE{	ablösen	to replace, to remove		y	y	
+g&00P^).r*	der Gewerbetreibende/n (den/dem/des Gewerbetreibenden)	the tradesman/men		y	y	
+"i}#DA>hSs?"	das Augenzwinkern	the wink		y	y	
+j!z5Sb/4*7	der Anwohner/	the resident/s		y	y	
+"l^2#v:K2SL"	durchweg	consistently, throughout		y	y	
+qZ{7K)oC/~	fragwürdig, zweifelhaft	questionable, dubious (2 words)		y	y	
+mz0j~P{g>G	erweisen	to prove, to turn out		y	y	
+j8~,6y3_He	umdenken	to rethink		y	y	
+s,Ytg_:YT=	die Haare zu Berge stehen	for one's hair to stand on end		y	y	
+kJ9bKK0@OP	die Umfrage/n	the survey/s, the poll		y	y	
+iTxz6Xdf|v	beeinträchtigen	to impair, to affect, to compromise		y	y	
+m|cK>M0mCx	das Unglück/e	the misfortune/s, accident		y	y	
+g3p@$^0vWr	das Wachstum	the growth		y	y	
+shP1[Ugy[`	bremsen	to brake, to slow down		y	y	
+gg)6@PLH(:	die Schande	the shame, disgrace		y	y	
+sxCByaY%Yo	stecken	to stick, to put (in)		y	y	
+eTw59C./MX	zweistellig	double-digit		y	y	
+fX!CJen/A}	sparen, einsparen	to save, to economise (2 words)		y	y	
+vfB_uv.8a_	die Verschandelung/en	the blight/s, disfigurement		y	y	
+c8DbM{tU4?	die Belastigung/en	the harassment/s, the nuisance		y	y	
+i1>.L?BgZV	der Flügel/	the wing/s (colloquial), the blade		y	y	
+;rMv;=cMU	der Infraschall	infrasound, subsonic noises		y	y	
+vuBpfe%I({	widerstehen, standhalten	to resist, to withstand (2 words)		y	y	
+q~s?!fE8o|	jdm dienen	to serve sb		y	y	
+n<n,i+b|KC	die Wirkung/en	the effect/s, impact		y	y	
+"d#Ok8PmJVc"	winzig, klitzeklein	tiny, teeny-weeny (2 words)		y	y	
+"mC@;D*h#)%"	um etw (gen) willen	for the sake of sth		y	y	
+uax&bz,~bF	die Leidenschaft/en	the passion/s		y	y	
+mHAQm-<4%h	bei aller etw, trotz etw (gen)	despite sth, in spite of sth (2 words)		y	y	
+pdT~Z~tu=p	bescheiden	modest(ly), humble		y	y	
+dEa^}:VL2<	ungeachtet + gen	regardless of, irrespective of		y	y	
+fcPj4FqMF/	im eigenen Saft schmoren	to stew in one's own juice, to be left to one's own devices		y	y	
+mz,J~UlW0{	der Hahn/Hähne	the rooster/s, the cock		y	y	
+e}yHGWyoyY	Der Hahn kräht auf dem Mist	The cock crows on the dung heap.		y	y	
+?E]KFWmT]	der Widder/	the ram/s, Aries (starsign)		y	y	
+vs.|K/|wry	das Kaninchen/	the rabbit/s, the bunny/-ies		y	y	
+pO6%tSjK<.	der Hase/n (des Hasen)	the hare/s, the rabbit		y	y	
+b5Rtae3`KW	der Stier/e	the bull/s, Taurus (starsign)		y	y	
+raz!z1pv@5	überschätzen, überbewerten	to overestimate, to overrate, to overvalue (2 words)		y	y	
+"f0#WsUw.Sy"	jdm/etw nahestehen (er steht nahe, er stand nahe, er hat nahegestanden)	to stand close to sb/sth		y	y	
+cr/-OuErf]	der Trumpf/Trümpfe	the trump/s, the trump card		y	y	
+e}+r__k$AZ	die besseren Trümpfe haben	to have the best assets, to have the advantage		y	y	
+"vza#dnTG31"	der Zwilling/e	the twin/s, Gemini (&quot;the twins&quot; - starsign)		y	y	
+dZ4uS)~zH<	die Verhandlung/en	the negotiation/s		y	y	
+nWjXy~_E|_	gutgläubig	trusting, credulous		y	y	
+tNll7V+?xP	der Krebs	cancer, Cancer (starsign)		y	y	
+k{+{0<I={	die Verpflichtung/en	the obligation/s, the commitment		y	y	
+oSbPma$o|]	der Löwe/n	the lion/s, Leo (starsign)		y	y	
+kw&Jiv0vrb	der Erfolg ist jdm sicher	someone's success is assured		y	y	
+"khBytx#^p<"	die Möglichkeit/en	the possibility/-ies		y	y	
+fYkX)mdy)B	drohen	to threaten		y	y	
+cL}}eD|Q7^	sich kleinkriegen lassen	to get down, to get discouraged, to let yourself be dominated		y	y	
+"k!#6ZVu_*g"	durchsetzen	to enforce, assert		y	y	
+hUyo)<4]e<	die Gegenwart	the present (time)		y	y	
+i*D;YGxUD*	die Zukunft	the future (time)		y	y	
+"jZakj#Uy*/"	die Vergangenheit	the past (time)		y	y	
+Y2q_UoyKQ	gegenwärtig	current, present		y	y	
+"TcT_J#CDj"	die Angelegenheit/en	the matter/s, the affair		y	y	
+biLe{^xpAE	die Jungfrau/en	the virgin/s, Virgo (starsign)		y	y	
+jb./Bv%a@@	die Waage/n	the scale/s, the balance, Libra (starsign)		y	y	
+rV:,L)F&th	der Skorpion/e	the scorpion/s, Scorpio (starsign)		y	y	
+p_exWy&H*r	der Schütze/n	the shooter/s, the archer, Sagittarius (starsign)		y	y	
+i_+{^t3vCe	jdm lacht das Glück	Fortune smiles/is smiling on sb		y	y	
+lWz~7/9^o5	berühren, anfassen	to touch (2 words)		y	y	
+kGs6{GR|78	der Steinbock/Steinböcke	the ibex/es, Capricorn (starsign)		y	y	
+uQk[c,$emo	der Erwerb/, der Einkauf/Einkäufe	the purchase/s, the shopping		y	y	
+vW8oE-B<CU	eine Entscheidung fällen (er fällt, er fällte, er hat gefällt)			y		
+g]YWMYS>L!	der Wassermann/männer	Aquarius (starsign), the water sprite/s		y	y	
+ou<rQAu(V+	anstatt	instead of		y	y	
+qM5m<3OEVL	statt dessen	instead (of that)		y	y	
+in6w-srF0P	der Fisch/e	the fish/, Pisces (the fish pl.)		y	y	
+le2&4JS2n>	unternehmungslustig	entrepreneurial		y	y	
+cIlzHR-D8[	springen	to jump, to dive		y	y	
+s=>/Kx4Ucs	ohne Gewähr	with no guarantee, without liability		y	y	
+"t!Ju}Wg@=#"	etw zugeben	to admit sth, confess		y	y	
+rhst^{xv)Q	zustimmen, einverstanden sein	to agree		y	y	
+rZxS:x!A4[	bewegt, emotional, gefühlvoll	emotional, moving (3 words)		y	y	
+fW}(aC+`qA	ungemein	immensely, tremendous		y	y	
+l8MLnnZ5h$	etw mit jdm gemein haben	to have sth in common with sb		y	y	
+br[>}i!77S	gemein	mean, cruel		y	y	
+k{Y6PWdqL@	die Vielseitigkeit	the versatility, many-sidedness		y	y	
+u6/*gA|,(:	etw festhalten	to hold sth, to record		y	y	
+qFs*/k(DA%	sich an jdm/etw festhalten	to hold on to sb/sth, to hang on		y	y	
+"sb*#=3iLGi"	befangen, voreingenommen	biased, prejudiced		y	y	
+tV`Qc|t4*r	self-conscious	gehemmt, befangen		y	y	
+h?X83fXa*t	der Schrebergarten/gärten	the garden allotment/s, the garden plot		y	y	
+g%::1d2!8>	durchblättern	to browse, to leaf through		y	y	
+f[6YahLS,|	beiläufig	casual(ly), incidental, in passing		y	y	
+gXsKzDSA&t	skurril	bizarre, whimsical		y	y	
+pNoK(:-s8e	lenken, führen, leiten	to lead, to direct, to guide (3 words)		y	y	
+"sC#i%C~Uya"	anpacken	to tackle		y	y	
+"nNRD(#z#df"	vereinbaren	to arrange, to agree		y	y	
+iyNK;)Op-W	kompatibel, verträglich, vereinbar	compatible (3 words)		y	y	
+lA,g?C53dP	die Erleichterung	the relief, the easing		y	y	
+kUch6f~imk	vorbeirauschen	to rush past		y	y	
+"rLmcc#kmMp"	mir ist schwindelig	I am dizzy		y	y	
+kXau;8|,S&	ringsum	around, surrounding		y	y	
+vlR.(Pa?wM	plaudern, sich unterhalten, chatten	to chat		y	y	
+b|QJCk<Hx.	klirren	to clink, to clash		y	y	
+j5RV>1S3`l	fegen, kehren	to sweep		y	y	
+n7_K$^JMIp	etw unter den Teppich kehren	to sweep sth under the carpet		y	y	
+"e#6X6uw72O"	das Gelaber	the drivel, the babbling		y	y	
+t=!zJpV`uv	herumtoben	to romp, to frolic		y	y	
+iQy)1E=~DN	herauslösen	to liberate		y	y	
+tZM6eEuQh_	entfallen	to be omitted, to be dropped		y	y	
+"h_%#D0FgJ8"	etw ist jdm entfallen	something slipped sb's mind		y	y	
+j>BBnh8=T/	vorwiegen	to predominate		y	y	
+grE+qz?>W8	der Sekt/	the sparkling wine/s, champagne, 		y	y	
+tDOZ6~of[?	das Knabbergebäck	snack food		y	y	
+fBDk6{<0*2	der Teller/	the (dining) plate/s		y	y	
+h`@gYFO6N2	die Gabel/n	the (dining) fork/s		y	y	
+k[ejt<4nFH	das Messer/	the knife/knives		y	y	
+o7/}~J;uo3	der Löffel/	the spoon/s		y	y	
+mOzV>qS&.P	die Schale/n, die Schüssel/n	the bowl/s (2 words)		y	y	
+bUp9ceb:mk	die Tasse/n	the drinking cup/s		y	y	
+r:,CILt1I/	der Becher/	the mug/s the beaker		y	y	
+"kIs3JR9u#7"	undurchdringlich, undurchdringbar	impenetrable(-ly), impervious (2 words)		y	y	
+l[]Ar?aDo<	schier	almost, near, sheer		y	y	
+"f#ile<;/w9"	das Gewirr	the tangle, the maze		y	y	
+dPp[aT{I;S	die Verwirrung, die Konfusion	the confusion, bewilderment (2 words)		y	y	
+g&|)bc88Ue	die Verwechslung	the mix-up, the confusion		y	y	
+"e>,%5_#lIT"	eifrig	eager(ly)		y	y	
+js/|S)@cOM	die Nahrungsmittelunverträglichkeit	the food intolerance, the food allergy		y	y	
+s~{zh`}j{T	umfangreich, weit, umfassend, ausgiebig	extensive (4 words)		y	y	
+t@5s?(f;rE	der Ansatz/Ansätze	the approach/es, the beginning		y	y	
+eJ3tM+;[.T	sich zusammenreißen	to get a grip on oneself		y	y	
+n6{mr$eGF2	herumliegen	to lie around		y	y	
+/I]BdAsXL	zurückführen	to lead back, to restore, to reduce		y	y	
+%za2WbJ9k	der Jugendtreff/en, der Jugendklub/s	the youth club/s		y	y	
+e4}~M~_maQ	das Bewerbungsverfahren/	the application process/es		y	y	
+lkMOJ<Tw7j	die Eckfahne/n	the corner flag/s (soccer)		y	y	
+nm_NzULO+$	glücklich, zufrieden, froh, freudig	happy(-ily) (4 words)		y	y	
+orh1!dao;a	sich ergießen (er ergießt sich, er ergoss sich, er hat ergossen)	to gush (water)		y	y	
+eGoY!np<^G	ausstoßen	to emit, to discharge, to launch		y	y	
+d}baq2c`AS	einen Schrei ausstoßen 	to let out a yell		y	y	
+h5VQ*:@v-o	der Freudenschrei/en	the shout of joy, cry of delight		y	y	
+mABs6]2A}@	schreien (er schreit, er schrie, er hat geschrieen)	to scream, to yell, to screech		y	y	
+i7e0@_+pU$	ausführen	to perform, to execute, to carry out		y	y	
+kwNHkaREhW	wie es ausgeht	how it turns out		y	y	
+hg_5tb:FCF	einstellen	to set, adjust		y	y	
+mc$[d|MDs^	der Laie/n	the layman/laymen, the amateur		y	y	
+trzx;k)+|<	massentauglich	for the masses		y	y	
+nXNR8,aJnA	zu zweit	in twos, two of		y	y	
+o[uW<YhqWO	das Dekolleté	the cleavage, the décolletage		y	y	
+p>CxQauE(:	der Abpfiff	the final whistle		y	y	
+gfoPu;~K>{	folgerichtig	consequent(ly), logical		y	y	
+r42wKU>cII	mit jdm mitfiebern	to share the thrill/excitement with someone (sport)		y	y	
+toEec3ff4j	die Aufstellung/en	the list/s, the setting up, the line-up (sport), the team		y	y	
+"nOQ-S2#7(,"	randvoll, vollfüllend	brimming (2 words)		y	y	
+fZ[RLS3OS:	übersprudelnd	bubbling over		y	y	
+"s60MLL8fI#"	am selben Tag und zur selben Zeit	on the same day and at the same time		y	y	
+~ueIm(Bn(	tippen, eintippen	to type (in)		y	y	
+hbV_NElF:5	fischen, angeln (gehen)	to fish, (to go fishing)		y	y	
+u;BI^E)IuJ	wiedergeben	to reflect, to reproduce, to play back, to render		y	y	
+r|O|IYX%Ai	indem (konj.), z.B.&quot;..., indem wir Strafen androhen&quot;	by/as/while + ing, verb +ing ..., e.g. &quot;... by threatening penalties&quot;		y	y	
+sz9kscRm![	beleidigen	to offend, to insult		y	y	
+pQ$97Hd}0a	erwidern	to return (a compliment, feelings, generosity), to reply, to answer		y	y	
+j=a=isZ=gc	hervorkramen	to dig out (information, stories, etc), to dredge up		y	y	
+gdcr9z-4;*	foltern, quälen	to torture, to torment (2 words)		y	y	
+l-hDu|WINx	schlucken, verschlucken	to swallow		y	y	
+b4GLJ7-TL$	der Tratsch, der Klatsch	the gossip		y	y	
+hOQ>$*p+$I	stöhnen	to moan, to groan		y	y	
+f@H|Wt^3|b	jammern 	to complain, to whinge		y	y	
+oSYd4/_(eV	nörgeln	to nag, to moan		y	y	
+kqX/bs$eok	schluchzen	to sob		y	y	
+ipfUL.gHr	in etw nach einer Sache kramen	to rummage about in sth for a thing		y	y	
+h7h/,K1,Gk	vorübergehend	temporary (-ily), transient		y	y	
+orBNcSQO~u	soeben, gerade	just now, just (w.r.t. recent time)		y	y	
+"rN)#0{#YU8"	einreichen	to submit, to hand in, to lodge		y	y	
+grXZ}MNm2z	abschließen	to conclude, to complete (successfully)		y	y	
+qC:_(_)r)*	lästig	annoying, troublesome		y	y	
+swLxxT]5(~	jdm lästig sein	to inconvenience sb		y	y	
+M341Ln;c&	die Nüchternheit	the sobriety		y	y	
+l,8R<4DtFW	nüchtern	sober, down to earth		y	y	
+hFDJ&0Z}+G	die Beliebtheit	the popularity		y	y	
+eDl>fk(4@	überbieten	to outbid, to surpass, to outdo		y	y	
+k/nct6-aV[	gängeln	to subjugate, to lead in chains, to press-gang		y	y	
+"dU;(H;#&fT"	bevormunden	to patronize		y	y	
+sX3O^UwU}8	etlich; etliches	quite a number of; a number of things		y	y	
+cwhJpa,}yF	die Definition/en, die Festlegung/en, die Bestimmung/en	the definition/s (3 words)		y	y	
+r3p>Q9$S%S	entziehen	to withdraw, to avoid, to take away		y	y	
+kgv4{2(PCM	sowie	as well as		y	y	
+e0E-A}JF6H	auswiegen (er wiegt aus, er wog aus, er hat ausgewogen)	to weigh out, to balance out		y	y	
+ja9].@N[g=	die Reduzierung/en, die Reduktion/en, die Verringerung/en	the reduction/s (3 words)		y	y	
+vR!tKh12)Z	jdm zur Verfügung stehen	to be available to sb, to be at sb's disposal		y	y	
+d_Visxubn.	der Lehrplan/Lehrpläne, das Curriculum/Curricula	the curriculum/curricula		y	y	
+"nf#jm2/>o#"	auf der Stelle	on the spot		y	y	
+kT<*0ktv44	die Klamotte/n	the clothes/ (col.), the clobber, the rags		y	y	
+e`4%>g+DgY	es ist an der Zeit(!)	(it's about time!), the time has come		y	y	
+"r$$BUkjr;#"	behaupten	to claim, to maintain, to assert		y	y	
+jQLbgh@k:]	sich behaupten	to assert oneself, to hold one's ground		y	y	
+pbhnZlEVM=	sich vorstellen, sich einbilden	to imagine		y	y	
+oqTzGHZ?B6	unbeschadet + gen	notwithstanding, irrespective of; unscathed		y	y	
+oo`g?TchmO	auf einen Sprung hereinkommen	to drop in		y	y	
+iI_5-^0A^[	je	ever; each, every; per		y	y	
+b|3Ss)?9Va	je nach	according to		y	y	
+j:PX,]Y%23	je nachdem	depending on		y	y	
+p|lx}0|;u~	das Plädoyer	the plea		y	y	
+b}~oxe;L^^	der Leidensdruck/e	the psychological strain/s		y	y	
+g}K?zlG<Bm	verfressen sein	to be greedy, to be a piggy, to be a glutton		y	y	
+"mo3#G0w~i|"	umwinden (umwindet, umwand, hat umwunden)	to entwine		y	y	
+lRBXvg*J>G	untersagen	to prohibit, to forbid		y	y	
+osARfF1@9X	Kaugummi kauen	to chew gum		y	y	
+pOY<5G|-]V	betrügen, täuschen, hintergehen	to cheat, to deceive (3 words)		y	y	
+rM0xY>F3Q}	die Skizze/n	the sketch/es		y	y	
+eAeAW?o)9Q	verwalten	to manage, to administer		y	y	
+vhF?<h3Q`X	vorhanden, verfügbar	available (2 words)		y	y	
+"lpgFK9w#vu"	die Geistliche	the clergy		y	y	
+o^%abc&Vr<	der Priester/, der Pfarrer/	the priest/s, the pastor/s (2 words)		y	y	
+moxCPMQ{je	äähm, hmm, nun, und, ja, eben, also, tja, na ja	ahmm, now then		y	y	
+k)Z!U*EjN~	eigentlich, tatsächlich	actually, in fact		y	y	
+e,lWci$|OL	sozusagen	so to speak		y	y	
+evQYreKGuJ	ich komme nicht darauf	I can't think of it		y	y	
+eQ.L^Oy|af	mir fällt es nicht (mehr) ein	it's not coming to me (imp. exp)		y	y	
+jRsO3vMB-	Moment noch, Augenlick noch	just a moment		y	y	
+iLaErlwOM5	das ist so eine Sache	it's a bit tricky, it's a complicated state of affairs (exp)		y	y	
+onSROEfgPt	nicht wahr?, nicht?, gell?, was?, oder?	isn't it?, aren't they? (5 words)		y	y	
+e~MZ+m4*3{	ja, eben, gerade, nun, nämlich, wissen Sie	you see (6 words)		y	y	
+hfAkT>2@|8	doch	surely, after all (rejecting an actual or anticipated response)		y	y	
+b{1l`[Tx,u	freilich	admittedly (in conv. making a concession)		y	y	
+f{XN_LlcB)	bloß	part. to show something's not important		y	y	
+g^/=Q=m[SD	das ist bloß eine Kleinigkeit	that's not important		y	y	
+jyg|Ri>H_l	das ist doch bloß eine Kleinigkeit	that's really not important		y	y	
+gUEn&!-JgK	Ach so!, Ach so, ja!	I see!		y	y	
+j!O[8TA.5e	infolge + gen	as a result of		y	y	
+iu;gODJwor	einer Sache zufolge, nach einer Sache, laut einer Sache, einer Sache entsprechend	according to a thing		y	y	
+o7;@N[Ken*	vorzüglich, ausgezeichnet, hervorragend, exzellent	excellent, superb (4 words)		y	y	
+tNXN5{?Q{K	abgeneigt	averse, disinclined, reluctant		y	y	
+f_lFah1[e7	die Herkunft/Herkünfte	the origin/s, the source		y	y	
+nCL<An7%dH	der Schnürsenkel-	the shoelace/s		y	y	
+tb<n(16qQG	die Schnürsenkel zu einer Schleife binden	to tie the shoelace in a bow		y	y	
+o-;M>S/4^C	die Zähne putzen	to brush one's teeth		y	y	
+c8&54?umm_	übereinstimmen	to match, to correspond		y	y	
+cu*p3[@3fl	das T-Shirt/s	the t-shirt/s		y	y	
+qiJ&F4&X&l	das Hemd/en	the shirt/s		y	y	
+lgto0kMa0x	das Kleid/er	the dress/es		y	y	
+nNHkGakDm8	der Rock/Röcke	the skirt/s		y	y	
+uLrM9MV7rt	die Socke/n	the sock/s		y	y	
+q2cu|};S1P	die Unterhose/n, ein Paar Unterhosen	underpants		y	y	
+l7d(js:sj3	die Hose/n	pants, trousers		y	y	
+oce~_>FKo~	die Lebenseinstellung/en	the attitude/s to life, the outlook/s on life		y	y	
+i6)JL>sA(7	schaufeln	to shovel		y	y	
+n~U*x*1IC}	die Schaufel/n	the shovel/s		y	y	
+l)E4@iS=bw	eine Stellung nehmen	to take a position (on a topic)		y	y	
+r7TXmo:e>h	die äußere Erscheinung/en	the physical appearance/s		y	y	
+k)akn*hs!n	äußere	outer, external		y	y	
+e,fjAx=[:a	beitragen (er trägt bei, er trug bei, er hat beigetragen)	to contribute		y	y	
+pd{0&On{aQ	der Gast/Gäste	the guest/s		y	y	
+"i#1f~5X2uQ"	etw. in Erfahrung bringen	to find sth. out, to come to know sth.		y	y	
+sGd=_3RJm3	der Text/e	the text/s		y	y	
+sq~@68GZz9	das Thema/Themen	the topic/s, theme/s		y	y	
+pIp_VoxRdT	der Inhalt/e	the content/s		y	y	
+f937wYSH<M	empfehlen, vorschlagen	to suggest, propose		y	y	
+=%[c@2Z>E	im Großen und Ganzen	on the whole		y	y	
+fs2$GzFcrm	in der Regel	as a rule		y	y	
+kK(!Kg/@=J	im Allgemeinen	in general		y	y	
+pq<Tab}cIG	sonst	otherwise, apart from that		y	y	
+izS:(OJ<93	solche Dinge, solche Sachen	such things		y	y	
+seFCzTkdMt	darf ich Sie (mal) (kurz) unterbrechen?	can I (just) interrupt you (briefly)?		y	y	
+"urSw{_1#*/"	darf ich einhaken?	can I butt in?		y	y	
+fwVxP]BcA9	abschließend	in conclusion		y	y	
+c;=:Y30hR6	Ich danke fürs Zuhören	Thanks for listening		y	y	
+hB%BPs`a<n	Thema dieser Präsentation ist/lautet	the subject of this presentation is		y	y	
+cVT]Y6MDc.	zunächst	first of all		y	y	
+"lES#3v7-!m"	erstens, zweitens, drittens, viertens, fünftens	first, second, third, fourth, fifth		y	y	
+dQP|/;<<pw	als Erstes, gleich am Anfang, in dem ersten Teil	to start with, firstly (3 words)		y	y	
+j}pbVb7%dz	ich komme jetzt zu dem zweiten Punkt, ich gehe jetzt zu dem nächsten Punkt über	I'm coming now to the second/next point		y	y	
+rM-lnRSZZ4	das war also der erste Punkt	that was the first point		y	y	
+slh^44r*r>	sich etw (akk) senken lassen	to reduce sth		y	y	
+j)I,`cNbd4	aus folgendem Grund	for the following reason		y	y	
+r?.ahJL}@)	im Folgenden	in the following, below, hereafter		y	y	
+t^)P,a-%b7	(sich) Sorgen machen, (sich) beunruhigen	to worry		y	y	
+q&Hno`_&@}	der Zusammenbruch, der Einsturz	the collapse (2 words)		y	y	
+m%y,c3R1z_	der Absturz/Abstürze, der Unfall/Unfälle	the crash/es, the accident/s		y	y	
+qvy*lCL}*6	bestätigen	to confirm		y	y	
+b=XYMmg@FY	in gehobenem Rahmen	in high-quality surroundings		y	y	
+fvm@E9FfdP	gepflegt	well looked after		y	y	
+gKs_+Sv@5m	das Votum/Voten, die Stimme/n	the vote/s		y	y	
+g%ZN>>JEsw	der leitende Angestellte/die leitenden Angestellte	the senior manager/s, the executive/s		y	y	
+hsmSW;5qod	der Fehlgriff/e, der Fehler/, der Irrtum/Irrtümer	the mistake/s (3 words)		y	y	
+k:i[=ZMIR9	das (Staats)Budget/s, (der Staatshaushalt/e)	the (national/state) budget/s		y	y	
+dt[Fr/hVoq	jdm gehorchen	to obey sb		y	y	
+sY)Z[jx>O%	auf eigene Faust	on one's own, off one's own bat		y	y	
+p1^hrgzFK,	tollpatschig, unbeholfen, ungeschickt, plump	clumsy, awkward (4 words)		y	y	
+d*f{d`nz3T	(sich) bei jemandem sein Herz ausschütten	to pour one's heart out to someone		y	y	
+o>Vb~n@*>A	erwähnen	to mention		y	y	
+saKD4%mja=	(sich) beschleunigen, Gas geben, schneller werden	to accelerate, to speed up (3 words)		y	y	
+hJ4s|U}E(^	angereichertes/abgereichertes Uran	enriched/depleted uranium		y	y	
+k}}K$s9@lD	(bei jdm) auf Granit beißen	nichts mit seiner Bitte (bei jdm) zu erreichen, to bang one's head against the wall, to have no chance (with sb)		y	y	
+noc8%9dlLs	vertraut	familiar, trusted		y	y	
+cxoIT>,-WR	die Eigenschaft/en	the property/-ies, the characteristic		y	y	
+lrIri?o9<%	das Vorzeichen/ (mathematik)	the sign/s (maths)		y	y	
+rg7Z7uL;E}	knackig	crisp(y), crunchy		y	y	
+e`RL5pL<$I	vorausgesetzt	provided (that), required, assumed		y	y	
+k-puPJ![oY	die tragende Säule/n	the main pillar/s		y	y	
+n}}LHK-PDq	grundlegend	fundamental		y	y	
+gf|)R(E<Yh	die Hand/Hände	the hand/s		y	y	
+nyHW&(UOv0	der Finger/	the finger/s		y	y	
+gpX,cfP}9R	der Arm/e (körp.)	the arm/s (body)		y	y	
+pW,Pxi`lPV	der Kopf/Köpfe	the head/s		y	y	
+BsiLIv6K:	die Schulter/n	the shoulder/s		y	y	
+q,pZU/^>0O	die Brust/Brüste	the breast/s, chest		y	y	
+"pgaTBVDZf#"	der Magen/Mägen, der Bauch/Bäuche	the stomach/s, the belly/-ies (2 words)		y	y	
+u>`/qX%b)G	eine Stange Geld	a wad of money		y	y	
+hdLB7T`obF	die Stange/n	the rod/s, the bar/s, pole		y	y	
+bz<kHg/;xu	der Energieerhaltungssatz	the principle of conservation of energy		y	y	
+b&B5nE~a@c	das Pendant/s	the counterpart/s, the equivalent/s		y	y	
+I7(4>rAg5	die Kreditklemme/n, die Kreditverknappung/en	the credit crunch/es		y	y	
+"H#8:F-!~B"	die Klemme/n	the clamp/s, terminal/s		y	y	
+u:eF!VO`vR	klettern	to climb, to rock-climb		y	y	
+q)xTyod[2A	nahe legen	to suggest, to indicate		y	y	
+ux65]pSw0-	die Knete (umg.)	the dough (inf.), the loot (money)		y	y	
+t@M+CFFGvp	blechen (umg.)	to fork out (money), to cough up, to pay		y	y	
+"vOSiLe#iO1"	der Haufen/	the heap/s, the bunch/es		y	y	
+qq93|/_k4&	von daher	as a result, consequently, therefore		y	y	
+r[Os1(VQ5-	gewöhnungsbedürftig sein	to need getting used to, to take getting used to		y	y	
+f89Asj)2zp	reichlich, reich	rich(ly), abundant (2 words)		y	y	
+n^*Yl;WM*>	genügend, reichlich	plenty of, ample (2 words)		y	y	
+e)2fdvUVEV	auch und vor allem	&quot;also, and in particular&quot;, above all		y	y	
+sxUT:~H],N	die Couch, das Sofa/s, das Kanapee	the couch/es, the sofa		y	y	
+ibGgyok*4/	die Kniesehne/n	the hamstring/s		y	y	
+li1Y4DL|.~	der Quadrizeps	the quadriceps		y	y	
+n((}fvKE[r	der Oberschenkel/	the thigh/s		y	y	
+tI!Ir8K*9q	das Gesäß/ (umg.), der Hintern, der Po/	the buttock/s (coll. but not vulgar) (3 words)		y	y	
+"/K#{JGgC&"	das Knie/	the knee/s		y	y	
+qIBmp=mG+:	am Stock daherkommen (z.B.) „Meine kleine Tochter schläft keine Nacht durch! Jede Nacht muss ich zwei Mal aufstehen und sie füttern. Wenn das so weitergeht, komme ich bald am Stock daher!“	sehr müde werden/sein (als Umgangsprache)		y	y	
+f_rpUS*-5G	bang(e) -&gt; mir ist bange vor ihm	scared, anxious, frightened -&gt; I'm afraid of him		y	y	
+"eJ#I@r?:U:"	die Schabe/n	the cockroach/es		y	y	
+r|dj+pOgc:	hopfen, hüpfen	to hop, to skip		y	y	
+r}x&j4v3I)	der Hüpfer/, der Sprung/Sprünge	the hop/s, the skip/s, the jump/s		y	y	
+f%>RX6B~<8	gierig, gefräßig	greedy, voracious (2 words)		y	y	
+cW->ccRs?B	geldgierig, habgierig, habsüchtig	avaricious, greedy (3 words)		y	y	
+C!.]&7ML,]	"jdm. den letzen Nerv rauben, z.B. ""Das raubt mir den letzen Nerv"""	"to get on someone's nerves, to strain someone's nerves, e.g., ""It's getting on my nerves!"""				
+"q#n3IsIUEg"	schmunzeln	"<span style="" font-style: normal; font-weight: normal;"">to smile</span>, to have a wry grin&nbsp;"				
+eNH,7zA|hT	über jdn. lächeln	to smile at sb.				
+HCt9QKwERv	der Fußballen/	the ball/s of the foot				
+byzMu/gigA	entzündeter Fußballen /&nbsp;entzündete Fußballen	bunion/s				
+BbSQE^y,ry	in Empfang nehmen	"to receive (3 word phrase with ""to take"")"				
+m,yd$$5>&x	der Spitzname/n	the nickname/s				
+E(TbqUqiV.	untergeordnet, dienstbar, untertänig	subordinate, subservient (3 words)				
+K=p;4Sqt{h	vorstoßen auf etw	"<span style="" font-style: normal; font-weight: normal;"">to push forward towards sth.,&nbsp;</span>to attack sth"				
+jyw39Hk?X}	angreifen, attackieren	to attack				
+ipA_;LG(L1	der Stadtrand - am Stadtrand von	the outskirts - on the outskirts of				
+;]}9u|alI	in Ordnung kommen	to be put right, to be put in order, to turn out OK				
+u^klqEwOlf	sich widersetzen	to oppose, to defy				
+"r.%_7H58m#"	"<span style="" font-style: normal; font-weight: normal;"">jdn&nbsp;</span>belügen (<span style="" font-style: normal; font-weight: normal;"">belügt, belog, hat belogen)</span>"	to lie to sb.				
+t+vVqe_]<W	niederträchtig	vile, rotten				
+ln_fsP{f3:	treulos	unfaithful, disloyal				
+k%wh^JoB|B	der Feigling/e	the coward/s				
+huP(:AL4C5	verbluten	to bleed to death				
+k9{92y^b:!	bahnbrechend	groundbreaking, epoch-making				
+jMwVYNnQLM	bahnbrechendes (für etw) leisten	to break new ground, to achieve groundbreaking results for sth				
+D1@ShOh8.h	ungeheuerlich	outrageous, monstrous				
+M-7jOH)X~v	das Ungeheuer/	the monster/s				
+L&WYW/>m9D	das&nbsp;Geschmeiß	the vermin, the dregs, the bugs				
+u@:jAa>~{y	erdenklich	conceivable, imaginable				
+d0XDDMe8[[	der Widerstand	the resistance, the obstacle				
+CeGk&/qG:7	ertrinken, ersaufen	to drown (2 words)				
+flbH^Ss}t6	sich (dat.) eine Kugel in den Kopf jagen	to blow one's brains out				
+Oq]_>G.bko	etw. durchbrechen (durchbricht, burchbrach, durchbrochen). e.g.,&nbsp;Er fuhr mit dem LKW auf die Polizeiwagen zu und durchbrach die Barriere;&nbsp;Die Armee durchbrach die feindlichen Linien.	to break through sth and thereby destroy it and come out the other side.				
+gM7LjaN_{B	durchbrechen (bricht durch, brach durch, durchgebrochen), e.g., Erst sah man nur Wolken, doch dann brach ein Lichtstrahl durch.&nbsp;	to break into two pieces, to come through, to appear suddenly				
+k^6hP.@7KD	die Zwangseinweisung	the compulsory hospitalisation				
+HUGCC>l/VH	etwas an die große Glocke hängen	to shout sth out to the whole world, to make sth public knowledge (colloquial expression)				
+eK%nLwhGkP	(sich) demütigen&nbsp;	to humble (oneself), to humiliate				
+l?A_M5[/eH	gedemütigt	humiliated (&gt;90%), humbled				
+"KQ7Gu|B#ca"	quirlig, lebendig, lebhaft, spritzig	lively, bubbly (4 words)				
+"PnCk#>z=Ry"	im Nu	in no time, in a flash				
+m$jDR}f8p$	der Slauch/Schläuche	the hose/s, the tube				
+"Ewu-2bCab#"	die Augen über etw. verdrehen	to roll one's eyes at/over something				
+GM]~q9<*%U	die Verlosung/en	the raffle/s, draw				
+PwOv5:iYu]	Der Chirurg/en	the surgeon/s				
+lmrrBaDov.	etw nachvollziehen	to comprehend sth, to follow, to keep track of, to reconstruct				
+g`F/-oI=1M	ansehnlich	considerable, good-looking, respectable				

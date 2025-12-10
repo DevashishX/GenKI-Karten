@@ -1,0 +1,1547 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+"u%#/(Av]#t"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	geforderten	required		y	y
+o&0P<(SpX)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jeweils	each		y	y
+vxWZn;1n8O	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jeweilig	respective; particular		y	y
+h(ApwI/j_X	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(auf etwas) absuchen	to search/scan (for something)		y	y
+rANIT@F`q5	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	den Horizont absuchen	to search the horizon		y	y
+r{h@q`M7mV	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gefordert	required		y	y
+obM5>-N2Ym	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fordern (hat gefordert), verlangen (hat verlangt)	demand, require, ask (2 words)		y	y
+g,70RhpH[;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	anfordern	request; demand; requisition		y	y
+lI3EXX|-ys	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich auf etwas beziehen	to refer/relate to something		y	y
+o)xjr1$d3~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	beziehen	to get; to buy; to move in(to)		y	y
+h||uQul;uo	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	eintragen	register; record; enter (name to a list, etc)		y	y
+k+e90mMk~C	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	entsprechenden	corresponding; relevant		y	y
+rv0oLbNeHm	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(einer Sache) entsprechen	to correspond (to a thing)	takes dative argument	y	y
+d=eHL]i^.%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auslassen	to skip; to miss	acc. - Sie dürfen jedoch keine Frage auslassen = But you cannot skip a question	y	y
+sG/TH>_67N	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Gleichaltriger	same-aged; of the same age		y	y
+jXXhrUbKU3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Sein und das Leben anderer Behinderter unterscheidet sich deutlich von dem Gleichaltriger ohne Handicap.	His life and the lives of other disabled people is completely different from the lives led by people of his age who are not disabled.		y	y
+r`E<sA<<0r	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Zwischenmenschliche	interpersonal; people-to-people; between people		y	y
+"f|&u##X9*}"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zwischenmenschliche Beziehungen	interpersonal relationships		y	y
+qfK!-sa0^C	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Lupe	magnifier		y	y
+g.LS~S7,>3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	unter der Lupe	under scrutiny; scrutinized; in the spotlight		y	y
+mc4B=q`F2/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	unter die Lupe nehmen	examine carefully; scrutinize		y	y
+u@A&$jEn?o	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	weder A noch B	neither A nor B		y	y
+h6=V22p&se	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Beide hätten weder den Mut noch die Kraft, die Probleme des Landes anzupacken.	Neither side had the courage or the strength to tackle the country's problems.		y	y
+ps>,6M]}Jw	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Gesellschaft	the society; the company; the association		y	y
+clnh0(!_@P	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ungeschönt	unadorned; without euphamism; uncompromising; realistic; unembellished		y	y
+K=X)6ULH3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Schicksal	fate; destiny		y	y
+mHPKKB8q1q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	mit arger List	by arrant cunning	poetic translation	y	y
+sND2/A,Mk{	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zusammenbrechen	to collapse, to crash		y	y
+cyqv?QnM@5	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Der Zweck dieser Stress-Tests ist es, das System zusammenbrechen zu lassen.	The purpose of this stress test is to crash the system.		y	y
+c,E%i6iF9^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	merkwürdig	strange; odd		y	y
+k+RKQU<n+I	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich einschalten	to intervene, to step in		y	y
+m7aif`,M(6	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einschalten	switch on; tune in		y	y
+u?ET|:p%u.	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Rektor	the vice-chancellor	head of a university	y	y
+"p#b1n^S_d^"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich bemühen	to endeavour; to try		y	y
+l8XlvKWBP-	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Aufklärung	the information; the enlightenment		y	y
+l:uWCl?JWe	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	stößen auf	to encounter; to come across		y	y
+3qp(ywh{Z	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	winken	to wave; to beckon		y	y
+qux)ssJm!p	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Handlungsantrieb	the action-drive; the motivation		y	y
+f|GCJE9!-4	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nahezu	almost; nearly		y	y
+"bem-l#n)xK"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Menschenfresser	the man-eater; the cannibal		y	y
+"muLGSN4#i~"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich bedienen	to help oneself		y	y
+oNP|.v4g{*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Darstellungsform	the format; the form		y	y
+dRUA|a&JR?	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Versagensangst	the fear of failure		y	y
+"t#oG*kL6BM"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	seelisch	mental; psychological; emotional		y	y
+iH$z>Le~a2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Gleichgewicht	balance; equilibrium; poise		y	y
+o;j5ZHdt$R	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	seelisches Gleichgewicht	inner harmony; mental equilibrium		y	y
+p`eTcal5<Q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(durch etwas oder Dativ/&quot;in&quot; Dativ) entstehen	arise/result (from something/in something)		y	y
+cfwmS}}=xw	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jubeln	to cheer; to celebrate		y	y
+ktO3<Gt=3@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einst	once; at one time		y	y
+nZqdu_(bF.	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	besessen	owned; obsessed	er hat besessen = he had owned; besessen von = obsessed with	y	y
+iYr[0>SHX4	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	besitzen	to own		y	y
+nGmy.a<&+)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bevorstehenden	impending		y	y
+cC%q*PbG*>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bevorstehen	to be forthcoming; to be imminent; to lie ahead		y	y
+sb&[d;S(QD	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	umkippen	to faint; to roll over; to fall over; to knock over (transitive)		y	y
+fH41b)y,1!	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Probe	the test; the rehearsal		y	y
+kAxrOoP:/(	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich herausstellen	to turn out; to transpire		y	y
+o*;cK8!X0^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausbrechen	to break out; to erupt; to escape		y	y
+tRes/fXgVJ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	heftig	intense; fierce; violent; vehement		y	y
+fPT0zh$<d_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Spannung	tension; excitement; (elektrische) voltage 		y	y
+p0`q+%Cua8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	durchmachen	to go through; to undergo; to experience		y	y
+l0%db_:JBa	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	untereinander	among themselves; among each other		y	y
+vjAWz3-sSj	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Vorstellung	the idea; the presentation; the show		y	y
+dX78i;A3:V	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	durcheinandergeraten	to get mixed up; got mixed up	die galaktische Geschichte ist ein bißchen durcheinandergeraten = the history of the Galaxy has got a little muddled (Hitchhiker's Guide to the Galaxy quote<br>)	y	y
+"be#/nYE>L0"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(jemanden von/zu etwas) überzeugen	to convince (someone of something);&nbsp;&nbsp;to be convincing		y	y
+"oF]vk!Y#nl"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Laden	the shop; the store		y	y
+kBq?xw|h<p	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	betreten	to enter; to access		y	y
+t`*y%eh!6+	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	außergewöhnlich	exceptional; extraordinary; extremely		y	y
+r;Eo{`Cky	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Sinn	sense; meaning; mind		y	y
+vURioCoccG	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	schmerzhaft	painful		y	y
+i8i!,kn7j^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	enttäuschen	to disappoint; to be disappointing; to let down; to frustrate		y	y
+f|%*jRGh:R	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Fresse	the face		y	y
+ixJI$G~*|3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich umbringen	to kill oneself; to commit suicide	bringen: er bringt; er brachte; er hat gebracht	y	y
+l`aZ>*i}LQ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Ermittlung	determination; investigation; establishment		y	y
+g;|-6r`IKw	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einsetzen	to apply; to employ; to insert		y	y
+"drhKVJ#O~h"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fördern, werben für, vorantreiben	to promote; support; encourage (3 words)		y	y
+t.~xTB]!z{	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	in Vergessenheit geraten	be forgotten		y	y
+gRfSy(_sOP	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Lügen (plural)	lies		y	y
+tH{h)[9<rC	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	lügen	to tell a lie		y	y
+gs-b>5}U@q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Erpressung	blackmail; extortion		y	y
+"j}fOzR#pSg"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Diebstahl	theft		y	y
+b8JSZ^Rj@C	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	unerträglich	unbearable; intolerable		y	y
+fBCb%.uvQL	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Mobbing	bullying		y	y
+^Be7+vx9_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Einkaufsbummel	the shopping spree		y	y
+qJ$npy`8OI	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verfolgungsjagd	the chase; the pursuit		y	y
+bl88Nqtzw]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Fundort	location; habitat		y	y
+he7si@L-C2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Tätigkeit	the activity; the job; the work		y	y
+d96j57Gs.i	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Todesursache	the cause of death		y	y
+mHH`&c3|(l	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Ausrüstung	equipment; gear		y	y
+f:x>[snOm_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wie kommen Sie dazu?	how dare you?		y	y
+gF(@z81;eR	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wie kam es dazu?	how did it happen? how did it come about?		y	y
+rXG}c:,fp`	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einschließen	to enclose; to surround; to include		y	y
+fa$^:qAaJ&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(ein)frieren (friert, fror, hat gefroren)	to freeze	es fror ein = it froze	y	y
+c*clwZaO-d	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	untersuchen	to examine; to investigate		y	y
+rb.nF+Hv*)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	feststellen	to find; to discover		y	y
+vA6APB*/<_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Kupfer	copper		y	y
+fImRL{Hr6J	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Hirt	the shepherd; the herder; herdsman		y	y
+t=nU66Mi1O	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vermuten, ahnen	to assume; to suspect (2 words)		y	y
+j`qb;nyxb:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vermutlich	probable; likely; presumably		y	y
+piG>&L]^fg	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Wetterumschwung	the sudden change in the weather		y	y
+tbmVDD%a]u	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erfroren	frozen (to death)	erfror = froze to death	y	y
+u=skh-BgM)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Ich erinnere an den vergangenen Winter, in dem zahlreiche Menschen erfroren sind.	I remember last winter, when numerous people froze to death.		y	y
+nv$$28[zkC	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausrüsten	to equip		y	y
+k]<=N7Sc&]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	tragen	to wear; to carry		y	y
+e9_!qiA=d0	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Fellmütze	the fur hat		y	y
+ca-)!X*iXj	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Tierfell	the animal skin; animal fur	die Tierfellen = animal skins	y	y
+rm$?:X<o{^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Gürtel	the belt	die Gürtel = belts	y	y
+e!a`m45lLC	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Gürteltasche	belt bag; bum bag		y	y
+vx6I{8_otH	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Feuerzeug	the lighter	Feuerzeuge = lighters	y	y
+ggP]}wsH3}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Dolch	the dagger	die Dolche = daggers	y	y
+b[gT]O5/3_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Proviant	the provision/provisions; supplies		y	y
+"sVsdbLc8#5"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Axt	the axe		y	y
+fck@po}:fN	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Tätowierung	the tattoo		y	y
+ok*U{o0=(s	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	tätowieren	to tattoo	er tätowiert; er tätowierte; er hat tätowiert	y	y
+bOJ-V5gLJ7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	herausfinden	to detect; to find; to figure out		y	y
+bP~HDX6_6Z	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	knapp neben	not far from; nearby		y	y
+"jD.ig[{#(."	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	annehmen	accept; take; assume	annehmen = vermuten	y	y
+u/E>sV2MSo	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Nadelstich	the pinprick	die Nadelstiche = pinpricks	y	y
+kT}${yQAEj	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Leiden	pain; sorrow; disease		y	y
+bf1H4774uh	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nachweisen	to prove; to establish		y	y
+d-Y[^o&YLj	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	weisen	to point; to indicate	er weist; er wies; er hat gewiesen	y	y
+dpw4:dQKU*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Technik	the technology		y	y
+pp[y%){3}$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Heiltechnik	the healing technique	mainly for alternative medicine?	y	y
+dNs:_VE?9u	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Folgen	the consequences; the effects; the episodes		y	y
+"s#ebXvADo^"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Äußerung	the statement; the expression; the utterance		y	y
+j<[(56XPLl	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Handeln	the action		y	y
+t>jp`G[>~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	handeln	to act; to trade; to negotiate		y	y
+eNUslblx37	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Verantwortung übernehmen	to assume responsibility		y	y
+qD0d+*L~^u	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verantwortung	the responsibility		y	y
+uAmL+Q4u0R	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	übernehmen	to take on, to assume, to undertake, to take over		y	y
+m}gFx//sJI	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verreisen	to go away; to go on a journey		y	y
+qn.U6M,%;j	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	du kannst frei in den Tag hineinleben.		exact meaning unknown: immerse? live freely? live relaxed?	y	
+bvu.TiuZo*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	entscheiden	to decide		y	y
+iUWH4RC[a!	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Umstand	the circumstance	die Umstände	y	y
+sR/APQB3dp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	hervorragend	excellent; outstanding		y	y
+h%?EVF|]Y!	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bequem	comfortable; easy; convenient		y	y
+r_!}_U|7N>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jugendlich	juvenile; teenaged		y	y
+jG*{[Y8K]&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	selbstständig	independent; self-employed		y	y
+nAyJWuD}l|	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	unabhängig	independent; unattached; freelance		y	y
+tMb0q|dY_;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Das ist meiner Meinung nach das Wichtigste für eine Person.	In my opinion this is the most important thing for a person.		y	y
+ozVunQ2aoq	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	mit etwas umgehen	to handle something; to deal with something		y	y
+cdNPx.Ki,Q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erhalten	to get; to obtain; to preserve		y	y
+lQFjr{oBc+	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	herumlaufen 	to run around		y	y
+ftOpB$%mM7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	irgendjemand	anyone; someone		y	y
+"mnt0#xbG(%"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Ab einem gewissen Alter wird das eher belächelt, wenn man Leute in ihrer Kleidung nachahmt.	At a certain age, if a person immitates people in their clothes, it is likely to be ridiculed.		y	y
+"sw#YHyv$B<"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	eher	rather; sooner		y	y
+q~Op6*&Ozp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	belächeln	to smile at; to laugh at; to ridicule	Seems to signify something quaint at least, when it doesn't mean ridicule	y	y
+fSggr{bR_d	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nachahmen	to imitate; to emulate		y	y
+q:gUvC)O7K	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Nachahmen	mimicry		y	y
+gW~;=>MS]}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	beurteilen	to assess; to judge; to evaluate		y	y
+kTonzp|,75	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	beachten	to note, to observe, to consider		y	y
+ouM_s9/dpu	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Forschungsgebiet	the field of research		y	y
+vC`^pL=A[l	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Forschung, die Erforschung	research		y	y
+bLKKTNOAw/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Geschlecht	the gender		y	y
+dxxLP*j0Ss	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schwerpunkt	the focus, the centre of gravity		y	y
+o)r,mV6a3~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	geschlechtsspezifischen	gender-specific, gender-based		y	y
+e(jWrrXEfn	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	des Öfteren	many times, many a time		y	y
+fF.p{IuS4Q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erscheinen, auftreten, auftauchen	to appear, to emerge (3 words)		y	y
+"nx#&;S:q$|"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich ergeben	to result (in), arise, surrender	+ aus = to be the result of	y	y
+i&x@=u:z>M	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ebenfalls	also, as well, likewise, equally		y	y
+ptg8e4<_rt	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Nebenwirkung	the side-effect, the adverse reaction, the secondary effect		y	y
+cqND9ECTu_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verbinden	to combine, to connect, to contact		y	y
+oy)/|qhN},	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Klo	the toilet		y	y
+d0U9w]/gRc	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Mehl	flour		y	y
+"r5e!Hyu#s1"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Ärger	the trouble, anger		y	y
+e/,Cfmx|yI	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Atem	breath		y	y
+py~G5C|0g[	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Liegestuhl	deck chair		y	y
+h729y(pC|P	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Träne/ Tränen	tear, tears		y	y
+d~YCAe{3gD	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Fischstäbchen/ Fischstäbchen	fish finger/ fish fingers		y	y
+kGS,I|hS=X	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Stäbchen/-	chopstick/s		y	y
+s,XVGx87Jb	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Hirsch	deer, stag		y	y
+b5LX_gWi>|	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Forelle	trout		y	y
+j};Nq*v:tX	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Hase	rabbit		y	y
+dhbJaDsFs=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Reh/e	deer/s		y	y
+bL9<scM?GT	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Zeh/e	toe/s		y	y
+n@4p11lY4z	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	rau	rough, raw		y	y
+dy0:7,:6}q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	grob	coarse		y	y
+c8O<%8`*S@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ungehobelt	crude		y	y
+b^d]a)GJ9;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(un)eben	(un)even		y	y
+t>i_Ud?VK8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Bude/n	booth/es		y	y
+ga;9j{hROQ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Pfad/e	path/s		y	y
+n3^w1Yo`%v	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vornehm	elegant, refined, noble		y	y
+"u)urd^#m+7"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Behausung	dwelling		y	y
+"sthGKpQ=#:"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Vertrag	the contract	einen Vertrag eingehen = to enter into a contract	y	y
+rz&Q=4:0R>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Abkommen/-	agreement/s		y	y
+kc{go[Ea-d	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schneewehe/n	snow drift/s		y	y
+ns0Ft&WQ<>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Wohl und Wehe	the ups and downs	like the old-fashioned &quot;weal and woe&quot; in English	y	y
+okQr=6K89C	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Wehe dir!	A curse is on you!		y	y
+u0C]3PCqP}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gescheit, klug, schlau	clever, smart		y	y
+c@G(EGM(6i	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Lebensweg	the path in life, life span, life cycle	Mein Lebensweg war klar vorgezeichnet, und ich war glücklich mit meiner Situation = My path in life was clearly marked out for me, and I was happy with my situation	y	y
+k!f<-SO,ZW	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Lotteriezettelchen	lottery ticket	das Zettelchen = the little note	y	y
+hoP@X76@%x	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Los, das Schicksal	fate, destiny (2 words)		y	y
+q2_&M.Lgf2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Los	lot, destiny, ticket	&quot;los&quot; has lots of meanings	y	y
+u+3.YM3R]S	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Möwe/n	gull/s, seagull/s	also Seemöwe	y	y
+lJp[@<@WN2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Manie	mania		y	y
+lP3s+wIa:[	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Leib, der Körper	the body (2 words)	Leib is also belly or womb	y	y
+ce3Vwl>a=c	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	öd	deserted, dreary		y	y
+ge`.F&>tL(	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Bergrücken/	mountain ridge/s		y	y
+ssnku<1,UG	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Grat/e	the ridge/s	can be mountain ridges, or other types	y	y
+ixH;03=|]I	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	schmal	narrow, small, thin		y	y
+rZQ*~P?jSH	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	besiedeln	to colonize, to populate		y	y
+p%Afh)?z2^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	dünnbesiedelte	sparsely populated, depopulated		y	y
+nISD)VD=Rb	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Einöde, die Wüste	desert, wasteland		y	y
+fsxX|LS8gt	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Mittel	the middle, the funds, medicine		y	y
+c.+t%waCza	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vorschreiben	to prescribe, to dictate, to stipulate		y	y
+qveEC?mZE`	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Aussagen	statements, propositions		y	y
+,U*y^=SuT	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	aussagen	to state, to say, to reveal, to testify	seperable prefix	y	y
+nz-D69CQj]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausreichen	to be sufficient	seperable prefix	y	y
+u-&u>gJGx*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausreichend	sufficient(ly)		y	y
+kl&%0W5p>m	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Dosierungsanweisung	the dosage regimen, dosage instructions		y	y
+d>U[*0;Fx3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	beilegen	to attach, to enclose		y	y
+ixsb+fVL~u	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	aufweisen	to show, to exhibit		y	y
+c~T$;[xTx3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Kinderlähmung	polio		y	y
+"h#5uS@hDx8"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sodass	so that		y	y
+m~??8VdZU`	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nachdem	after	conj. kurz nachdem = shortly after	y	y
+o`2H~aoV12	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nähen	to sew	das Nähen = sewing	y	y
+"j|N<#z8Z@]"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schneider	the tailor		y	y
+jKm>P[Wjh}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	aufmachen, zumachen	to open, to close		y	y
+"d-DQ`#j7;U"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	herstellen	to produce, to manufacture		y	y
+h<MvH|K)PZ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zunehmen	to increase, to grow		y	y
+dhx!nIP_D0	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Neffe/n	the nephew/s		y	y
+bB)aq)g,&T	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Einstieg	the entry, the access		y	y
+qULEz;&gdO	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einsteigen	to get in, to board		y	y
+u@SjH7,y|<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	weiterhin	furthermore, further on, beyond, anymore		y	y
+g6sqB_;agv	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sorgen (für)	to provide (for)		y	y
+n}rHNC>Z{G	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Anspruch/die Ansprüche	the claim, requirement, demand, aspiration		y	y
+"f6n#)6[z}0"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	beweglich	mobile, flexible, movable		y	y
+ns[^)L7]pl	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	weich	soft(ly)		y	y
+comm4|/vcH	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Präfix, die Vorsilbe	prefix (2 words)		y	y
+coWJ]*C&,H	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Präposition/en	preposition/s		y	y
+fiSh:*clw3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Nomen/, das Substantiv/e, das Hauptwort/Hauptwörter	the noun (3 words)		y	y
+r7ux|w>97b	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	besuchen	to visit, attend	Schule besuchen = to attend school	y	y
+"fK4R-+i#0<"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	absolvieren	to complete (successfully), to finish one's studies		y	y
+lT`CI2jB{,	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auslösen	to trigger, initiate, provoke		y	y
+qnmj*e^53Q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Auslösen	the release		y	y
+kJBcj/e?wz	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erstrebenswert	worthwhile, desirable		y	y
+r1CY]exVGj	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Eingriff/e	the interference/s		y	y
+"spn@L5C5#`"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	medizinische Eingriffe	medical interventions		y	y
+u0t<,K7mVP	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Meldung	the report, message, announcement		y	y
+fAp&7<u5ME	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Zeitschrift 	the magazine, journal		y	y
+ES{UaiK_m	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	reagieren	to react, respond, take action		y	y
+c&iU=_-TIV	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Ansehen (von)	the image, the prestige, the reputation (of)		y	y
+c,+1W,wJ-,	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Beruf/en, das Metier/s	the profession/s, job, occupation (2 words)		y	y
+D?2TF^Y(y	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	entfliehen	to flee, escape		y	y
++kGzl(P(k	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Abwechslung	the change, variety, alternation		y	y
+b~%^b[k{y*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Entspannung	relaxation, recreation		y	y
+r/}9_EJKmA	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Erholung	recovery, rest, recreation, relaxation		y	y
+nM%t}J9rTi	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	tanken	to refuel, fill up		y	y
+hpUx4QGmbR	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Bedürfnis/se	need/s, requirement		y	y
+"u)t4|N`#Fb"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Ostern	Easter	zu/an Ostern = at Easter. Frohe/Fröhliche Ostern! = Happy Easter!	y	y
+fRvfFRXBue	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	häufig	often, frequent, common(ly)	häufig gestellte Fragen = Frequently Asked Questions (FAQ)	y	y
+p-~3JpoZTo	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich etwas gönnen	to indulge in something	Man muss sich auch mal was Gutes gönnen = A bit of what you fancy does you good	y	y
+"n!J3zjI]#9"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verschnaufpause	the breather (rest)		y	y
+dyB{{OqBo	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verschnaufen	to have a breather, to catch one's breath	verschnauft, verschnaufte, hat verschnauft	y	y
+deKoU]B^p1	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	locken	to attract, lure, tempt		y	y
+soOQ1c0@oS	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Leckerbissen, die Köstlichkeit	delicacy, tidbit, treat (2 words)		y	y
+k3.CO4yFNg	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Streifzug	foray, ramble (walk)		y	y
+kwcdv/l1^a	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Kulturdenkmal/-mäler	cultural site/s, cultural monument	plural: die Kulturdenkmäler can translate as &quot;cultural heritage&quot;	y	y
+h0pGCxs!bx	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Reederei	shipping company, shipping line		y	y
+m3T3t(c?gn	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fürstlich	princely, royal, lavish		y	y
+"j-P#8n^wTv"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Platz/Plätze	place/s		y	y
+n^LQJDC-rG	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erwachen	to awake, to spring up		y	y
+k?^<})WIDY	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Frühlingserwachen	the spring awakening, start of spring		y	y
+lZqTJ(WUq|	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erschöpfen	to exhaust, to deplete		y	y
+jO:NU0LQIm	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erschöpft	exhausted, weary, jaded		y	y
+s/A3U)ZD;j	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verstecken	to hide, stash	versteckt, versteckte, hat versteckt	y	y
+t>@)^+Sl:(	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Verstecken	encryption		y	y
+h_^9JnME+e	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Krankheitsursache/n	cause/s of disease		y	y
+n<zJTRP(i-	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	watscheln	to waddle		y	y
+"j*0izP#GY:"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gründeln	to feed from the bottom		y	y
+lO0cJ-h1.l	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Urwald	the jungle, primeval forest, virgin forest		y	y
+j[AR<%mbd3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Begriff/e	the term/s, concept, notion		y	y
+^q^bn-3V[	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Urmensch/en	the prehistoric man/men, caveman		y	y
+qC}5@uJ$xL	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Zusatz	the addition, additive, supplement, auxiliary, appendix		y	y
+Fb)uga%/h	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wursteln, wurschteln	to muddle along		y	y
+m.x.JWul6|	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Wichser	wanker		y	y
+e2TR3,+j@h	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	on demand (2 words)	auf Nachfrage, auf Anferderung		y	y
+rw_@p5]p,t	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	so far	bisher		y	y
+byKfR2:RKD	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	to enjoy	genießen, Spaß haben		y	y
+g3m}=gHX]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	plenty of time, lots of time	viel Zeit		y	y
+kf3qv-l@~Z	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Enjoy your meal!	Mahlzeit! Guten Appetit!		y	y
+f1O,VVbJXp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	on Monday	montags, am Montag		y	y
+"d>y#H=@+Q6"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	at the office	im Büro		y	y
+l<=9e=9Z~g	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	therefore, so, thus	daher, also		y	y
+uLu:UR&z7!	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	a little	etwas		y	y
+k&1FzB8}d$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	anyway	ohnehin, wie auch immer		y	y
+t9Sn>Mi8r?	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	I'll come see you (informal/slang)	ich schaue bei dir vorbei (umgangssprache)		y	y
+"cG{#?#GAQa"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Umgangssprache	slang, colloquial language		y	y
+eJRUXG51XO	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	slang, colloquial (adjective)	umgangssprachlich		y	y
+sp]@V*95[}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich wohlfühlen	to feel good, to be comfortable		y	y
+e^qE9>X1T^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Wohnzimmer	the living room		y	y
+qsuBt[.=>R	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Kleiderbügel	coathanger		y	y
+ouNb_3*QpN	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bügeln	to iron		y	y
+"p}K`qhcP#o"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Treffen	meeting, gathering		y	y
+rkx/6mi0T.	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vermeiden	to avoid, evade		y	y
+o8`{P9_,~K	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schulnote	assessment mark, grade		y	y
+i05kjH*`Wx	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich einer Sache bewusst werden	to become aware of something		y	y
+sW|cg`dXus	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm. etw. klar machen	to make something clear to someone		y	y
+omliM{u3mb	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich klarmachen, begreifen, erkennen	to realise, recognise, understand (3 words)		y	y
+o;L;wAv2<_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wann?	when?	wann is only used as a question word	y	y
+lx?`~MN-])	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wenn...	when...	wenn is used as a conjunction. &quot;als&quot; means the same.	y	y
+f^A2@x0p*A	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Blatt/Blätter	the leaf/leaves		y	y
+gwBJCg%(p;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	beibehalten	to maintain, retain		y	y
+k7t,ZzV}`L	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	künftig	in the future, henceforth, from now on		y	y
+uX|}-*?9p3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Dürre/n	drought/s, dryness		y	y
+hXtsB6n;a0	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	entschädigen	to compensate, reimburse		y	y
+kj$eeM1M%a	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bevorzugen	to prefer		y	y
+vilu}1F(!}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Gelegenheit/en	the chance/s, opportunity		y	y
+tl+oiWA_Z!	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Begegnung, das Treffen	the meeting, encounter (2 words)		y	y
+sod{-gN200	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich (von jmdm./etw.) verabschieden	to say goodbye (to someone/something), to take one's leave (of someone), to bow out		y	y
+vI+h1;Rq:$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verabschieden	to adopt, pass (a law/bill),&nbsp;&nbsp;dismiss, see off	also: to say goodbye (like sich verabschieden)	y	y
+b)]QaE(Fdp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Dutzend/-e	the dozen/s		y	y
+bG`g+pRAS-	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	im Dutzend	by the dozen		y	y
+j%{{kb;2JX	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	umschneiden, fällen	to chop down, to fell, to hew (2 words)		y	y
+d4<zl,Fsx>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Baumfäller/	the tree-cutter/s, lumberjack		y	y
+"olvW`0._#+"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Akku/s, die Batterie/n	battery/-ies		y	y
+pH}>%&vQ1j	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich verlaufen, sich verirren	to get lost		y	y
+u6Yh;%,]Bp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich irren	to be mistaken		y	y
+ibvQ}&SNi_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	im Irrtum sein	to be in error, to be mistaken		y	y
+u7cjj0h6ZH	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich (dat.) sicher sein	to be sure	ich bin mir sicher	y	y
+"tFF8;:?AB#"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Veranstaltung/en	the (organised) event/s	like marathon, rogaine, etc	y	y
+"m)jjP#c!ym"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Ereignis	the happening, (historical or accidental) event		y	y
+s&pS2y{GV^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	lazy	faul		y	y
+i2?_{sJ0>q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	am Kinderspielplatz	at the playground		y	y
+m[-fl5FvMy	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schaukel/n	the swing/s (the playground equipment)		y	y
+cB!aJo[IXl	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	schaukeln	to swing, to rock back-and-forth		y	y
+rHl.drb-2V	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schaukelstuhl/stühle	the rocking-chair/s		y	y
+"k#=mwQy>os"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jmdm. peinlich sein	to be embarassing for someone	es war ihm peinlich = it was embarassing for him	y	y
+py8}^W{WwI	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Ausrede/n	the excuse/s		y	y
+m$T=4e_~a1	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	freiwillig	optional, voluntary, not compulsory		y	y
+hwp(vl$,/H	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich herumdrehen	to turn around		y	y
+j`)O8r*b|>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Mail/s	email		y	y
+h)<[d[!e+k	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Brief/-e	the letter/s (written/typed)	nur handschriftlich	y	y
+"tJPBG-B55#"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ich fahre nach Wien	I'm going to Vienna		y	y
+rbmUnZOG;T	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ich bin in Wien	I'm in Vienna		y	y
+rEksHx.KW:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ich bin zu Hause	I'm at home		y	y
+OjWA!!B.v	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zu Hause sein	to be at home		y	y
+t+f96HwN>1	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ich fahre zu dir	I'm going to your place, I'm coming to you		y	y
+d,Yp(ni]Ay	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ich bin bei dir	I'm at your place		y	y
+bJthkE$3}p	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw. verlassen	to leave (something)		y	y
+"m#|.]XR@+Z"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich auf jdn./etw. verlassen	to rely on someone/something		y	y
+"bFf1#8JItg"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Betrachtungsweise/n	the point/s of view, the approach		y	y
+uvF0YzmIxg	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	betrachten	to view, consider, regard		y	y
+tfzPLuw<G9	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn. gut behandeln	to treat someone well		y	y
+l{LOP2R+ot	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn. bei etwas (dat.) anmelden	to register/enrol somebody at something	bei dem Rogaine anmelden = to register for the rogaine	y	y
+b!r8F94<`b	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schreibweise/n	the spelling/s, notation, writing style		y	y
+laK[wMI+nh	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Aussprache/n	the pronunciation/s, discussion		y	y
+e~w2:XAzQK	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Beistrich/e	comma/s		y	y
+b47y7?SGOS	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Hilfe	the help		y	y
+sL>6Sl,.:,	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	mit Hilfe von	with the help of		y	y
+rDtn31%|vD	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	dank deiner Hilfe	thanks to your help		y	y
+qm;YI(wy]r	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Ihre Hilfe ist sehr willkommen	your help is greatly appreciated		y	y
+unv/Y[L,2_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	viel Geld	a lot of money		y	y
+fo7YpgP:%7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Strecke/n	the route/s, the course		y	y
+sMdkj(TxY=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	inmitten	amidst, in the middle, among		y	y
+h{jmMc[2a%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Neigung/en	the incline/s, slope, gradient		y	y
+j$rE!*-Pto	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	neigen	to tilt, lean, incline, trend		y	y
+q<8M@%=P/H	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bergauf	uphill		y	y
+fUlZfs1*p!	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bergab	downhill		y	y
+sb*:T|0Ymh	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	rechnen	to calculate, count, reckon		y	y
+g.$FQZCSS?	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Rechnen	arithmetic, numeracy		y	y
+l/,SGd:Az}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	aufregen	to excite, upset, irritate		y	y
+fN:y^_2BY]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Drahtseilakt/e	the balancing act/s		y	y
+"t}BVl?{#Xy"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Tuch/Tücher	cloth/s, towel, sheet	towel is also Handtuch	y	y
+boZD[XUl^E	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	inwieweit	to what extent, how far		y	y
+jMP!Kjm`].	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Resultat/e	the result/s, outcome		y	y
+d(A^eEw+7s	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fettsüchtig	obese		y	y
+d!h;ymu%:<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Angststörung/en	the anxiety disorder/s		y	y
+"s=3h)SOJ#B"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Herzrasen	the tachycardia, racing heart		y	y
+kA0}=S+8(]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Leber/n	the liver/s		y	y
+vx&B{[<iH-	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Sucht/Süchte	the addiction/s		y	y
+"vJ1F#NbI]c"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Umfeld/er	the environment/s, surroundings		y	y
+fbSKY0=u~*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	alle stehen ständig unter dem Druck	all are under constant pressure		y	y
+eYg$vR}jQ.	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	je schneller desto besser	the faster the better	je X desto Y = the (more X) the (more Y)	y	y
+r^z!2`DfSy	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	je X, umso Y	the (more X), the (more Y)	umso can come first - umso Y, je X = the (more X), the (more Y)	y	y
+nBh,v-vGj.	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	inwiefern	to what extent, in what sense		y	y
+mZEzWZv!Y&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verwandte/n	the relative/s, relation	see also Beziehung	y	y
+s:>gn^~7,,	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	durchführen	to carry out, perform, accomplish		y	y
+e=|Yaa~,3*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	eventuell	possible, possibly, maybe, potential		y	y
+f-)HdOfA;b	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	anfeuern	to cheer, to encourage, to spur on		y	y
+cK73`/,s).	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vorziehen	to prefer, choose, to bring/pull forward		y	y
+k)2$S-3MGJ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Umgebung	the environment, surroundings, vicinity		y	y
+mTf%~4%2[f	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Ordnung/en	the order/s, system, orderliness		y	y
+nnUndzUiEj	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	was... angeht	in terms of..., as for...	was mich angeht = as far as I'm concerned	y	y
+d{uH2<`pYU	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich etwas vornehmen	to get to work on something, intend to do something		y	y
+lmW?tNM<S]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich zu viel vornehmen	to take on too much		y	y
+hN7ckORm>e	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Honorar, das Gebühr, der Preis, der Beitrag, der Lohn	the fee (5 words)		y	y
+"m9,]yif}l#"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Honorar, die Bezahlung, die Einkommen, die Belohnung	the remuneration		y	y
+cNFe;k[8jf	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	eintreffen, kommen, ankommen	to arrive, to reach (3 words)		y	y
+tDmFQqLn<>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verspätung/en	the delay/s		y	y
+j}SY*pr&^4	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erledigen	to do, to deal with, to dispatch		y	y
+q}I{m=<lXN	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	und zwar	namely		y	y
+n}o61vOkRR	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Wiederaufnahme/n	the revival/s, resumption, reopening		y	y
+hA-_G~LPy}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Nahrungsaufnahme/n	the food intake/s, ingestion		y	y
+pU,O~1?(y~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verweigern	to refuse, deny		y	y
+gEM<`gI&tK	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	rasch, schnell	quick, rapid		y	y
+pOnO(-_WgA	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Befürworter/, der Unterstützer/, der Anhänger/	supporter/s, proponent, advocate (3 words)		y	y
+o<s-Ssa>y|	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Zweifel/, das Bedenken	the doubt/s, concern, reservation (2 words)		y	y
+c=rp+u1GPm	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf Augenhöhe	at eye level, the same level, on equal terms	z.B.: eine Partnerschaft auf Augenhöhe = a partnership on equal terms	y	y
+rf}>-vOHdo	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gleichberechtigt, gleichwertig	equal (2 words)		y	y
+qEX9~BGSQ~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Gleichberechtigung/en, die Gleichheit/en, die Gleichstellung/en	equality (3 words)		y	y
+tda+jNGj{L	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ehemalig, früher, vormalig, vorherig, erstgenannt	former (5 words)		y	y
+Q;[H_.t!x	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	absagen, abbrechen	to cancel, call off		y	y
+bDU/bn8hj=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Braut/Bräute	the bride/s		y	y
+"mzyW#eex:="	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Bräutigam/me	the bridegroom/s		y	y
+o2~=.tjnf2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Regen	the rain		y	y
+op[Z18js.2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Regenzeit	the rains, the rainy season, the wet season		y	y
+lU^Mr^nQMs	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nass, feucht	wet, moist (2 words)		y	y
+oTk;l!psD*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Selbstbewusstsein	self-confidence, self-awareness		y	y
+eGlcw.Q*ww	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	steil	steep, precipitous		y	y
+c3jc2qy{b@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Hügel/	the hill/s		y	y
+tgLRU0EK&5	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	hügelig	hilly		y	y
+"g#MIW.|Jkc"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	umgekehrt	the other way round, vice versa, reverse		y	y
+bj%|OAI+:?	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	selbstsicher	confident		y	y
+clm]:g]n|P	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Kinderwagen/	the pram/s		y	y
+tj>!t);mAC	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Kindersitz/e	the baby seat/s, the child seat, baby capsule		y	y
+rlD;&GC0F;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw. anhören	to listen to something		y	y
+h)!)Q%&Kvo	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Ausgabe/n (eines Buches), die Auflage/n, die Edition	edition/s (of a book) (3 words)		y	y
+fcY_lE^6/0	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Ausgabe/n, das Thema/-en	the issue/s, topic		y	y
+l9I_9r|1r.	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	als ob, wie wenn	as if		y	y
+p_G7s(1q`p	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Gesundheitsförderung/en	the health promotion/s		y	y
+h{J!-/T/T8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gefallen, mögen, lieben, gern haben	to like, enjoy, please (4 words)	gefallen past part. is with haben	y	y
+vMFS]wvB@*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Silbe/n	the syllable/s		y	y
+h!O,KmJOs8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zu Fuß	by foot		y	y
+dhDhsB&ZM-	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Fuß/Füße	the foot/feet		y	y
+eP0|k-.WvN	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abnehmen	to lose weight, to slim		y	y
+oHi}d@%/yu	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Abnehmen	dieting, losing weight		y	y
+o:{fz|V*dz	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schwager/	the brother/s-in-law		y	y
+jLchtNK%ef	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Frühaufsteher/	the early riser/s		y	y
+cL07{,0``^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	aufstehen	to get up	stehen past part. is with sein -&gt;z.B. ich bin aufgestanden	y	y
+"hY!P)##!4w"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wachen, aufwachen	to wake, to wake up		y	y
+ga-L<-B7/@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	während des Tages, tagsüber	during the day		y	y
+rS%knn$s@>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	in den achtzigern	in the 80s		y	y
+mwrTkb!f,Y	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Gewinn/e	the profit/s		y	y
+qehtx=Yy7R	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Ertrag/Erträge	the yield/s		y	y
+"jltZ$(3#|9"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Marke/n	the brand/s, trademark		y	y
+f{*=8hL+RK	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Hubschrauber/	the helicopter/s		y	y
+r[,@(jrQFz	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Kernaussage/n	the key message, core statement		y	y
+"cCZ#u.A>qm"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Priester/	the priest/s		y	y
+o.SS/xvo5^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sogar wenn	even if		y	y
+bf*4=!l)bK	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Kunde/n	the client/s		y	y
+cj>A&y>BYp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Konsument/en	the consumer/s		y	y
+"gufqGGM|r#"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es hängt davon ab	it depends on		y	y
+fR%PbA8Ak~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Abgeordnete/n, der Vertreter/	the representative (2 words)	Abgeordnete = member of parliament	y	y
+"hXLXB])EN#"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich etw. leisten können	to be able to afford something		y	y
+eMr1UM0yD;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Sonnenbrand/-ände 	the sunburn/s		y	y
+ls}i-Q/iR:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Fahrrad fahren (umg.)	to ride a bicycle (colloquial)		y	y
+"#RUb3%wh["	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einen Sonnenbrand haben	to have a sunburn, to be sunburnt		y	y
+mn!yP]uC+2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Muttermal/e	the birthmark/s, mole		y	y
+tfs:f,:UO(	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Sommerprosse/n	the freckle/s		y	y
+t6WAu|B{m<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Erste, Zweite, u.s.w.	year 1, year 2, etc in school		y	y
+o]l`_iFY5Y	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schulstufe/n	the school year/s, grade		y	y
+"qMxWM#Eezb"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nach Australien fliegen	to fly to Australia		y	y
+^>b3sOx[6	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Erwartung/en	the expectation/s		y	y
+pNi]q3OS7X	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Brauch/Bräuche	the tradition/s, custom, habit		y	y
+"e%h#JKHst?"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Homosexuelle/n	the homosexual/s		y	y
+e;lmcU@)0N	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich trennen	to break up, to split		y	y
+lADwzTWI(m	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Lärm/e, das Geräusch/e	the noise/s (2 words)		y	y
+oV2P7JxzLh	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	lärmen	to be noisy		y	y
+uF8[Lbo=l]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Spielzeug/	the toy/s		y	y
+g$Ke?3^OYl	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schwägerin/-nen	the sister/s-in-law		y	y
+bNx[e(Q}C)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schwiegermutter/-mütter	the mother/s-in-law		y	y
+9s~{Up-L2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schwiegervater/-väter	the father/s-in-law		y	y
+q)@O!,QJBH	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Inder/	the Indian/s (from India)		y	y
+"r)JW0#JDV}"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Indianer/	the native american/s, south-american indian		y	y
+pEOOP6-&P^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Tal/Täler	the valley/s		y	y
+tAVyg}-R}0	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Muskelkater	aching muscles	singular has plural meaning in english	y	y
+j{{r3{dJo3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Kater/	male cat/s, tomcat, hangover!		y	y
+muRC3i`IoB	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Katze/n	the (female) cat/s		y	y
+f}-g0l=$X=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	veröffentlichen	to publish, to release		y	y
+qPDt<a1vSk	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verägert sein	to be irritated, to be angry		y	y
+bO0*>}<.+E	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verägern	to annoy		y	y
+c,C9`;E(6Y	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es hat mich geärgert	it annoyed me		y	y
+ro:SFEexo}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Kampfkunste/-künste	the martial art/s		y	y
+b3r9u?X$n>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Strafe/n, die Bestrafung/en	the punishment/s (2 words)		y	y
+q&n8J6CmaK	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Film/e	the movie/s, film		y	y
+g`INrP_?dS	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Knöchel/	the ankle/s (bone), the knuckle		y	y
+k6~OY+.Gl,	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Fußgelenk	the ankle joint		y	y
+rj>9b/C+]w	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ich lasse euch jetzt in Ruhe	I'll leave you in peace now, I'll leave you to it		y	y
+r^[pew!uy:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Koffein	the caffeine		y	y
+o=?/9TnBq(	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	schottisch	scottish		y	y
+g0g2k2ka!L	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Zeile/n	the line/s	Zeichen je Zeile = characters per line	y	y
+p+Wd^VzUn)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	spüren, fühlen, empfinden	to feel, to sense, to experience (3 words)		y	y
+md6L9E?;4-	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Gerechtigkeit	justice, fairness, equity		y	y
+i@XJc4|h{S	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	danach	afterwards, subsequently, according to that		y	y
+ekU6wDJuna	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die ausgleichende Gerechtigkeit	the poetic justice, compensatory justice		y	y
+"faB#SsW^2:"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausgleichen	to balance, to compensate, to offset		y	y
+oZ`99Cx*+m	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schluss/Schlüsse 	the conclusion/s, end		y	y
+uR+I7Xm0hk	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	strahlen	to radiate, to beam	strahlend = beaming	y	y
+qyBxho3j)m	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zulassen	to allow, permit		y	y
+b5O/HS>h:`	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wesentlich	essential(ly), substantial		y	y
+nm5~GmtwD_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	dagegen	in contrast, whereas, against it		y	y
+mD4P3pwsn&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Falte/n	the wrinkle/s, fold, pleat		y	y
+d~kV2sUE3p	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	falten	to fold, pleat, wrinkle		y	y
+o@h]UECP]%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es graust jdm. vor etw. / jem. graust sich vor etw.	someone was terrified of something (2 phrases)	inf. = grausen. Impersonal construction without sich, or direct version with sich	y	y
+g^K.(!BnfK	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abwegig	absurd, erroneous		y	y
+hg~.=&EXO}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Gleichsetzung von etw. und etw.	the equating/equation of something and something		y	y
+e/E]J~9Kh_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Gefecht/-en, der Kampf/Kämpfe	the fight/s, battle		y	y
+"hu#/*o;L)_"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	glimpflich davonkommen, mit einem blauen Auge davonkommen	to get off/escape lightly, to get off cheaply	z.B.: die diesmal relativ glimpflich davonkamen = which were quite moderate this time	y	y
+h@)Xn6&r9<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	davonkommen	to get away, to escape, to come off	lots of expressions - z.B.: ich bin gerade noch davongekommen = I escaped by the skin of my teeth<br>	y	y
+cu.BsWb&Q&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	glimpflich, leicht, mild, nachsichtig	light, mild, lenient (4 words)	lenient = bes. nachsichtig	y	y
+3)xX|tTVz	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Fügung/-en	coincidence, stroke of fate, act of providence 	göttliche Fügung = divine providence. eine glückliche Fügung = a stroke of good fortune	y	y
+dKb>CwqW^H	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	harren, erwarten, warten	to await (3 words)		y	y
+hT1kax2Abp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Überlegungen anstellen	to make observations, to reflect		y	y
+b($$B62{4_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einen Beitrag leisten	to make a contribution		y	y
+k6GR0WQdE<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	tiefgreifend, profund, abgrundtief	profound (3 words)	abgrundtief also = abysmal	y	y
+u]P?ZC9ei4	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(sich) bilden, (sich) formen, eingehen	to form	sich = transitive	y	y
+gn+9k10[((	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	retten	to rescue, to save		y	y
+qQA6%GAU+S	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich revanchieren	to return a favour		y	y
+fv}wvVL]r%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jemand ist gefahren wie der Teufel (umg.)	jemand ist sehr schnell gefahren (als umg.)		y	y
+cJ5<iY~QHh	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etwas klappt	etwas funktioniert gut		y	y
+h{v`*|P/-6	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Rücksitz/e	der hintere Sitz in einem Auto		y	y
+kv^f[SK`l`	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(jdn.) anrempeln	"to jostle someone, to stumble, ""gegen jdn stoßen, an dem man vorbeiläuft"""		y	y
+g&|=<wL_Ym	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn. stoßen	to push, to bump (someone), to pound		y	y
+hR!qz!E!8V	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Stoßen/	the pounding/s, thrusting	Das Stoßen und Drängen der Menschen kann zu Beginn einschüchternd sein = The hustle and bustle of the people can be intimidating at first	y	y
+g-M1D%2vU0	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	namens	mit dem Namen, in/by the name of, named, called		y	y
+m~:/=0`M@j	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf gar keinen Fall	ganz bestimmt nicht; niemals, egal was passiert		y	y
+"nw<oPyDV#+"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn/etwas aus etwas ausschließen	dafür sorgen, dass jemand irgendwo nicht mehr <br>reinkommen oder nicht mehr mitmachen kann; to exclude someone/something from something		y	y
+uMRTQ[eWre	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etwas auf sich nehmen	etwas Anstrengendes oder Schwieriges machen; to accept/take on/shoulder something 		y	y
+lJ5-i*CKO:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich auf etwas verlassen	darauf vertrauen, dass etwas funktioniert		y	y
+l:P6av;wIr	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm etwas vorspielen	to feign/pretend to be sth to sb, sich anderen gegenüber anders verhalten, als man wirklich ist; to play sth (z.B., a video) to sb<br />		y	y
+d{K7}s=Ni[	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etwas kaum erwarten können	sich sehr auf etwas freuen		y	y
+khn3`o)Dd;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	indes	however, while, whereas (conj), meanwhile (adv) (1 word)		y	y
+vi;@j$>NQ)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es steht noch in den Sternen	it's anyone's guess	Die Zukunft steht bekanntlich in den Sternen = They say the future is written in the stars	y	y
+js~{(tq]+j	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	immerhin (adv.)	after all, at least, nevertheless, anyway	seems like a good filler word!	y	y
+iXc{bI_2u@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Fachmann/Fachleute	the expert/s, specialist, professional		y	y
+eF`OrCUrzb	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Anrainerstaat/en	the riparian state/s, neighbouring country		y	y
+iA<>cGzbt]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erzeugen	to create, generate, produce		y	y
+lJ!}WBOl{+	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Voraussetzung/en	the prerequisite/s, condition, requirement		y	y
+oM1u^ZWH:R	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bestehen aus	to be comprised of		y	y
+@4Js[5UaB	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bestehen	to be, to consist, to exist		y	y
+"n#=+wd~.ux"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Bestehen/, der Bestand, das Desein, die Existenz	the existence, the life (4 words)		y	y
+f*+E6/=CGK	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vereinfacht gesagt	put simply		y	y
+h1:s~Ll56/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der (Wasser)kessel/	the kettle/s, the boiler		y	y
+oC+fl5iYK2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	heuchlerisch	hypocritical, insincere		y	y
+n~HudVFEN/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	heucheln	to feign, simulate, to be hypocritical		y	y
+tP,bukD(S4	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wirken	to work, act, seem, appear		y	y
+]Y`3b0SY6	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	aufrichtig	sincere, frank, honest, candid		y	y
+6;?o:Ppx`	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wachsam	vigilant, alert, wakeful		y	y
+dj72,u*E^4	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(etw) verbergen	to hide (something), conceal, bury, burrow		y	y
+fZ%X|994&W	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	stets	always, constantly, all the time		y	y
+lRk`,UU_mp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Verbraucher/	the consumer/s		y	y
+h>4>ef5MSA	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Eigenart	the characteristic, peculiarity		y	y
+qQ(j4r9*Zi	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vor Ort	locally, on the ground, in situ		y	y
+"d#An&KDtXS"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich zusammentun	to join forces, to group together		y	y
+eXN-66l]rR	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	damit	so, so that, thereby, with it, in order that	Weg damit! = Get rid of it!	y	y
+cwtp.xXS7U	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Kommst du damit klar?	Can you manage it okay?		y	y
+peY`>RrAMX	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zusammenfassen	to summarize		y	y
+jJsP,r8m+d	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Es holt sich.	It gets.			y
+t^uYwqfy]9	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	holen	to get, fetch, take		y	y
+umCi24NmLR	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zerstreuen	to disperse, dissipate, dispel, resolve	"<h3>🔸 Examples</h3><h3>
+<ol>
+<li>
+<div><strong>„Die Demonstration wurde gewaltsam zerstreut.“</strong><br>
+→ <em>“The protest was violently dispersed.”</em></div>
+</li>
+<li>
+<div><strong>„Ihre Worte zerstreuten meine Ängste.“</strong><br>
+→ <em>“Her words dispelled my fears.”</em></div>
+</li>
+<li>
+<div><strong>„Er zerstreute sich mit Fernsehen.“</strong><br>
+→ <em>“He distracted himself with television.”</em></div>
+</li>
+<li>
+<div><strong>„Der Wind zerstreute die Blätter im Garten.“</strong><br>
+→ <em>“The wind scattered the leaves in the garden.”</em></div></li></ol></h3>"	y	y
+vof]:J*p/c	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Sache/n	the thing/s, item, matter, cause		y	y
+rC~O9v-ZV[	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schub/Schübe	the thrust, shear, push, impetus, boost		y	y
+e}5x(@^uZv	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Machterhalt	the retention of power		y	y
+nSI1&_Mb]d	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Vernunft	(the) reason, rationality, sanity		y	y
+uzYh@;t5ig	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vernünftig	reasonable, sensible, rational		y	y
+pWKV.&)lW=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Lebensbedingung/en	the living condition/s		y	y
+sD&3D/=Lc]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Bedingung/en	the condition(s), requirement, prerequisite		y	y
+i1+PyTY9tF	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Grundlage/n	the basis/bases, foundation, groundwork		y	y
+"nu*#%aIv}:"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Fleiß	the dilligence, industriousness, studiousness		y	y
+dw<pGm18sX	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fleißig	diligent, busy, hard-working		y	y
+p$,O3WCFc%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Grenzen setzen	to set limits to		y	y
+o}W[=s9L<&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	keine Grenze gesetzt sein	to be unlimited, to have no limit		y	y
+hips7+3gDd	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	regeln	to rule, regulate		y	y
+b{%!Aw(UzN	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Karfreitag	Good Friday		y	y
+oRYkgz6|6T	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	pflegen	to maintain, to take care of, to cultivate		y	y
+t<.?xg%S7A	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Kichern/	the giggle/s		y	y
+uIrn<HeQ$A	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	kichern	to giggle, snicker		y	y
+otSLK~n=bp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Gekicher	giggling, snickering		y	y
+uS2{f[>dX`	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	anfügen	to add, attach, append		y	y
+j~X|?q48a+	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Fach/Fächer	the subject/s, field, compartment		y	y
+"o#F;{K/X8Y"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich zurechtfinden	to find one's way, to orientate oneself, to come to grips with		y	y
+"q-I#zP<M2V"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Vorurteil/en	the prejudice/s, preconception, bias		y	y
+tL`z/s<>43	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf etwas (akk.) hinweisen	to hint at sth., to point sth. out		y	y
+vDf%0c@/T@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn auf etw hinweisen	to make sb. aware of sth.		y	y
+tk4x3`}l9K	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	mangeln	to lack, be lacking		y	y
+r3ul&fe:oh	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Mangel/Mängel	the shortage/s, the lack, the defect/s		y	y
+e1kun^fA%l	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Bemühen/, die Bemühung/en, die Anstrengung/en, die Bestrebung/en	the endeavour/s, effort (4 words)		y	y
+t}bRo;I16	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fehlen -&gt; jdm. fehlt etw.	to be missing, to be absent -&gt; someone is missing something		y	y
+nbWIQZ$0[E	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	übrig - wie viel ist übrig?	remaining, left, leftover - how much is left?		y	y
+o8w$jsA3ge	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn. als etw. bezeichnen	to refer to sb. as sth., to consider as, to label as	"<h3>🔸 Examples</h3>
+<ol>
+<li>
+<div><strong>„Sie bezeichnete ihn als Genie.“</strong><br>
+→ <em>“She referred to him as a genius.”</em></div>
+</li>
+<li>
+<div><strong>„Man kann das nicht als Erfolg bezeichnen.“</strong><br>
+→ <em>“You can't call that a success.”</em></div>
+</li>
+<li>
+<div><strong>„Er wird oft als Außenseiter bezeichnet.“</strong><br>
+→ <em>“He is often labeled as an outsider.”</em></div>
+</li>
+<li>
+<div><strong>„Die Presse bezeichnete den Vorfall als Skandal.“</strong><br>
+→ <em>“The press described the incident as a scandal.”</em></div></li></ol>"	y	y
+u{4K7U*mT5	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sowohl X als auch Y	both X and Y		y	y
+fUn!!!W-)R	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das stimmt zwar, aber...	that may be true, but...		y	y
+dM}zW`Yrg5	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nicht nur ... sondern auch 	not only ... but also		y	y
+d-SHDa[5;h	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	entweder... oder	either... or		y	y
+"sN0#-fy2>k"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	weder... noch	neither... nor		y	y
+f`lj?o)/1D	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	mit jdm/etw kämpfen	to fight against sb/sth, to struggle, to campaign		y	y
+qJ1$!kS]Z`	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	an jdm/etw liegen	to be due to sth, to be accounted for by, to be down to		y	y
+jvwZz_:l.a	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	An mir soll's nicht liegen!	I won't stand in the way!		y	y
+fPoIe?`F28	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	eignen, gehören, betreffen	to belong to, to appertain to, to relate to (3 words)		y	y
+dNn7w?Kppe	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich eignen (für)	to suit, to be suitable/suited for		y	y
+h9z3(EYZ3V	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	geeignet (zu), tauglich	suitable (for), appropriate, fitting		y	y
+o~,]eZb/[R	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Anzeige/n	the advertisement/s		y	y
+"ba+]s?#wwf"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	anzeigen	to display, show, notify		y	y
+jw8h(FCfFx	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	weiterkommen	to progress, advance, get ahead		y	y
+q!_yAJjD*=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	berufstätig	employed, working		y	y
+nc$>qwthWj	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	unterbringen	to accomodate, place, host		y	y
+p|j75JnjmR	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn beschäftigen	to employ sb, to occupy sb		y	y
+ni,6cPEu;,	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausgerichtet	aligned, oriented, targeted		y	y
+"XXn#k4Dwu"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	praxisnah, praktisch	practical (2 words)		y	y
+-m[p1-J5~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Gymnasium/Gymnasien, die Realschule/n	the high school/s, secondary school		y	y
+"cGN#/?/*A1"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Volkschule/n, die Grundschule/n	the elementary school/s (2 words)		y	y
+jUO%YF`Hic	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Umschulung	the retraining		y	y
+cS[/4Ce/yd	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Röhre	the tube, conduit, duct, TV (slang)		y	y
+fG>4.O]S>}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	in die Röhre schauen/gucken	to watch the idiot-box, to be left out in the cold		y	y
+t+thQz5cY1	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Aufmerksamkeit/en	the attention, interest, attentiveness		y	y
+oN?vmgix`u	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Flimmerkiste	the telly, the boob tube	Plural unknown but probably -n	y	y
+k/-*AWR,<p	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Bezug/Bezüge, die Beziehung/en	the relation/s, the relationship, the reference (2 words)		y	y
+p(]FK?gFS*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Pech	bad luck, pitch		y	y
+s(:++<wmf=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gefährdet	endangered, threatened		y	y
+lCP$NU,j+H	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Zusammenhang/-hänge	the connection/s, the context, the correlation		y	y
+u?.umcwQB$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zudem, darüber hinaus	furthermore, moreover, besides		y	y
+vwGgQ_+iXA	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schlafmangel/mängel	the lack/s of sleep		y	y
+&4h*ltB&A	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	betreffen	to concern, to affect, to relate		y	y
+r/2&_h)4K%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Altersgenosse/n	the contemporary/-ies, person of the same age		y	y
+q=s4L~g|Q:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Hirn/e, das Gehirn/e, das Köpfchen/	the brain/s		y	y
+qMO}lwovy+	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fur etwas plädieren	to plead for something		y	y
+"m)>K#F22O{"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nämlich	namely, viz., that is to say		y	y
+riiMz2fcqr	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	durchaus	quite, absolutely		y	y
+j],fIog4j;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zusätzlich, hinzu, daneben	additional, in addition, further, besides		y	y
+r,t2.A{tKv	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	pädagogisch	pedagogical, educational		y	y
+nvpVlk7EON	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verfügung/en	the order, disposal		y	y
+mbd[03[%~<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Betreuung/en, die Unterstützung/en, die Förderung/en	the support/s (3 words)		y	y
+qOTkeZTn|T	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verabreden	to arrange, to appoint, to agree on		y	y
+ukzgG!^A><	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich mit jdm verabreden	to arrange to meet sb		y	y
+do]5VKR]+T	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Abiturient/en	the high-school graduate/s		y	y
+gUAcmhyarn	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es fällt mir ein	it occurs to me (imp. exp.)		y	y
+emgil$qSBs	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es gefällt dem Mann	the man likes it		y	y
+tge;G.AOG*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es geht der Frau gut	the woman feels well		y	y
+pr9iCRS/.v	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es gelingt mir	I succeed, I manage (imp. Exp.)		y	y
+"lkr@c#cjKH"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es genügt dem Studenten	the student is satisfied (imp. exp.)		y	y
+jN0A`LVHO%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es kommt mir vor, es scheint mir	it appears to me (imp. exp.), it seems to me (2 phrases)		y	y
+vI!qh)StBU	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es passt ihr gut	it fits her well (imp. exp.)		y	y
+o9<hdiT~(U	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es schmeckt mir gut	it tastes good to me (imp. exp.)		y	y
+nF^Q_]3mcE	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es steht ihr gut	she looks good in it (imp. exp.)		y	y
+c5$R6fnBK!	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	aufpassen auf jdn/etw, achten auf jdn/etw	to pay attention to something		y	y
+f3z13<I=r%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	über jdn/etw sich beklagen	to complain about someone/something		y	y
+lqW?e/.0{W	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	an jdn/etw denken	to think about someone/something		y	y
+i5@aP$WCBT	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich an jdn/etw errinern	to remember sb/sth, to remind of sb/sth		y	y
+"/#<V^nG2N"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	an irgendeiner Sache erkennen	to recognise by something		y	y
+"gzLL#HzF1g"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich auf etw (akk) freuen	to look forward to something		y	y
+g@W47Cj:K?	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	an jdn/etw glauben	to believe in sb/sth		y	y
+bn]*$gaR%S	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf jdn/etw hoffen	to put faith in sb/sth, to hope for		y	y
+"gXwnd#_]AV"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich in jdn/etw irren	to be wrong about sb/sth		y	y
+dC3bUIaHzn	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	an einer Sache leiden, eine Sache erleiden	to suffer from a thing (disease, etc), to suffer a thing (loss, etc)		y	y
+dbxz52Z@;|	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	über jdn/etw reden	to talk about sb/sth		y	y
+e3B}cUx/cJ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	an jdn schreiben	to write to someone	accusative!	y	y
+q,Uk>XI|?)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	über jdn/etw schreiben	to write about sb/sth		y	y
+lbIDGulB5j	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm/etw vor einer Sache schützen, behüten	to protect sb/sth from a thing		y	y
+j~oTge>9tb	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	über jdn/etw sprechen	to speak about sb/sth		y	y
+rQlkVzjut@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	an einer Sache sterben	to die from a thing		y	y
+iyw5DP%rv?	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	an einer Veranstaltung teilnehmen, bei/in ... mitmachen, sich an ... beteiligen	to take part in an event, to participate (3 words)		y	y
+kM4c5(BI*r	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich in jdn verlieben	to fall in love with sb		y	y
+sKlr0T@B$(	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vor einer Sache warnen	to warn against a thing		y	y
+kYTkv`N|K$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf jdn/etw warten	to wait for sb/sth		y	y
+ma&jrw.VO	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf jdn/etw verzichten	to do without sb/sth, to forswear, to abstain from		y	y
+j$9^{Z36/,	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es fällt mir schwer(, ohne dich zu leben)	it's hard for me/I find it hard/difficult (to live without you)		y	y
+jV~3EgszrC	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	beträchtlich	considerable, substantial		y	y
++LsbjFN%j	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Investition/en	the investment/s		y	y
+mc`GWjU;oW	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Anschubfinanzierung	the start-up funding		y	y
+bT0L$O+V97	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	heikel	delicate, tricky, sensitive		y	y
+u,?6z)aDOn	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Aufteilung/en	the division/s, the distribution, the partition		y	y
+sTX+TWIV_~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Hürde/n	the hurdle/s, the obstacle		y	y
+mPy75fQmz~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Pilotanlage/n	the pilot plant/s		y	y
+s35-cR(Fc}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Krümel/	the crumb/s		y	y
+gT`J+6jk3+	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	halt (adv)	just, simply		y	y
+"herD9XY#*]"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw wegschmeißen	to ditch sth, to sling away		y	y
+i<9Q{bP$$<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wütend	angry, furious		y	y
+sFyB9/iFx7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	aussuchen	to choose, to pick out, to cull		y	y
+r+X46dy&o1	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Vorgang	the process, the procedure, the event		y	y
+bYf|&xb&fe	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	mittelbar/unmittelbar	indirect/direct		y	y
+lM!8`2(+yr	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Zuschuss/Zuschüsse	the grant/s, subsidy, allowance		y	y
+"uPOo`1j(0#"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Unterkunft, die Unterbringung	the accomodation (2 words)		y	y
+"dDsF-#8Ywm"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verpflegung	catering		y	y
+"j)sHt?HS#f"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Einrichtung/en	the facility/-ies, the furnishing, the equipment, the establishment		y	y
+l[@_gBh{=)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Abbruch, die Zerstörung	the demolition (2 words)		y	y
+d0$TdOLz/C	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ableisten	to fulfil, to complete/serve/do (an apprenticeship, military service, etc)		y	y
+vGBV=yz~SK	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vorzeitig	premature, early		y	y
+dsH^H[GE,T	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	anrechnen	to credit, to charge, to take into account		y	y
+pxDY}3>6il	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Einsatz/Einsätze	the use/s, application, service, deployment (military)		y	y
+gHvN8js:E6	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verlängerung/en	the extension/s, prolongation		y	y
+b|5G3C!n}U	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erfolgen	to occur, to be made, to take place		y	y
+klj:mO_eW^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Wir drücken euch die Daumen	We'll keep our fingers crossed for you		y	y
+l-uaseg1ib	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fristgerecht	on the due date, on time, within the prescribed period		y	y
+mVWkvJbbtT	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Daumen/	the thumb/s		y	y
+vN@JPI-8NT	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verteilen auf/über	to distribute among, to spread out		y	y
+vyD&-MgWXv	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vermitteln	to convey, to give, to impart		y	y
+f{0HEeW(GV	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	knüpfen	to tie, to make		y	y
+G+kIF]GlX	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich an etwas (akk) knüpfen	to be tied up with something		y	y
+f56r{+D5^t	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Begleitung/en	the accompaniment/s, the companionship, the escort		y	y
+"i:UO#lQvLy"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw (akk) vorsehen	to allow for sth, to arrange for sth, to envisage sth		y	y
+vQ`7n-6&|t	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	insbesondere	particularly, in particular, especially		y	y
+sciDgKB%N}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Einführung/en	the implementation/s, the introduction, the launch (of a new product)		y	y
+cX(Wv)5u1s	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Abschluss/Abschlüsse	the completion, the ending, the conclusion		y	y
+j`+:W9}9=U	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Leit	the leading, guiding, routing		y	y
+r$058]A~rk	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abrunden	to round off		y	y
+rWg`n9<b%L	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Betrieb/e	the operation/s, the company		y	y
+fd0K?,b_HA	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	betreiben (betreibt, betrieb, habe betrieben)	to operate, to practice, to run		y	y
+"q06Lf#;,CW"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einbinden	to integrate, to contain		y	y
+pc*;]tS>R;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Einbinden/	the binding/s		y	y
+m[a~q4O!M}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw ausschreiben	to put something out to tender, to write out		y	y
+bsa&O<Td*R	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Vortrag/Vorträge	the lecture/s, talk, recital		y	y
+mO-PF%m0zt	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Leistung/en	the service/s, performance		y	y
+c_.U&|nI0S	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Erziehung	the education, the upbringing		y	y
+bt>+2|YNyw	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Umwelt	the environment		y	y
+f{Q09P|va6	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sinnvoll	useful, sensible		y	y
+oxb&}{a-Ps	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Gewicht/e	the weight/s		y	y
+"d2Q4]#j~IZ"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Gewichtheben	weightlifting		y	y
+g=+heF8cO;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erzielen, erreichen, verwirklichen	to achieve, to realise (3 words)		y	y
+muHcw=H$<|	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Wirkungsgrad/e, die Effizienz, die Leistungsfähigkeit/en	the efficiency/-ies (3 words)		y	y
+ggp>C6|>{$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	hierzulande	in this country, over here		y	y
+"tV#7M|,-*{"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	anders (als)	unlike, other than		y	y
+ndhN&!{~W2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	dutzendfach	dozens of, in dozens of ways, dozens of times		y	y
+i<ojqR/d~~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Veredelung/en, die Verfeinerung/en, 	the refinement/s		y	y
+"p2uj|#9UuR"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der nachwachsende Rohstoff/e	the renewable resource/s		y	y
+tyeTbD0CWX	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nachwachsen	to grow again, to regrow		y	y
+]%|0D!/mv	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausgesprochen	pronounced, marked(ly), exceptionally		y	y
+n<,F9&frUN	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gering, niedrig, nieder	low (3 words)		y	y
+"rI#C*foIWB"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	anspruchsvoll	demanding, challenging		y	y
+~$xb%g0uS	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Forstwirt/e	the lumberjack/s, the forester, the forest operator		y	y
+o+AiCU9kl/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zögern	to hesitate		y	y
+jo~)XIkw2,	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Ast/Äste	the branch/es, bough, limb		y	y
+m3$oZo+nOO	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Rubrik/en, die Kategorie/n	the category/-ies (2 words)		y	y
+h0}Z+d-%cZ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	anbieten	to offer, provide		y	y
+lVI:/<a.Oo	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Enkel/, das Kindeskind/er	the grandchild/-ren (2 words)		y	y
+lOt&tiUy$`	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verlobten	the betrothed, the engaged couple		y	y
+o4E{VQ4}.f	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausführlich	in detail, detailed, extensive		y	y
+g?bS.MDA$K	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Ernährung	the nutrition, the diet, the food		y	y
+h{hunc!YI[	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gängig	common, current, established	"<h3>🔸 Examples</h3>
+<ol>
+<li>
+<div>„Das ist in der Branche gängig.“<br>
+→ “That is common in the industry.”</div>
+</li>
+<li>
+<div>„Diese Redewendung ist heute nicht mehr gängig.“<br>
+→ “This expression is no longer in common use.”</div>
+</li>
+<li>
+<div>„Die gängigen Programme unterstützen dieses Format.“<br>
+→ “The usual/common programs support this format.”</div></li></ol>"	y	y
+b|_8XLPi|>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erläutern	to explain, illustrate		y	y
+o`+Hx4|WBx	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vermeintlich	alleged, supposed, putative		y	y
+jY9$x@7P{k	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	entführen	to kidnap, to carry off		y	y
+"q7G#w)XDXv"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zerlumpt	ragged, tattered		y	y
+cd*19<_2yN	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	unwirtlich	inhospitable		y	y
+hKD@a|Dop`	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw wagen	to dare sth		y	y
+n-+NO)1K7G	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ganz unten stehen	to be at the (very) bottom		y	y
+lAD4G}`86S	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Rache, die Vergeltung	the revenge, vengeance, retaliation		y	y
+jlEp$%}d1*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Dichtung/en	the gasket/s, the washer/s, the poetry, literature		y	y
+c?Ew9AukQI	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schonung/en, der Schutz	the protection/s		y	y
+bJU>Zsd-uz	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Staub saugen	to vacuum (clean)		y	y
+e[&lhcr>6@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	saugen	to suck (non-figurative!)		y	y
+bsqGLbTFF$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fliesen	to tile		y	y
+uuttSg[MP[	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	geistreich	witty, ingenious		y	y
+d>]<eh18D&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erstaunlich	amazing, astonishing		y	y
+g$U[E7i^[6	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	flüchten	to flee, escape		y	y
+q=~r/IsLlQ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Irrlicht/er	the will o' the wisp/s		y	y
+r[,q9Ty!X9	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Berührung/en	the contact/s, the touch		y	y
+oauuoQ;P8J	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Spuk	the spook, apparition		y	y
+nb%}=|Fxnl	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Spur/en	the trace/s, the track		y	y
+"vyBm0#&2a]"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Feinster Grusel!	What an absolute horror!		y	y
+dVjfQsF|9{	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	inszenieren	to stage, produce		y	y
+tzK6+Dg@~_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	anwenden	to use, apply		y	y
+gN<m+Hs0+;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ermuntern	to encourage		y	y
+GFjoTWFmj	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	durchstarten	to overshoot, to go around (aeronautical)		y	y
+"bx=!Cr#hWb"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	beherrschen	to control, to be in control of, to have a command of		y	y
+snvYk-nVF1	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm etw (akk) vorwerfen (er wirft vor, er warf vor, er hat vorgeworfen)	to accuse someone of something		y	y
+vRVbn*,9sp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Liebeskummer	lovesickness		y	y
+r?W]C|Ds8@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich an jdn/etw wenden	to contact sb/sth, to turn to		y	y
+u5o4fkcrbc	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	äußerst	extreme(ly), very		y	y
+hhPCvS[8@6	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	äußern	to express		y	y
+cf/0e~Y`[Y	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Nachwuchs	the offspring, the new blood, budding (adj. used before noun)		y	y
+l5(m$<f^.^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	störanfällig	susceptible, interference-prone		y	y
+o%~zileU=4	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	angeben	to specify, to indicate, to state		y	y
+"r?2c-d#|oL"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Wut, der Zorn, der Ärger	the anger (3 words)		y	y
+j@]U[+3]`k	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Annäherungsversuch/e	the overture/s, advance, approach (sexual)		y	y
+"7q6[Tm#22"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Kummer	the grief, the sorrow		y	y
+k|>/mY8wX}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausleben	to live out, to realize	"<li><div><strong>„Er kann seine Kreativität voll ausleben.“</strong><br>
+→ <em>“He can fully live out his creativity.”</em></div>
+</li>
+<li>
+<div><strong>„Sie lebte ihre Freiheit in vollen Zügen aus.“</strong><br>
+→ <em>“She lived out her freedom to the fullest.”</em></div>
+</li>
+<li>
+<div><strong>„In der Großstadt konnte er sich endlich ausleben.“</strong><br>
+→ <em>“In the big city, he was finally able to express himself.”</em></div></li>"	y	y
+dpqz-}[>sD	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich ausleben	to live life to the full, to live it up		y	y
+qQ)2^Sc-:}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	an einer Sache hindern	to prevent a thing, to hinder, to impede		y	y
+iM`,`BaH12	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw (akk) betragen (beträgt, betrug, betragen)	to account for sth, to amount to sth, to be (wrt. numbers)		y	y
+m{ia&;J5BL	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	kleinreden	to trivialise, to play down		y	y
+jilkZ.^i=Z	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ansteigen, (sich) erhöhen, steigern, steigen	to rise, increase		y	y
+n:t6J|}i}n	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Zins/en	the interest/ (financial)		y	y
+rE,+*UAwOg	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Zinsen bringen	to earn interest		y	y
+nl~R-{a~)s	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Anleihe/n	the bond/s (financial)		y	y
+gDDQoNkzWU	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Stimmungsumschwung	the change of mood		y	y
+m*H^KhQaRI	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich (dat) etw (akk) von jdm leihen	to borrow sth from sb		y	y
+Bd0jXI=pC	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm etw (akk) leihen (er leiht, er lieh, er hat geliehen)	to lend sth to sb		y	y
+f[>DWpikKi	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	decken, abdecken, bedecken	to cover (3 words)		y	y
+"ebH.ldW#PV"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Anleger/	the investor/s		y	y
+o?xEE5wn/0	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Vorbehalt/e	the caveat/s, the proviso, reservation/condition		y	y
+ng`~7}dPqD	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	angesichts	given, considering, in the face of		y	y
+f*~t:}+@@D	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Haftung/-	the liability/-ies (financial)		y	y
+bz|&T!WPlc	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Rendite	the return on equity, the rate of return, the yield		y	y
+irtO*/oqQ_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Platzierung (am Kapitalmarkt)	the placement (on the capital market) (financial)		y	y
+vtVO@/2Bg9	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	misslungen	failed		y	y
+cwwO}_L}x/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Beleg/e	the evidence/, receipt/s, document/s		y	y
+kMxlRY}!vp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	an jdm vorübergehen	to pass sb, to walk/go past sb		y	y
+d;tuEQ&a/_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	an jdm spurlos vorübergehen	to leave sb untouched		y	y
+hq&)HolEVS	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm reinen Wein einschenken	to come clean with sb, to tell sb the truth		y	y
+vzVkd}s2jZ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einschenken, gießen	to pour		y	y
+jk++~D1,Z%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wirksam	effective(ly)		y	y
+pDAdR(5Ed=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	eindämmen (hat eingedämmt)	to contain, curb, stem		y	y
+f1yGa-SB`.	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	dauerhaft	permanent(ly), durable, long-term		y	y
+hi)OeW`%8c	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Hebelung	the leverage (financial)		y	y
+rL3hk$LA!^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	belasten	to burden, to charge, to strain		y	y
+crLmHv690,	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Belastung/en	the load/s, the stress the burden		y	y
+hP&lFhD$:I	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Rakete/n	the rocket/s, missile/s		y	y
+mM6;7>j]+7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	weiterbilden	to study further/more		y	y
+h~CvL?JF%b	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw (akk) spenden	to donate sth		y	y
+"cOw#g<r4z<"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	um etw (akk) laufen	to walk around sth		y	y
+k5DZn<6=|3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es gilt	it is valid, it is important		y	y
+cq/JUIUlu5	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gleichgültig	indifferent		y	y
+dM_)[U?x^=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausmachen	to constitute, to make up		y	y
+bS(c&s2ryA	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abwendbar	avoidable		y	y
+"d@J?GK!!O#"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Fittich/e	the wing/s		y	y
+vbo!Ucn$Ci	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn unter seine Fittische nehmen	to take sb under one's wings		y	y
+"f#9&TM18k2"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Hindernis/se	the obstacle/s, hindrance		y	y
+l-%fBnh/*u	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	prügeln	to beat, to thrash		y	y
+xeh)U(*4O	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ergründen	to fathom		y	y
+czy@DxN[{/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Unterschlupf/Unterschlüpfen	the shelter/s, the hideout		y	y
+h/WTF:yHC4	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich (als etw / etw) ausgeben	to masquerade (as), to call oneself sth		y	y
+l@3[_3;Rz8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausgeben, aufwenden	to spend, to output, to give out (2 words)		y	y
+"l!Yf#D2?}k"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zurückschrecken	to shrink, to recoil, to cringe		y	y
+kGFd4(YR!s	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	schräg, geneigt	inclined, at a slant (2 words)		y	y
+lC8eN[sRLu	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw (akk) einrichten	to establish sth, to furnish, to make sth ready		y	y
+dqg}:54<u+	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	putzen, säubern, saubermachen	to clean (3 words)		y	y
+b$Rvs3[&o/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	räumen	to clear, to vacate		y	y
+dc36)AHy{J	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw (akk) aufräumen	to tidy sth		y	y
+"u=#<@GlhOT"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	losgehen	to start, to kick off		y	y
+iVEJ6$PiH}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Festland	the mainland		y	y
+lHSp5)g+,1	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf dem Festland	onshore, on the mainland		y	y
+q*H+0BFrtt	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Bundesgebiet/e	the federal territory/ies		y	y
+ym`VfSTi:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schulbank/Schulbänke	the school desk/s		y	y
+nKrQ.RW:$8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schulbank drücken	to attend school (colloquial expr)		y	y
+s[G|Q{3u<(	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Segeltörn/s	the sailing trip/s, the cruise		y	y
+qIY;]_,O{G	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Matrose/n, der Seemann/Seeleute, der Seefahrer/	the sailor/s, the seaman		y	y
+nW,P4|.}8Q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	geraten	advised, to turn out, to get into		y	y
+lNUFw:%j``	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zurückziehen	to withdraw, retreat, retract, pull back		y	y
+u}kWcv!0Q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich in sein Schneckenhaus zurückziehen	to retreat into one's shell		y	y
+dA<N|ApZHV	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Kajüte/n, die Kabine/n	the cabin/s		y	y
+k4hPz+U@_)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Umgang	the handling, contact, dealings		y	y
+lxT1~/`svq	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Entbehrung/en	the privation/s, deprivation, hardship		y	y
+bh;/1$Cmet	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es gestaltet sich (als) schwierig	it is difficult (imp.exp)		y	y
+oj$!xk:GR(	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	mithalten	to keep up, to keep pace		y	y
+c`c6JyWdm/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	aus einer Sache stammen	to originate from a thing, to come from, to date back to		y	y
+o%yC<Zm|s$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(sich) etw / an etw anpassen	to adapt sth / to sth, to adjust, to customize		y	y
+seM8KTFHOC	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fest	firm, tight, fixed		y	y
+sZXv<B16>N	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erachten	to consider, to deem		y	y
+nL|`P$r},m	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	meines Erachtens, meiner Meinung nach, meiner Ansicht nach	in my opinion (3 phrases)		y	y
+$tv&Cq<ji	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf der Hand liegen	to be obvious (fig.)		y	y
+cy@lZjg`Uo	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abbringen	to dissuade		y	y
+qP(.Glp?&z	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ohne Weiteres	readily, offhand, without further ado		y	y
+tDtwZtUh_O	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es geht um	it's a matter of, it concerns, it is about		y	y
+c@)}>y~yY/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Bildschirm/e	the screen/s, monitor		y	y
+"nzVqb|vV#W"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	grausam	cruel(ly), horrible, fell		y	y
+phb8l^`ErT	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	begehen	to commit, to celebrate		y	y
+tx>u|uVYro	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abstoßen	to repel, to push off, to reject		y	y
+c{DeH9[f+$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verwerflich	reprehensible, objectionable		y	y
+kXXISlWTp3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	tatenlos	inactive, idle		y	y
+pZk5[/qSD$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zusehen	to watch, to look on		y	y
+iSIDJK=xK0	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf jdn/etw zutreffen	to apply to sb/sth, to be true about sb/sth		y	y
+e34b`IscR0	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	befindlich	situated		y	y
+q=_!FpAV&/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Gesichtsausdruck/-drücke, die Mimik	the facial expression/s		y	y
+ivhTuP2Ale	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ablesen	to read, to read out, to read off		y	y
+q:QsN5i){$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	daraufhin	thereupon, as a result		y	y
+n67w|Wm7qp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm etw widmen	to dedicate sth to sb, to devote sth to sb, to pay (e.g., attention)		y	y
+t(7=%).&m~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wahrnehmen	to perceive, to notice, to sense		y	y
+o|W-w8YlJS	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	anschauen	to view, to watch		y	y
+iujeL@HSIG	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	genauer	more precise(ly), more exact, particularly		y	y
+b,9jV;^=`z	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Herrscher/, der Machthaber	the ruler/s (of a land, etc) (2 words)		y	y
+jz1dWBWmY`	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verstorben	deceased		y	y
+Nv+uXgUH3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	herausragen	to protrude, to stand out		y	y
+"ne#1Wr$KF4"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Ton/Töne, der Klang/Klänge	the sound/s, the tone		y	y
+hrzf$gz[{<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Groschenheft	the pulp magazine, pulp fiction		y	y
+n@=!lp8$FX	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sorgsam	careful(ly)		y	y
+p(Q3&s&BDo	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(sich) bewegen	to move		y	y
+hs5=EH4jj6	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Aufschluss	the information/		y	y
+nM{nc{l-AY	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verführen, verleiten	to seduce, inveigle (2 words)		y	y
+f&iJ?0:b6F	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm schmeicheln	to flatter sb		y	y
+iv)iW{)DTX	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Flakon, die Flasche/n	the bottle/s, the flask (2 words)		y	y
+m-XcK>><Am	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Plakat/e, das Poster/	the poster/s, placard (2 words)		y	y
+c2~A1kT^6F	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	würdigen, schätzen	to appreciate (2 words)		y	y
+bv:B.P.;*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw. verarbeiten	to process, to handle, to assimilate		y	y
+l%<)n_y4B?	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	umfassen	to include, to cover, to comprise		y	y
+cydY_6r7wJ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	the hallway/s (3 words)	der Flur/e, die Diele, der Gang/Gänge		y	y
+uNdl=~V8D&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einen Annäherungsversuch bei jdm machen	to make a pass at sb, try to get closer 		y	y
+bUtA|BM3i$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Vorwahlkampf/kämpfe	the (presidential) primary/-ies		y	y
+cq&F4%)uN.	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich hervortun	to excel, to distinguish oneself		y	y
+o0E+6K<j^w	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Unwissenheit, die Ignoranz, das Unkenntnis	ignorance, lack of knowledge, lack of awareness (3 words)		y	y
+M`E9sX6hp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Ruf/e	the call, the reputation		y	y
+eVr>y,n1ej	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vielmehr	rather, in fact, on the contrary		y	y
+drzmZN_bh:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	durch das Land tingeln	to tour the country, to go sightseeing		y	y
+u>};n.?nPN	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verzerren, deformieren	to distort, deform (2 words)		y	y
+"b#ab4D<Oh6"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bodenlos, grundlos	bottomless, groundless		y	y
+h3,iOZ]UW$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Bodenlosigkeit	the abyssal, groundlessness, outrageousness		y	y
+kbyn4*rWrk	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	allerhand	all kinds of, every kind of		y	y
+mT>s?nXY(7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Patzer/	the goof/s, the slip up/s		y	y
+o*@Yf`RtC8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schnitzer/	the carver/s, the blunder, the howler		y	y
+qh>^T7Bc64	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	stecken bleiben	to get stuck, to bog down		y	y
+q;__za{{sd	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auskommen	to get along, to manage, to get by		y	y
+b(6s2A|lL=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	stehenbleiben	to stop, to stay		y	y
+"rM#>$Grz,`"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Möchtegern/e	the wannabe/s, the would-be		y	y
+Rk)iy3-3/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	würdig	worthy, dignified, with dignity		y	y
+tvE?3v{LRc	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	dabei	thereby, in the process, in doing so, at the same time, with it		y	y
+mkbx])GqJ8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	poltern	to rumble, clash, bluster		y	y
+tNfa/Y3~eg	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Zeug/s	the stuff, the thing/s		y	y
+e(ypEet*:4	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erschaudern, schaudern	to shudder, shiver (2 words)		y	y
+qBMs[Z@a6D	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(ein Angebot / einen Vorschlag) unterbreiten	to submit (an offer / a proposal), to put forward		y	y
+l_B4J/kGI1	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Sünder/	the sinner/s, the transgressor/s		y	y
+p&$xR|t~vA	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Deutlichkeit, die Klarheit, die Übersichtlichkeit 	the clarity, the clearness (3 words)		y	y
+sS!q_Wn)vu	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	in aller Deutlichkeit	very clear(ly), perfectly clear, in no uncertain terms		y	y
+f>fH|*vi?X	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	entgeistert, verblüfft	aghast, dumbfounded, flabbergasted, (amazed) (2 words)		y	y
+m.QTm]U4BA	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verblüffen, erstaunen	to amaze, astound (2 words)		y	y
+lzf!*1X{C^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Stabschef/s	the chief/s of staff		y	y
+"tr#@~zG441"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Abhängigkeit/en	the dependency/-ies, dependence		y	y
+qt7_TD1;(U	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	dennoch	nevertheless, however, yet		y	y
+b`aBq=~?d&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bezüglich, hinsichtlich	with regard to, regarding, concerning, with respect to (2 words)		y	y
+q|t0l><dRj	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Beikost	the complementary food/s, the supplementary diet		y	y
+txdjuK1i3M	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Brust schwimmen	to swim breaststroke		y	y
+iZcbF[&Pa5	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm hinterhergehen, jdm folgen, jdn verfolgen	to follow sb (3 words)		y	y
+"q}#}ndMI?@"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Funke/n	the spark/s		y	y
+d;A>1bQezn	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Funken sprühen	to spark, to emit sparks		y	y
++iY>5%Y1+	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fließen (fließt, floß, ist geflossen)	to flow		y	y
+ug_+[p7H-~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schritt/e	the step/s, the crotch		y	y
+dwpqc466hA	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	reizvoll, attraktiv	appealing, attractive (2 words)		y	y
+"u268#TyVFU"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Bein/e	the leg/s		y	y
+mcV1*&4pyk	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Knochen/, das Bein/e	the bone/s		y	y
+t|F-p`&jT7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schere/n	the shear/s, scissors		y	y
+pie{J&}{U)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	leuchten	to light, to glow		y	y
+k:*ix(^?c|	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Zuversicht, das Vertrauen	confidence (2 words)		y	y
+eeG*$ag3Ae	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	kochen	to cook, to boil		y	y
+cE|wo5cega	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Lende/n	the loin/s, the sirloin, the haunch		y	y
+mQF:z;EDc0	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	glatt, reibungslos	smooth(ly) (2 words)		y	y
+iYutOE}UJt	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw verschwenden	to waste, to squander		y	y
+p__AJ`aAqs	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	hässlich	ugly		y	y
+oaJ1?Y+jCp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Himmel/	the sky/-ies, heaven/s		y	y
+p@7ol(&L].	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bleierner Himmel	leaden sky		y	y
+g.N|FPE-jw	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bedeckter Himmel	overcast sky		y	y
+qG0:;lc`X`	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verschwinden (verschwindet, verschwand, hat verschwunden), entschwinden	to disappear, to vanish		y	y
+hD8{)wDW1J	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Maß/e	the measure/s, the degree		y	y
+"l_{#Pc;z:C"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	überreichen, vorstellen, präsentieren	to present (3 words)		y	y
+OkNI9tvZ}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Letzteres trifft es wohl am besten.	That (the latter) may be the most appropriate description.		y	y
+"j9LR.k>O#y"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	im Endeffekt, letztendlich	ultimately, at the end of the day, finally (2 words)		y	y
+iRF|j3L!Ky	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	letzteres/ersteres	the latter/the former		y	y
+u)=xS[*5E	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Er ist bis über beide Ohren verliebt.	He's head over heels in love.		y	y
+q`|TFRa|;^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	over/under (adverbs), above/below (prepositions)	über/unter		y	y
+u:Db>lm2a!	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	oben, oberhalb (+ gen.) / unten, unterhalb	above / below (adverbs)		y	y
+c(~dI,@N(&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Gasse/n	the lane/s, alley		y	y
+jC1TNEzNe/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verpesten (umg.), verschmutzen	to contaminate, to pollute		y	y
+e@e~s3Y0ja	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abschaffen	to abolish, to eliminate		y	y
+hJu{.iBqK2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Abgas/e	the exhaust fume/s, the exhaust gas		y	y
+tlEKTjE]nu	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	mehrgeschossig	multi-storey		y	y
+"i!i#;kJv#d"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(sich) verfestigen	to solidify, to strengthen		y	y
+qE=^kc>u/G	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nachhaltig, zukunftsfähig, (umwelt)verträglich	"<span style="" font-style: normal; font-weight: normal;"">(environmentally)&nbsp;</span>sustainable (3 words)"		y	y
+mPu<ZGorC	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der zurückgelegte Weg/e	the road/s travelled, the progress that's been made, the distance covered		y	y
+pSE2`J|6kz	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sagenhaft	legendary, fabulous		y	y
+bttjEq]*6y	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	voller, voll von	full of, rife with (2 words)		y	y
+"uf4i(%#}D&"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Nase voll von etw haben	to be fed up with sth., to have a gut full of sth		y	y
+"b;zYi#WH(C"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	unterwegs	on the way, on the road, en route		y	y
+sZylE]vGDc	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ich bin schon unterwegs!	I'm on my way!		y	y
+kL`mt^CNT~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn heiraten, sich mit jdm. verheiraten 	to marry sb.		y	y
+hM|rVBR+%E	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Richtung/en	the direction/s		y	y
+uTK-<UjjFx	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Anwalt/wälte, der Rechstanwalt/wälte, der Jurist/en	lawyer, attorney (3 words)		y	y
+j?n{BwDHA&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Leiche/n, der Kadaver/, die Karkasse/n	the corpse/s, the dead body, the carcass (3 words)		y	y
+qLJ9=6,QM.	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	hübsch, schön	pretty, nice (2 words)		y	y
+tsH91kyu:w	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verdammen	to condemn, to damn		y	y
+h+qciJ.%lF	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	drinnen/draußen	inside/outside, indoors/outdoors		y	y
+n|M]5b/^K/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	irgendwelche	any		y	y
+fcZyEo5?t{	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	soweit	insofar as, as far as		y	y
+6_~5>Al*W	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Hals/Hälse, der Nacken	the neck/s, the throat (2 words)		y	y
+gc50P&Pf{8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Feind/e, der Gegner/	the enemy/-ies, foe (2 words)		y	y
+cB*-bNXS+8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Übel, das Böse	the evil		y	y
+h{dOAfJ[g;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Abscheu	disgust, abhorrence, abomination		y	y
+kb8oRcii<6	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abscheulich	abhorrent		y	y
+bWk(]<@nTw	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Gestalt/en	the shape/s, gestalt, character		y	y
+k:(.Bn`Z[x	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Scheusal/e	the beast/s, monster, fiend		y	y
+m&ITt7X7Fw	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	berühmt	famous, famed, renowned		y	y
+esJl.Oi@P1	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	finster	dark, sinister		y	y
+s,ty:1chmR	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Selbstüberhebung/en	the conceit/s		y	y
+nC`beB!ZKB	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verachtung	contempt, disdain		y	y
+rWxXJkx6U;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nachstehen	to be inferior		y	y
+l(W!2s6TYx	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nachstehend	below, hereinafter, hereafter		y	y
+lVq`42*Keh	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Genie, die Genialität	the genius, ingenuity		y	y
+r&:=T|[eH	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einzig	only, sole, unique		y	y
+k~0{`){r!_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Ehrgeiz	the ambition		y	y
+eW)f^2HdFi	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ohne Ehrgeiz	unambitious		y	y
+r_qSn4];>i	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	beschränken	to restrict, limit, confine		y	y
+t@94/-<b2l	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	hinterlassen	to leave behind, bequeth		y	y
+tF8NZ{Z,qZ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Flüchtige/n, der Flüchtling/er	the fugitive/s, the evader/s		y	y
+iCeiFAru]S	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	flüchtig	fugitive, volatile, fleeting		y	y
+p%LQ7DLtR]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Geruch/Gerüche, der Duft/Düfte	the odour/s, smell, scent		y	y
+o;O71**3F]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vorwegnehmen, antizipieren, erwarten, voraussehen, vorausahnen	to anticipate (5 words)		y	y
+qC|W|&Tno]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ansehen	to view, to watch, to look at		y	y
+km}xmXMNKe	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	umgehen	to go around, to avoid, to circumvent, to evade		y	y
+rQstM%w^q+	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Macke/n, der Fehler/, die Eigenart/en	the fault/s, the quirk (3 words)		y	y
+gf|{ctsRmq	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	allzu	too (much), overly		y	y
+"j!Eft#5Su4"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	offenbaren	to reveal, to disclose		y	y
+g+^c+5FDOx	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	offenbar, offensichtlich	obvious (2 words)		y	y
+i.|jSEBZ3O	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich als etw entpuppen	to turn out to be sth, to emerge as sth		y	y
+d),QO]P?LF	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Nörglerin	the one in a bad mood (negative way of talking about a woman)		y	y
+k1gc@y2U++	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Gnade/n	the mercy/-ies, the divine grace/s		y	y
+dI50+f<uIB	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wildfremd / der wildfremder	totally unknown / the total stranger		y	y
+iYH:4wk6t4	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf der Flucht vor einer Sache	on the run from something, seeking refuge from, fleeing		y	y
+mF[9A<=:QU	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Hingabe	the devotion, the dedication, the commitment		y	y
+sq:O|.IxZ7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	innig	deep(ly), heartfelt, intimate		y	y
+rkUAwCRBI2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	innigst(e), am innigsten	most intimate		y	y
+i^8~S5un4E	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Anteil/e	the share/s, proportion/s		y	y
+n;0R[cRW[J	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bis, bis zu	as far as, up to, until		y	y
+baa7;||tZ^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zu seinem Entsetzen	to one's horror, one is appalled, one is dismayed		y	y
+t7pd=_8DC9	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf etw (he)reinfallen	to be taken in by sth, to fall for sth		y	y
+rKFzm@Wyo%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Fassade/n	he facade/s		y	y
+kY)a3m2zqu	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn aufschrecken, erschrecken, Angst einjagen, jdn einen Schrecken einjagen	to scare sb, to frighten (4 words)		y	y
+k~CD:J0(1U	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Opfer/	the victim/s, the sacrifice/s		y	y
+i/Fm42wynP	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einer Sache zum Opfer fallen	to fall victim to a thing		y	y
+o_Nwu,8%t)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn einschüchtern, verschüchtern	to intimidate sb, to frighten sb		y	y
+hfliV_9,cd	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Es verdichten sich die Hinweise darauf	There is growing evidence, More hints are surfacing		y	y
+nGZ*G.$u)Q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verdichten (verdichtet, verdichtete, hat verdichtet)	to condense, to compress		y	y
+vW3[i7TvV]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm ein Fehler unterlaufen (unterläuft oder läuft unter, unterlief oder lief unter, ist unterlaufen oder untergelaufen)	an error slips in / creeps in (to someone's work)		y	y
+vhr}IVD8*u	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Anschlag gilt jdm	The attack is aimed at sb		y	y
+t~aa,@TYV~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Kauz/Käuze	the codger, strange fellow		y	y
+c}v[kw4m0*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	in der Nähe von	in proximity to, near, near by		y	y
+k38oj<6F!b	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	förmlich	formal(ly), literally, really		y	y
+b$AtvK3TE;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	an einer Sache festsaugen	to attach to a thing, to adhere		y	y
+vj<iQd>bNg	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Bedrohung/en, die Drohung/en	the threat/s, the danger/s (2 words)		y	y
+b~3^dE-_W?	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Auskunft/Auskünfte	the information, the disclosure		y	y
+mPnwc~L+)o	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Vieraugengespräch/e	the private discussion/s		y	y
+qE0O9$LNqD	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Aufhebung/en	the cancellation/s, suspension, repeal		y	y
+bKmU)i~2@O	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Ausnahmezustand/stände, der Notstand/stände, die Notlage/n	the state/s of emergency, crisis (3 words)		y	y
+GT_;Xu{N0	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich auf jdn auswirken	to affect sb, to bear on, to influence, to impinge (for negative impacts)		y	y
+c9I:o{uSu7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Empfänger/	the recipient/s		y	y
+dFVUS%Tb]~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	forschen	to research		y	y
+cbG&hso(Cu	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich über jdn/etw Gedanken machen	to be worried about sb/sth, to wonder about, to give thought to		y	y
+mBW?,_8w3$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Typ/en	the type/s, the guy/s		y	y
+bUEN)EFMLF	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(sich) streiten (er streitet, er stritt, er hat gestritten)	to dispute, argue		y	y
+qDkYmX5?K%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	lautstark	loud, vociferous		y	y
+hOj.;<u./F	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(sich) zersetzen, zerfallen	to decompose, to disintegrate (2 words)		y	y
+gM(-4V=SK-	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Nerv/en	the nerve/s		y	y
+f^i2@d_~@y	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf jdn/etw stehen	to be into sb/sth, to fancy, to go for		y	y
+"c#:!+.VvPm"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn belauern	to stalk sb, to watch sb		y	y
+qV8.jPR2~U	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn/etw umsorgen, sich um jdn/etw kümmern, sich um jdn/etw scheren (umg.)	to look after sb/sth, to care for (3 words)	"<h3>🔸 Examples</h3>
+<ol>
+<li>
+<div><strong>„Sie umsorgt ihre kranke Mutter liebevoll.“</strong><br>
+→ <em>“She lovingly takes care of her sick mother.”</em></div>
+</li>
+<li>
+<div><strong>„Das Kind wurde von den Großeltern rundum umsorgt.“</strong><br>
+→ <em>“The child was lovingly cared for by the grandparents.”</em></div>
+</li>
+<li>
+<div><strong>„Der Hund wurde vom Tierheim gut umsorgt.“</strong><br>
+→ <em>“The dog was well cared for by the animal shelter.”</em></div></li></ol>"	y	y
+gS/?ny@lyy	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich aufgehoben fühlen	to feel looked after, to feel safe		y	y
+fW%2X]KGoe	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	per Adresse, p.Adr.	care of, c/o (for addressing mail)		y	y
+"hig#rd)+J0"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	aufheben (er hebt auf, er hob auf, er hat aufgehoben)	to remove, to cancel, lift		y	y
+tB-*{3uj{(	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gut aufgehoben sein	to be in good hands		y	y
+"n^=#%${Z|H"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	"""aufgeschoben ist nicht aufgehoben"""	"""postponed is not abandoned"""		y	y
+"o.^1K##Lp:"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	kippen	to tilt, to topple		y	y
+"c6gk*{#Hn4"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ins Abseits geraten	to be marginalised, to be side-lined		y	y
+mnu}OZQSZU	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abseits einer Sache	away from a thing, off a thing		y	y
+uDf{-=F6W-	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abseits der Piste	off-piste		y	y
+s~-6+44A9b	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Abseits	the sidelines, the margins, offside (soccer)		y	y
+i(|adYyp%p	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Lebensmut	the courage to face life		y	y
+tDw/<O|e(A	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf etw zugreifen	to access sth, to take hold of sth		y	y
+qf2YPaLf)l	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw ergattern (hat ergattert)	to get hold of sth, to snatch, to manage to grab		y	y
+"k&$)fn#)1w"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	trostlos, öde	bleak, desolate		y	y
+uG_bxVaW2~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	feingliedrig	slender, gracefully built		y	y
+gKW37:UIr}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zart	tender, delicate		y	y
+tn-|asL,R]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Anmut, der Liebreiz	the grace, charm (2 words)		y	y
+"l#Q3c%Lc5c"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm auffallen (er fällt auf, er fiel auf, er ist aufgefallen)	to strike sb (i.e., sb notices sth), to attract sb's attention, to be apparent		y	y
+sg{qwOS8B5	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Vorwand/Vorwände	the pretext, the excuse, the pretence		y	y
+hv|Kw3.~sl	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich herumtreiben	to prowl, to hang around		y	y
+s~mNC3B}O/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	schreiten	to stride, to step		y	y
+sC<!`)O)nd	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausschreiten	to stride along, to step out		y	y
+o[gv%Z1|kq	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	trippeln	to trip, to scurry		y	y
+ql=4go8(xu	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	voranschreiten	to proceed, to forge ahead, to stride ahead		y	y
+f>%Q37Xo+;	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Vollkommenheit, die Perfektion, die Vollendung	perfection (3 words)		y	y
+j$wWjp6qu_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	mit etw hantieren (hantierte, hat hantiert)	to handle sth, to be busy with sth, to fiddle with sth		y	y
+qpkr;h^ubJ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Einnahme/n	the revenue/s, the taking, the income		y	y
+jCe/KuM7.S	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	kulant	accomodating, fair, obliging		y	y
+q+cCh771:]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	dicht	dense(ly), tight		y	y
+k]EPWt2~}t	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	belaubt	leafy		y	y
+g[C.Ld|Y<!	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	seinerzeit	at its time, at that time, in those days		y	y
+sl/8Ip|K,f	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ansonsten	otherwise		y	y
+p)pC%3`BeU	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw fertigbringen (er bringt fertig, er brachte fertig, er hat fertiggebracht)	to accomplish sth, to achieve, to manage		y	y
+m:Q>T@(}G+	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdn kommen lassen	to send for sb, to summon sb		y	y
+j%{we4y]`+	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich (dat) etw zuschulden/zu Schulden kommen lassen	"to do sth wrong (expr. *""to let something come to faults"")"		y	y
+k$ZQZeK]eo	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Anzug/Anzüge	the (men's) suit		y	y
+tS.Uu%.KJr	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abgeben	to make, to deliver, to hand over		y	y
+dQo:tc,U<=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	dezent, diskret, unaufdringlich	discreet, unobstrusive (3 words)		y	y
+l:Qb;bD[Jm	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(jdn in) etw verwickeln (ich verwickle, er verwicklet, er verwicklete, er hat verwickelt)	to involve (sb in) sth, to embroil sb in sth, to ensnarl		y	y
+t7*hdfEJX3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	von etw abkommen	to deviate from sth, to abandon sth		y	y
+jD-r%h%5g^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auffahren (er fährt auf, er fuhr auf, er ist aufgefahren)	to drive up, to tailgate		y	y
+kEC+AYp}u*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Fahrbahn/en	the roadway/s, the road, the carriageway		y	y
+q5$}C;N_K2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abbiegen, biegen, (sich) drehen	to turn (3 words)		y	y
+r|nf>;~%oB	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Vorfahrtsverletzung/en	not giving way, breaching the right of way rule (traffic offence)		y	y
+e!nS(ZO=W4	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	herumbasteln	to tinker		y	y
+m1/EY4Hx`c	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	neugierig	curious(ly)		y	y
+"l=kR#p$EmK"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Steuer/n	the tax/es		y	y
+b=dl562j+G	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Lenkrad/Lenkräder, das Steuer/	the steering wheel/s (2 words)		y	y
+1}kUaej2@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	allenfalls	if need be, at best, at most		y	y
+s6^sB43a~e	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Zündkerze/n	the spark plug/s		y	y
+d|*sHYDcMC	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Umlauf, der Kreislauf	the circulation (2 words)		y	y
+p&<~R9NJ|O	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	tauschen, austauschen	to exchange, to swap		y	y
+eQc=Sj@JL]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Münze/n, das Geldstück	the coin/s (2 words)		y	y
+p=YCGPCsNv	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	lagern, speichern	to store		y	y
+fnX3c]RpMy	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schein/e	the ticket/s, the bill/s		y	y
+kl1[`qdU._	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	prägen	to shape, to characterise, to mint		y	y
+fssy)}x[Sh	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Wappen/	the emblem/s, the crest, the coat of arms		y	y
+moekq>S{vB	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verzieren, dekorieren, schmücken	to decorate (3 words)		y	y
+"x#vLJ_M;i"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Spruch	the saying, the slogan		y	y
+jTs_>]l*a2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	an etw verlieren	to lose something		y	y
+"bs#dO=<ht("	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fangen	to catch, to capture		y	y
+b*NjrV]uXB	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Walzerklänge/n	the sound/s of Walzes, waltz strain/s		y	y
+s>6uBF8??U	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	heuer	this year (Southern/Austrian German)		y	y
+pF?h(v{VEd	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	loslegen	to get going, to get cracking		y	y
+vu:aOGR`$[	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw bereithalten	to have sth ready, to have sth available		y	y
+tOq3s}dTyj	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erstmalig	for the first time, first		y	y
+"k#_7@pmjmz"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Kronleuchter/	the chandelier/s		y	y
+d?Cg31bcu7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Spitzenklasse/n	the top class/es		y	y
+"qlb5hn#lL7"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	darbieten	to present, to perform		y	y
+p+&@JmmO8h	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Kittelschürze/n	the apron/s, the overalls		y	y
+j-2%7EGd1~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Ladentheke	the shop counter		y	y
+eW4f[Wl5B$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wickeln	to wrap		y	y
+h)+zj|>SC]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich abzeichnen	to stand out		y	y
+qU.4!ZCP:{	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	absehbar	foreseeable		y	y
+cwlaC-8wE{	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ablösen	to replace, to remove		y	y
+g&00P^).r*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Gewerbetreibende/n (den/dem/des Gewerbetreibenden)	the tradesman/men		y	y
+"i}#DA>hSs?"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Augenzwinkern	the wink		y	y
+j!z5Sb/4*7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Anwohner/	the resident/s		y	y
+"l^2#v:K2SL"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	durchweg	consistently, throughout		y	y
+qZ{7K)oC/~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fragwürdig, zweifelhaft	questionable, dubious (2 words)		y	y
+mz0j~P{g>G	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erweisen	to prove, to turn out		y	y
+j8~,6y3_He	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	umdenken	to rethink		y	y
+s,Ytg_:YT=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Haare zu Berge stehen	for one's hair to stand on end		y	y
+kJ9bKK0@OP	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Umfrage/n	the survey/s, the poll		y	y
+iTxz6Xdf|v	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	beeinträchtigen	to impair, to affect, to compromise		y	y
+m|cK>M0mCx	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Unglück/e	the misfortune/s, accident		y	y
+g3p@$^0vWr	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Wachstum	the growth		y	y
+shP1[Ugy[`	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bremsen	to brake, to slow down		y	y
+gg)6@PLH(:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schande	the shame, disgrace		y	y
+sxCByaY%Yo	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	stecken	to stick, to put (in)		y	y
+eTw59C./MX	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zweistellig	double-digit		y	y
+fX!CJen/A}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sparen, einsparen	to save, to economise (2 words)		y	y
+vfB_uv.8a_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verschandelung/en	the blight/s, disfigurement		y	y
+c8DbM{tU4?	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Belastigung/en	the harassment/s, the nuisance		y	y
+i1>.L?BgZV	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Flügel/	the wing/s (colloquial), the blade		y	y
+;rMv;=cMU	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Infraschall	infrasound, subsonic noises		y	y
+vuBpfe%I({	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	widerstehen, standhalten	to resist, to withstand (2 words)		y	y
+q~s?!fE8o|	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm dienen	to serve sb		y	y
+n<n,i+b|KC	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Wirkung/en	the effect/s, impact		y	y
+"d#Ok8PmJVc"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	winzig, klitzeklein	tiny, teeny-weeny (2 words)		y	y
+"mC@;D*h#)%"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	um etw (gen) willen	for the sake of sth		y	y
+uax&bz,~bF	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Leidenschaft/en	the passion/s		y	y
+mHAQm-<4%h	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bei aller etw, trotz etw (gen)	despite sth, in spite of sth (2 words)		y	y
+pdT~Z~tu=p	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bescheiden	modest(ly), humble		y	y
+dEa^}:VL2<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ungeachtet + gen	regardless of, irrespective of		y	y
+fcPj4FqMF/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	im eigenen Saft schmoren	to stew in one's own juice, to be left to one's own devices		y	y
+mz,J~UlW0{	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Hahn/Hähne	the rooster/s, the cock		y	y
+e}yHGWyoyY	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Der Hahn kräht auf dem Mist	The cock crows on the dung heap.		y	y
+?E]KFWmT]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Widder/	the ram/s, Aries (starsign)		y	y
+vs.|K/|wry	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Kaninchen/	the rabbit/s, the bunny/-ies		y	y
+pO6%tSjK<.	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Hase/n (des Hasen)	the hare/s, the rabbit		y	y
+b5Rtae3`KW	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Stier/e	the bull/s, Taurus (starsign)		y	y
+raz!z1pv@5	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	überschätzen, überbewerten	to overestimate, to overrate, to overvalue (2 words)		y	y
+"f0#WsUw.Sy"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm/etw nahestehen (er steht nahe, er stand nahe, er hat nahegestanden)	to stand close to sb/sth		y	y
+cr/-OuErf]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Trumpf/Trümpfe	the trump/s, the trump card		y	y
+e}+r__k$AZ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die besseren Trümpfe haben	to have the best assets, to have the advantage		y	y
+"vza#dnTG31"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Zwilling/e	the twin/s, Gemini (&quot;the twins&quot; - starsign)		y	y
+dZ4uS)~zH<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verhandlung/en	the negotiation/s		y	y
+nWjXy~_E|_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gutgläubig	trusting, credulous		y	y
+tNll7V+?xP	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Krebs	cancer, Cancer (starsign)		y	y
+k{+{0<I={	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verpflichtung/en	the obligation/s, the commitment		y	y
+oSbPma$o|]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Löwe/n	the lion/s, Leo (starsign)		y	y
+kw&Jiv0vrb	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Erfolg ist jdm sicher	someone's success is assured		y	y
+"khBytx#^p<"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Möglichkeit/en	the possibility/-ies		y	y
+fYkX)mdy)B	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	drohen	to threaten		y	y
+cL}}eD|Q7^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich kleinkriegen lassen	to get down, to get discouraged, to let yourself be dominated		y	y
+"k!#6ZVu_*g"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	durchsetzen	to enforce, assert		y	y
+hUyo)<4]e<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Gegenwart	the present (time)		y	y
+i*D;YGxUD*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Zukunft	the future (time)		y	y
+"jZakj#Uy*/"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Vergangenheit	the past (time)		y	y
+Y2q_UoyKQ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gegenwärtig	current, present		y	y
+"TcT_J#CDj"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Angelegenheit/en	the matter/s, the affair		y	y
+biLe{^xpAE	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Jungfrau/en	the virgin/s, Virgo (starsign)		y	y
+jb./Bv%a@@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Waage/n	the scale/s, the balance, Libra (starsign)		y	y
+rV:,L)F&th	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Skorpion/e	the scorpion/s, Scorpio (starsign)		y	y
+p_exWy&H*r	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schütze/n	the shooter/s, the archer, Sagittarius (starsign)		y	y
+i_+{^t3vCe	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm lacht das Glück	Fortune smiles/is smiling on sb		y	y
+lWz~7/9^o5	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	berühren, anfassen	to touch (2 words)		y	y
+kGs6{GR|78	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Steinbock/Steinböcke	the ibex/es, Capricorn (starsign)		y	y
+uQk[c,$emo	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Erwerb/, der Einkauf/Einkäufe	the purchase/s, the shopping		y	y
+vW8oE-B<CU	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	eine Entscheidung fällen (er fällt, er fällte, er hat gefällt)			y	
+g]YWMYS>L!	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Wassermann/männer	Aquarius (starsign), the water sprite/s		y	y
+ou<rQAu(V+	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	anstatt	instead of		y	y
+qM5m<3OEVL	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	statt dessen	instead (of that)		y	y
+in6w-srF0P	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Fisch/e	the fish/, Pisces (the fish pl.)		y	y
+le2&4JS2n>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	unternehmungslustig	entrepreneurial		y	y
+cIlzHR-D8[	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	springen	to jump, to dive		y	y
+s=>/Kx4Ucs	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ohne Gewähr	with no guarantee, without liability		y	y
+"t!Ju}Wg@=#"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw zugeben	to admit sth, confess		y	y
+rhst^{xv)Q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zustimmen, einverstanden sein	to agree		y	y
+rZxS:x!A4[	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bewegt, emotional, gefühlvoll	emotional, moving (3 words)		y	y
+fW}(aC+`qA	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ungemein	immensely, tremendous		y	y
+l8MLnnZ5h$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw mit jdm gemein haben	to have sth in common with sb		y	y
+br[>}i!77S	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gemein	mean, cruel		y	y
+k{Y6PWdqL@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Vielseitigkeit	the versatility, many-sidedness		y	y
+u6/*gA|,(:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw festhalten	to hold sth, to record		y	y
+qFs*/k(DA%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich an jdm/etw festhalten	to hold on to sb/sth, to hang on		y	y
+"sb*#=3iLGi"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	befangen, voreingenommen	biased, prejudiced		y	y
+tV`Qc|t4*r	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	self-conscious	gehemmt, befangen		y	y
+h?X83fXa*t	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schrebergarten/gärten	the garden allotment/s, the garden plot		y	y
+g%::1d2!8>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	durchblättern	to browse, to leaf through		y	y
+f[6YahLS,|	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	beiläufig	casual(ly), incidental, in passing		y	y
+gXsKzDSA&t	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	skurril	bizarre, whimsical		y	y
+pNoK(:-s8e	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	lenken, führen, leiten	to lead, to direct, to guide (3 words)		y	y
+"sC#i%C~Uya"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	anpacken	to tackle		y	y
+"nNRD(#z#df"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vereinbaren	to arrange, to agree		y	y
+iyNK;)Op-W	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	kompatibel, verträglich, vereinbar	compatible (3 words)		y	y
+lA,g?C53dP	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Erleichterung	the relief, the easing		y	y
+kUch6f~imk	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vorbeirauschen	to rush past		y	y
+"rLmcc#kmMp"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	mir ist schwindelig	I am dizzy		y	y
+kXau;8|,S&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ringsum	around, surrounding		y	y
+vlR.(Pa?wM	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	plaudern, sich unterhalten, chatten	to chat		y	y
+b|QJCk<Hx.	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	klirren	to clink, to clash		y	y
+j5RV>1S3`l	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fegen, kehren	to sweep		y	y
+n7_K$^JMIp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw unter den Teppich kehren	to sweep sth under the carpet		y	y
+"e#6X6uw72O"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Gelaber	the drivel, the babbling		y	y
+t=!zJpV`uv	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	herumtoben	to romp, to frolic		y	y
+iQy)1E=~DN	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	herauslösen	to liberate		y	y
+tZM6eEuQh_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	entfallen	to be omitted, to be dropped		y	y
+"h_%#D0FgJ8"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw ist jdm entfallen	something slipped sb's mind		y	y
+j>BBnh8=T/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vorwiegen	to predominate		y	y
+grE+qz?>W8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Sekt/	the sparkling wine/s, champagne, 		y	y
+tDOZ6~of[?	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Knabbergebäck	snack food		y	y
+fBDk6{<0*2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Teller/	the (dining) plate/s		y	y
+h`@gYFO6N2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Gabel/n	the (dining) fork/s		y	y
+k[ejt<4nFH	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Messer/	the knife/knives		y	y
+o7/}~J;uo3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Löffel/	the spoon/s		y	y
+mOzV>qS&.P	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schale/n, die Schüssel/n	the bowl/s (2 words)		y	y
+bUp9ceb:mk	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Tasse/n	the drinking cup/s		y	y
+r:,CILt1I/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Becher/	the mug/s the beaker		y	y
+"kIs3JR9u#7"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	undurchdringlich, undurchdringbar	impenetrable(-ly), impervious (2 words)		y	y
+l[]Ar?aDo<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	schier	almost, near, sheer		y	y
+"f#ile<;/w9"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Gewirr	the tangle, the maze		y	y
+dPp[aT{I;S	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verwirrung, die Konfusion	the confusion, bewilderment (2 words)		y	y
+g&|)bc88Ue	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Verwechslung	the mix-up, the confusion		y	y
+"e>,%5_#lIT"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	eifrig	eager(ly)		y	y
+js/|S)@cOM	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Nahrungsmittelunverträglichkeit	the food intolerance, the food allergy		y	y
+s~{zh`}j{T	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	umfangreich, weit, umfassend, ausgiebig	extensive (4 words)		y	y
+t@5s?(f;rE	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Ansatz/Ansätze	the approach/es, the beginning		y	y
+eJ3tM+;[.T	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich zusammenreißen	to get a grip on oneself		y	y
+n6{mr$eGF2	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	herumliegen	to lie around		y	y
+/I]BdAsXL	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zurückführen	to lead back, to restore, to reduce		y	y
+%za2WbJ9k	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Jugendtreff/en, der Jugendklub/s	the youth club/s		y	y
+e4}~M~_maQ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Bewerbungsverfahren/	the application process/es		y	y
+lkMOJ<Tw7j	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Eckfahne/n	the corner flag/s (soccer)		y	y
+nm_NzULO+$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	glücklich, zufrieden, froh, freudig	happy(-ily) (4 words)		y	y
+orh1!dao;a	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich ergießen (er ergießt sich, er ergoss sich, er hat ergossen)	to gush (water)		y	y
+eGoY!np<^G	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausstoßen	to emit, to discharge, to launch		y	y
+d}baq2c`AS	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einen Schrei ausstoßen 	to let out a yell		y	y
+h5VQ*:@v-o	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Freudenschrei/en	the shout of joy, cry of delight		y	y
+mABs6]2A}@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	schreien (er schreit, er schrie, er hat geschrieen)	to scream, to yell, to screech		y	y
+i7e0@_+pU$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ausführen	to perform, to execute, to carry out		y	y
+kwNHkaREhW	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wie es ausgeht	how it turns out		y	y
+hg_5tb:FCF	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einstellen	to set, adjust		y	y
+mc$[d|MDs^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Laie/n	the layman/laymen, the amateur		y	y
+trzx;k)+|<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	massentauglich	for the masses		y	y
+nXNR8,aJnA	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zu zweit	in twos, two of		y	y
+o[uW<YhqWO	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Dekolleté	the cleavage, the décolletage		y	y
+p>CxQauE(:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Abpfiff	the final whistle		y	y
+gfoPu;~K>{	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	folgerichtig	consequent(ly), logical		y	y
+r42wKU>cII	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	mit jdm mitfiebern	to share the thrill/excitement with someone (sport)		y	y
+toEec3ff4j	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Aufstellung/en	the list/s, the setting up, the line-up (sport), the team		y	y
+"nOQ-S2#7(,"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	randvoll, vollfüllend	brimming (2 words)		y	y
+fZ[RLS3OS:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	übersprudelnd	bubbling over		y	y
+"s60MLL8fI#"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	am selben Tag und zur selben Zeit	on the same day and at the same time		y	y
+~ueIm(Bn(	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	tippen, eintippen	to type (in)		y	y
+hbV_NElF:5	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	fischen, angeln (gehen)	to fish, (to go fishing)		y	y
+u;BI^E)IuJ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	wiedergeben	to reflect, to reproduce, to play back, to render		y	y
+r|O|IYX%Ai	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	indem (konj.), z.B.&quot;..., indem wir Strafen androhen&quot;	by/as/while + ing, verb +ing ..., e.g. &quot;... by threatening penalties&quot;		y	y
+sz9kscRm![	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	beleidigen	to offend, to insult		y	y
+pQ$97Hd}0a	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erwidern	to return (a compliment, feelings, generosity), to reply, to answer		y	y
+j=a=isZ=gc	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	hervorkramen	to dig out (information, stories, etc), to dredge up		y	y
+gdcr9z-4;*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	foltern, quälen	to torture, to torment (2 words)		y	y
+l-hDu|WINx	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	schlucken, verschlucken	to swallow		y	y
+b4GLJ7-TL$	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Tratsch, der Klatsch	the gossip		y	y
+hOQ>$*p+$I	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	stöhnen	to moan, to groan		y	y
+f@H|Wt^3|b	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jammern 	to complain, to whinge		y	y
+oSYd4/_(eV	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nörgeln	to nag, to moan		y	y
+kqX/bs$eok	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	schluchzen	to sob		y	y
+ipfUL.gHr	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	in etw nach einer Sache kramen	to rummage about in sth for a thing		y	y
+h7h/,K1,Gk	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vorübergehend	temporary (-ily), transient		y	y
+orBNcSQO~u	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	soeben, gerade	just now, just (w.r.t. recent time)		y	y
+"rN)#0{#YU8"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einreichen	to submit, to hand in, to lodge		y	y
+grXZ}MNm2z	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abschließen	to conclude, to complete (successfully)		y	y
+qC:_(_)r)*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	lästig	annoying, troublesome		y	y
+swLxxT]5(~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm lästig sein	to inconvenience sb		y	y
+M341Ln;c&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Nüchternheit	the sobriety		y	y
+l,8R<4DtFW	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nüchtern	sober, down to earth		y	y
+hFDJ&0Z}+G	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Beliebtheit	the popularity		y	y
+eDl>fk(4@	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	überbieten	to outbid, to surpass, to outdo		y	y
+k/nct6-aV[	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gängeln	to subjugate, to lead in chains, to press-gang		y	y
+"dU;(H;#&fT"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bevormunden	to patronize		y	y
+sX3O^UwU}8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etlich; etliches	quite a number of; a number of things		y	y
+cwhJpa,}yF	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Definition/en, die Festlegung/en, die Bestimmung/en	the definition/s (3 words)		y	y
+r3p>Q9$S%S	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	entziehen	to withdraw, to avoid, to take away		y	y
+kgv4{2(PCM	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sowie	as well as		y	y
+e0E-A}JF6H	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auswiegen (er wiegt aus, er wog aus, er hat ausgewogen)	to weigh out, to balance out		y	y
+ja9].@N[g=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Reduzierung/en, die Reduktion/en, die Verringerung/en	the reduction/s (3 words)		y	y
+vR!tKh12)Z	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm zur Verfügung stehen	to be available to sb, to be at sb's disposal		y	y
+d_Visxubn.	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Lehrplan/Lehrpläne, das Curriculum/Curricula	the curriculum/curricula		y	y
+"nf#jm2/>o#"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf der Stelle	on the spot		y	y
+kT<*0ktv44	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Klamotte/n	the clothes/ (col.), the clobber, the rags		y	y
+e`4%>g+DgY	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	es ist an der Zeit(!)	(it's about time!), the time has come		y	y
+"r$$BUkjr;#"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	behaupten	to claim, to maintain, to assert		y	y
+jQLbgh@k:]	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich behaupten	to assert oneself, to hold one's ground		y	y
+pbhnZlEVM=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich vorstellen, sich einbilden	to imagine		y	y
+oqTzGHZ?B6	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	unbeschadet + gen	notwithstanding, irrespective of; unscathed		y	y
+oo`g?TchmO	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf einen Sprung hereinkommen	to drop in		y	y
+iI_5-^0A^[	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	je	ever; each, every; per		y	y
+b|3Ss)?9Va	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	je nach	according to		y	y
+j:PX,]Y%23	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	je nachdem	depending on		y	y
+p|lx}0|;u~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Plädoyer	the plea		y	y
+b}~oxe;L^^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Leidensdruck/e	the psychological strain/s		y	y
+g}K?zlG<Bm	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verfressen sein	to be greedy, to be a piggy, to be a glutton		y	y
+"mo3#G0w~i|"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	umwinden (umwindet, umwand, hat umwunden)	to entwine		y	y
+lRBXvg*J>G	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	untersagen	to prohibit, to forbid		y	y
+osARfF1@9X	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Kaugummi kauen	to chew gum		y	y
+pOY<5G|-]V	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	betrügen, täuschen, hintergehen	to cheat, to deceive (3 words)		y	y
+rM0xY>F3Q}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Skizze/n	the sketch/es		y	y
+eAeAW?o)9Q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	verwalten	to manage, to administer		y	y
+vhF?<h3Q`X	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vorhanden, verfügbar	available (2 words)		y	y
+"lpgFK9w#vu"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Geistliche	the clergy		y	y
+o^%abc&Vr<	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Priester/, der Pfarrer/	the priest/s, the pastor/s (2 words)		y	y
+moxCPMQ{je	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	äähm, hmm, nun, und, ja, eben, also, tja, na ja	ahmm, now then		y	y
+k)Z!U*EjN~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	eigentlich, tatsächlich	actually, in fact		y	y
+e,lWci$|OL	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sozusagen	so to speak		y	y
+evQYreKGuJ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ich komme nicht darauf	I can't think of it		y	y
+eQ.L^Oy|af	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	mir fällt es nicht (mehr) ein	it's not coming to me (imp. exp)		y	y
+jRsO3vMB-	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Moment noch, Augenlick noch	just a moment		y	y
+iLaErlwOM5	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das ist so eine Sache	it's a bit tricky, it's a complicated state of affairs (exp)		y	y
+onSROEfgPt	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nicht wahr?, nicht?, gell?, was?, oder?	isn't it?, aren't they? (5 words)		y	y
+e~MZ+m4*3{	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ja, eben, gerade, nun, nämlich, wissen Sie	you see (6 words)		y	y
+hfAkT>2@|8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	doch	surely, after all (rejecting an actual or anticipated response)		y	y
+b{1l`[Tx,u	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	freilich	admittedly (in conv. making a concession)		y	y
+f{XN_LlcB)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bloß	part. to show something's not important		y	y
+g^/=Q=m[SD	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das ist bloß eine Kleinigkeit	that's not important		y	y
+jyg|Ri>H_l	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das ist doch bloß eine Kleinigkeit	that's really not important		y	y
+gUEn&!-JgK	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Ach so!, Ach so, ja!	I see!		y	y
+j!O[8TA.5e	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	infolge + gen	as a result of		y	y
+iu;gODJwor	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	einer Sache zufolge, nach einer Sache, laut einer Sache, einer Sache entsprechend	according to a thing		y	y
+o7;@N[Ken*	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vorzüglich, ausgezeichnet, hervorragend, exzellent	excellent, superb (4 words)		y	y
+tNXN5{?Q{K	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abgeneigt	averse, disinclined, reluctant		y	y
+f_lFah1[e7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Herkunft/Herkünfte	the origin/s, the source		y	y
+nCL<An7%dH	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Schnürsenkel-	the shoelace/s		y	y
+tb<n(16qQG	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schnürsenkel zu einer Schleife binden	to tie the shoelace in a bow		y	y
+o-;M>S/4^C	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Zähne putzen	to brush one's teeth		y	y
+c8&54?umm_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	übereinstimmen	to match, to correspond		y	y
+cu*p3[@3fl	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das T-Shirt/s	the t-shirt/s		y	y
+qiJ&F4&X&l	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Hemd/en	the shirt/s		y	y
+lgto0kMa0x	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Kleid/er	the dress/es		y	y
+nNHkGakDm8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Rock/Röcke	the skirt/s		y	y
+uLrM9MV7rt	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Socke/n	the sock/s		y	y
+q2cu|};S1P	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Unterhose/n, ein Paar Unterhosen	underpants		y	y
+l7d(js:sj3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Hose/n	pants, trousers		y	y
+oce~_>FKo~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Lebenseinstellung/en	the attitude/s to life, the outlook/s on life		y	y
+i6)JL>sA(7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	schaufeln	to shovel		y	y
+n~U*x*1IC}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schaufel/n	the shovel/s		y	y
+l)E4@iS=bw	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	eine Stellung nehmen	to take a position (on a topic)		y	y
+r7TXmo:e>h	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die äußere Erscheinung/en	the physical appearance/s		y	y
+k)akn*hs!n	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	äußere	outer, external		y	y
+e,fjAx=[:a	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	beitragen (er trägt bei, er trug bei, er hat beigetragen)	to contribute		y	y
+pd{0&On{aQ	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Gast/Gäste	the guest/s		y	y
+"i#1f~5X2uQ"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	etw. in Erfahrung bringen	to find sth. out, to come to know sth.		y	y
+sGd=_3RJm3	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Text/e	the text/s		y	y
+sq~@68GZz9	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Thema/Themen	the topic/s, theme/s		y	y
+pIp_VoxRdT	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Inhalt/e	the content/s		y	y
+f937wYSH<M	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	empfehlen, vorschlagen	to suggest, propose		y	y
+=%[c@2Z>E	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	im Großen und Ganzen	on the whole		y	y
+fs2$GzFcrm	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	in der Regel	as a rule		y	y
+kK(!Kg/@=J	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	im Allgemeinen	in general		y	y
+pq<Tab}cIG	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sonst	otherwise, apart from that		y	y
+izS:(OJ<93	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	solche Dinge, solche Sachen	such things		y	y
+seFCzTkdMt	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	darf ich Sie (mal) (kurz) unterbrechen?	can I (just) interrupt you (briefly)?		y	y
+"urSw{_1#*/"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	darf ich einhaken?	can I butt in?		y	y
+fwVxP]BcA9	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	abschließend	in conclusion		y	y
+c;=:Y30hR6	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Ich danke fürs Zuhören	Thanks for listening		y	y
+hB%BPs`a<n	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	Thema dieser Präsentation ist/lautet	the subject of this presentation is		y	y
+cVT]Y6MDc.	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	zunächst	first of all		y	y
+"lES#3v7-!m"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erstens, zweitens, drittens, viertens, fünftens	first, second, third, fourth, fifth		y	y
+dQP|/;<<pw	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	als Erstes, gleich am Anfang, in dem ersten Teil	to start with, firstly (3 words)		y	y
+j}pbVb7%dz	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	ich komme jetzt zu dem zweiten Punkt, ich gehe jetzt zu dem nächsten Punkt über	I'm coming now to the second/next point		y	y
+rM-lnRSZZ4	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das war also der erste Punkt	that was the first point		y	y
+slh^44r*r>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	sich etw (akk) senken lassen	to reduce sth		y	y
+j)I,`cNbd4	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	aus folgendem Grund	for the following reason		y	y
+r?.ahJL}@)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	im Folgenden	in the following, below, hereafter		y	y
+t^)P,a-%b7	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(sich) Sorgen machen, (sich) beunruhigen	to worry		y	y
+q&Hno`_&@}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Zusammenbruch, der Einsturz	the collapse (2 words)		y	y
+m%y,c3R1z_	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Absturz/Abstürze, der Unfall/Unfälle	the crash/es, the accident/s		y	y
+qvy*lCL}*6	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bestätigen	to confirm		y	y
+b=XYMmg@FY	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	in gehobenem Rahmen	in high-quality surroundings		y	y
+fvm@E9FfdP	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gepflegt	well looked after		y	y
+gKs_+Sv@5m	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Votum/Voten, die Stimme/n	the vote/s		y	y
+g%ZN>>JEsw	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der leitende Angestellte/die leitenden Angestellte	the senior manager/s, the executive/s		y	y
+hsmSW;5qod	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Fehlgriff/e, der Fehler/, der Irrtum/Irrtümer	the mistake/s (3 words)		y	y
+k:i[=ZMIR9	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das (Staats)Budget/s, (der Staatshaushalt/e)	the (national/state) budget/s		y	y
+dt[Fr/hVoq	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	jdm gehorchen	to obey sb		y	y
+sY)Z[jx>O%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auf eigene Faust	on one's own, off one's own bat		y	y
+p1^hrgzFK,	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	tollpatschig, unbeholfen, ungeschickt, plump	clumsy, awkward (4 words)		y	y
+d*f{d`nz3T	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(sich) bei jemandem sein Herz ausschütten	to pour one's heart out to someone		y	y
+o>Vb~n@*>A	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	erwähnen	to mention		y	y
+saKD4%mja=	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(sich) beschleunigen, Gas geben, schneller werden	to accelerate, to speed up (3 words)		y	y
+hJ4s|U}E(^	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	angereichertes/abgereichertes Uran	enriched/depleted uranium		y	y
+k}}K$s9@lD	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	(bei jdm) auf Granit beißen	nichts mit seiner Bitte (bei jdm) zu erreichen, to bang one's head against the wall, to have no chance (with sb)		y	y
+noc8%9dlLs	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vertraut	familiar, trusted		y	y
+cxoIT>,-WR	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Eigenschaft/en	the property/-ies, the characteristic		y	y
+lrIri?o9<%	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Vorzeichen/ (mathematik)	the sign/s (maths)		y	y
+rg7Z7uL;E}	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	knackig	crisp(y), crunchy		y	y
+e`RL5pL<$I	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	vorausgesetzt	provided (that), required, assumed		y	y
+k-puPJ![oY	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die tragende Säule/n	the main pillar/s		y	y
+n}}LHK-PDq	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	grundlegend	fundamental		y	y
+gf|)R(E<Yh	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Hand/Hände	the hand/s		y	y
+nyHW&(UOv0	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Finger/	the finger/s		y	y
+gpX,cfP}9R	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Arm/e (körp.)	the arm/s (body)		y	y
+pW,Pxi`lPV	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Kopf/Köpfe	the head/s		y	y
+BsiLIv6K:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schulter/n	the shoulder/s		y	y
+q,pZU/^>0O	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Brust/Brüste	the breast/s, chest		y	y
+"pgaTBVDZf#"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Magen/Mägen, der Bauch/Bäuche	the stomach/s, the belly/-ies (2 words)		y	y
+u>`/qX%b)G	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	eine Stange Geld	a wad of money		y	y
+hdLB7T`obF	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Stange/n	the rod/s, the bar/s, pole		y	y
+bz<kHg/;xu	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Energieerhaltungssatz	the principle of conservation of energy		y	y
+b&B5nE~a@c	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Pendant/s	the counterpart/s, the equivalent/s		y	y
+I7(4>rAg5	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Kreditklemme/n, die Kreditverknappung/en	the credit crunch/es		y	y
+"H#8:F-!~B"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Klemme/n	the clamp/s, terminal/s		y	y
+u:eF!VO`vR	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	klettern	to climb, to rock-climb		y	y
+q)xTyod[2A	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	nahe legen	to suggest, to indicate		y	y
+ux65]pSw0-	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Knete (umg.)	the dough (inf.), the loot (money)		y	y
+t@M+CFFGvp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	blechen (umg.)	to fork out (money), to cough up, to pay		y	y
+"vOSiLe#iO1"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Haufen/	the heap/s, the bunch/es		y	y
+qq93|/_k4&	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	von daher	as a result, consequently, therefore		y	y
+r[Os1(VQ5-	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gewöhnungsbedürftig sein	to need getting used to, to take getting used to		y	y
+f89Asj)2zp	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	reichlich, reich	rich(ly), abundant (2 words)		y	y
+n^*Yl;WM*>	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	genügend, reichlich	plenty of, ample (2 words)		y	y
+e)2fdvUVEV	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	auch und vor allem	&quot;also, and in particular&quot;, above all		y	y
+sxUT:~H],N	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Couch, das Sofa/s, das Kanapee	the couch/es, the sofa		y	y
+ibGgyok*4/	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Kniesehne/n	the hamstring/s		y	y
+li1Y4DL|.~	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Quadrizeps	the quadriceps		y	y
+n((}fvKE[r	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Oberschenkel/	the thigh/s		y	y
+tI!Ir8K*9q	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Gesäß/ (umg.), der Hintern, der Po/	the buttock/s (coll. but not vulgar) (3 words)		y	y
+"/K#{JGgC&"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	das Knie/	the knee/s		y	y
+qIBmp=mG+:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	am Stock daherkommen (z.B.) „Meine kleine Tochter schläft keine Nacht durch! Jede Nacht muss ich zwei Mal aufstehen und sie füttern. Wenn das so weitergeht, komme ich bald am Stock daher!“	sehr müde werden/sein (als Umgangsprache)		y	y
+f_rpUS*-5G	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	bang(e) -&gt; mir ist bange vor ihm	scared, anxious, frightened -&gt; I'm afraid of him		y	y
+"eJ#I@r?:U:"	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	die Schabe/n	the cockroach/es		y	y
+r|dj+pOgc:	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	hopfen, hüpfen	to hop, to skip		y	y
+r}x&j4v3I)	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	der Hüpfer/, der Sprung/Sprünge	the hop/s, the skip/s, the jump/s		y	y
+f%>RX6B~<8	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	gierig, gefräßig	greedy, voracious (2 words)		y	y
+cW->ccRs?B	Basic-486c8	- German - B2::German - Lesetraining B2 Wortschatz	geldgierig, habgierig, habsüchtig	avaricious, greedy (3 words)		y	y
+C!.]&7ML,]	Basic-3f252	- German - B2::German - Lesetraining B2 Wortschatz	"jdm. den letzen Nerv rauben, z.B. ""Das raubt mir den letzen Nerv"""	"to get on someone's nerves, to strain someone's nerves, e.g., ""It's getting on my nerves!"""			
+"q#n3IsIUEg"	Basic-3f252-cdfc1	- German - B2::German - Lesetraining B2 Wortschatz	schmunzeln	"<span style="" font-style: normal; font-weight: normal;"">to smile</span>, to have a wry grin&nbsp;"			
+eNH,7zA|hT	Basic-3f252-cdfc1	- German - B2::German - Lesetraining B2 Wortschatz	über jdn. lächeln	to smile at sb.			
+HCt9QKwERv	Basic-3f252-cdfc1	- German - B2::German - Lesetraining B2 Wortschatz	der Fußballen/	the ball/s of the foot			
+byzMu/gigA	Basic-3f252-cdfc1	- German - B2::German - Lesetraining B2 Wortschatz	entzündeter Fußballen /&nbsp;entzündete Fußballen	bunion/s			
+BbSQE^y,ry	Basic-3f252-cdfc1	- German - B2::German - Lesetraining B2 Wortschatz	in Empfang nehmen	"to receive (3 word phrase with ""to take"")"			
+m,yd$$5>&x	Basic-3f252-cdfc1	- German - B2::German - Lesetraining B2 Wortschatz	der Spitzname/n	the nickname/s			
+E(TbqUqiV.	Basic-3f252-cdfc1	- German - B2::German - Lesetraining B2 Wortschatz	untergeordnet, dienstbar, untertänig	subordinate, subservient (3 words)			
+K=p;4Sqt{h	German	- German - B2::German - Lesetraining B2 Wortschatz	vorstoßen auf etw	"<span style="" font-style: normal; font-weight: normal;"">to push forward towards sth.,&nbsp;</span>to attack sth"			
+jyw39Hk?X}	German	- German - B2::German - Lesetraining B2 Wortschatz	angreifen, attackieren	to attack			
+ipA_;LG(L1	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	der Stadtrand - am Stadtrand von	the outskirts - on the outskirts of			
+;]}9u|alI	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	in Ordnung kommen	to be put right, to be put in order, to turn out OK			
+u^klqEwOlf	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	sich widersetzen	to oppose, to defy			
+"r.%_7H58m#"	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	"<span style="" font-style: normal; font-weight: normal;"">jdn&nbsp;</span>belügen (<span style="" font-style: normal; font-weight: normal;"">belügt, belog, hat belogen)</span>"	to lie to sb.			
+t+vVqe_]<W	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	niederträchtig	vile, rotten			
+ln_fsP{f3:	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	treulos	unfaithful, disloyal			
+k%wh^JoB|B	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	der Feigling/e	the coward/s			
+huP(:AL4C5	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	verbluten	to bleed to death			
+k9{92y^b:!	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	bahnbrechend	groundbreaking, epoch-making			
+jMwVYNnQLM	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	bahnbrechendes (für etw) leisten	to break new ground, to achieve groundbreaking results for sth			
+D1@ShOh8.h	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	ungeheuerlich	outrageous, monstrous			
+M-7jOH)X~v	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	das Ungeheuer/	the monster/s			
+L&WYW/>m9D	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	das&nbsp;Geschmeiß	the vermin, the dregs, the bugs			
+u@:jAa>~{y	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	erdenklich	conceivable, imaginable			
+d0XDDMe8[[	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	der Widerstand	the resistance, the obstacle			
+CeGk&/qG:7	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	ertrinken, ersaufen	to drown (2 words)			
+flbH^Ss}t6	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	sich (dat.) eine Kugel in den Kopf jagen	to blow one's brains out			
+Oq]_>G.bko	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	etw. durchbrechen (durchbricht, burchbrach, durchbrochen). e.g.,&nbsp;Er fuhr mit dem LKW auf die Polizeiwagen zu und durchbrach die Barriere;&nbsp;Die Armee durchbrach die feindlichen Linien.	to break through sth and thereby destroy it and come out the other side.			
+gM7LjaN_{B	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	durchbrechen (bricht durch, brach durch, durchgebrochen), e.g., Erst sah man nur Wolken, doch dann brach ein Lichtstrahl durch.&nbsp;	to break into two pieces, to come through, to appear suddenly			
+k^6hP.@7KD	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	die Zwangseinweisung	the compulsory hospitalisation			
+HUGCC>l/VH	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	etwas an die große Glocke hängen	to shout sth out to the whole world, to make sth public knowledge (colloquial expression)			
+eK%nLwhGkP	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	(sich) demütigen&nbsp;	to humble (oneself), to humiliate			
+l?A_M5[/eH	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	gedemütigt	humiliated (&gt;90%), humbled			
+"KQ7Gu|B#ca"	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	quirlig, lebendig, lebhaft, spritzig	lively, bubbly (4 words)			
+"PnCk#>z=Ry"	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	im Nu	in no time, in a flash			
+m$jDR}f8p$	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	der Slauch/Schläuche	the hose/s, the tube			
+"Ewu-2bCab#"	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	die Augen über etw. verdrehen	to roll one's eyes at/over something			
+GM]~q9<*%U	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	die Verlosung/en	the raffle/s, draw			
+PwOv5:iYu]	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	Der Chirurg/en	the surgeon/s			
+lmrrBaDov.	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	etw nachvollziehen	to comprehend sth, to follow, to keep track of, to reconstruct			
+g`F/-oI=1M	Einfach	- German - B2::German - Lesetraining B2 Wortschatz	ansehnlich	considerable, good-looking, respectable			
